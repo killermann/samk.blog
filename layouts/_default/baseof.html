@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en-us" }}">
+<head>
+	<style>html{visibility: hidden; opacity:0;}</style>
+	<script>
+	let root = document.documentElement;
+	if(localStorage.getItem("colorScheme")==="night") {
+		root.style.setProperty('--bg-color', 'black');
+		root.style.setProperty('--text-color', '#ddd');
+		root.style.setProperty('--bg-faint', '#222222');
+		root.style.setProperty('--bg-mask', 'rgba(0,0,0,.78)');
+	} 
+	</script>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	{{ partial "seo-schema" . }}
+	<title>{{ block "title" . }}{{ if .IsHome }}It's Pronounced Metrosexual: Gender, Sexuality, & Social Justice{{ else if .Params.seo_title }}{{ .Params.seo_title }} ❤ {{ .Site.Title }}{{ else }}{{ with .Params.Title }}{{ . }} ❤ {{ end }}{{ .Site.Title }}{{ end }}{{ end }}</title>
+	<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else if .IsPage}}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="375">
+	<meta name="viewport" content="width=device-width,minimum-scale=1">
+	{{ hugo.Generator }}
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}style.css">
+	{{ block "favicon" . }}
+	{{ partial "site-favicon.html" . }}
+	{{ end -}}
+	<!-- Facebook Open Graph -->
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="{{ if .IsHome }}It's Pronounced Metrosexual: Gender, Sexuality, & Social Justice{{ else }}{{ .Title }} ❤ {{ .Site.Title }}{{ end }}"/>
+	<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
+	<meta property="og:site_name" content="{{ .Site.Title }}"/>
+	<meta property="og:url" content="{{ .Permalink }}"/>
+	<meta property="og:locale" content="en">
+	{{- if .Params.og_image }}
+	<meta property="og:image" content="{{ .Params.og_image | absURL }}"/>
+	<meta property="og:image:secure_url" content="{{ .Params.og_image | absURL }}"/>
+	{{ else if .Params.featured_image }}
+	<meta property="og:image" content="{{ .Params.featured_image | absURL }}"/>
+	<meta property="og:image:secure_url" content="{{ .Params.featured_image | absURL }}"/>
+	{{ else }}
+	<meta property="og:image" content="{{ .Site.Params.og_image | absURL }}"/>
+	<meta property="og:image:secure_url" content="{{ .Site.Params.og_image | absURL }}"/>
+	{{ end -}}
+
+	<!-- Twitter Card Meta -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@actuallymetro">
+	<meta name="twitter:creator" content="@Killermann">
+	<meta property="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
+	{{- if .Params.og_image }}
+	<meta property="twitter:image" content="{{ .Params.og_image | absURL }}"/>
+	{{ else if .Params.featured_image }}
+	<meta property="twitter:image" content="{{ .Params.featured_image | absURL }}"/>
+	{{ else }}
+	<meta property="twitter:image" content="{{ .Site.Params.og_image | absURL }}"/>
+	{{ end -}}
+
+	{{ if .RSSLink }}
+	<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+	<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+	{{ end }}
+</head>
+
+<body class="{{ .Kind }}-body {{- with .Params.body_class}} {{ . }}{{ end -}}" >
+	<a class="skip-link screen-reader-text" href="#main">Skip navigation &darr;</a>
+	<div id="page">
+		{{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}	
+		<div id="primary" class="content-area">
+			{{ partial "marquee" . }}
+			<span id="main" tabindex="-1"></span>
+			<main class="main pad" role="main">
+				{{ block "main" . }}{{ end }}
+			</main>
+		</div>
+		{{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
+	</div><!--/page-->
+	{{ partial "svg-icons" }}
+	<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+	<script async data-no-instant src="/scripts-dist.js"></script>
+</body>
+
+</html>

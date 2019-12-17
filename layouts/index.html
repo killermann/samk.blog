@@ -1,0 +1,16 @@
+{{ define "main" }}
+<style type="text/css">
+
+</style>
+
+<article>
+	{{ .Content }}
+</article>
+<section class="section-main">
+	<div class="loop">
+		{{ range first 10 (where site.Pages "Type" "post" ) }}
+			{{ partial "card.html" . }}
+		{{ end }}
+	</div>
+</section>
+{{ end }}

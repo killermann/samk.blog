@@ -1,0 +1,22 @@
+<nav role="navigation" class="header-nav">
+
+	
+	<ul id="menu" class="site-sections">
+		{{ partial "i18nlist.html" . }}
+		{{ $url := .URL }}
+		{{- if .Site.Menus.main }}
+			{{- range .Site.Menus.main }}
+			<li>
+				<a id="nav-{{ .Name | urlize }}" class="section-link {{- if eq $url .URL }} active{{ end -}}" href="{{ .URL }}" title="{{ .Name }}" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: '{{ .Name }}'});">
+					{{ if .Pre }}
+						{{ .Pre }}{{ .Name }}{{ .Post }}
+					{{ else }}
+						<span>{{ .Name }}</span>
+					{{ end }}
+				</a>
+			</li>
+			{{ end -}}
+		{{ end -}}
+	</ul>
+	
+</nav>

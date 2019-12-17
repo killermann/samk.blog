@@ -1,0 +1,7 @@
+<nav id="breadcrumbs" aria-label="Breadcrumb">
+  <a href="/" >Home</a> » 
+  {{ if .Params.categories }}
+    <a href="/categories/{{ index .Params.categories 0 | urlize }}" title="All {{ index .Params.categories 0 }} Posts">{{ index .Params.categories 0 }}</a> » 
+  {{ end }}
+  <span class="breadcrumb_last" aria-current="page">{{ .Title }}</span>
+</nav>

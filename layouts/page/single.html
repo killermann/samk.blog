@@ -1,0 +1,20 @@
+{{ define "header" }}{{ partial "site-header.html" . }}{{ end }}
+{{ define "main" }}
+
+<article class="text-wrap format-page">
+	<header class="entry-header">
+		<h1 class="page-title">{{ .Title }}</h1>
+	</header><!-- .entry-header -->
+	{{ if .Params.featured_image }}
+	<div class="post-thumbnail chameleon-bg">
+		<img src="{{ .Params.featured_image }}" alt="" />
+	</div>
+	{{ end }}
+
+	<div class="entry-content type-wrap">
+		{{ .Content }}
+	</div><!-- .entry-content -->
+
+</article>
+
+{{ end }}

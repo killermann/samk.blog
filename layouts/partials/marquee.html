@@ -1,0 +1,36 @@
+<div id="marquee">
+
+  {{ if .IsHome }}
+  <div id="marquee--latest">
+    <article class="marquee-post">
+      <a alt="Overthinking everything so you don't have to." href="https://www.samkillermann.com/overthinking-everything-so-you-dont-have-to/" rel="bookmark">Overthinking everything so you don't have to.</a>
+      <svg id="speech-bubble" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 11.53"><title>speech-bubble-arrow</title><path d="M0,0H20s-3.78,5.51-8,8C6.61,11.18,0,13,1,10S9,0,0,0Z"/></svg>
+    </article>
+  </div>
+  {{ else }}
+  <div id="marquee--latest">
+    {{ range first 1 ( where site.Pages "Type" "post" ) }}
+    <article class="marquee-post">
+      <strong>Latest:</strong> <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+      <svg id="speech-bubble" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 11.53"><path d="M0,0H20s-3.78,5.51-8,8C6.61,11.18,0,13,1,10S9,0,0,0Z"/></svg>
+    </article>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ if eq .Kind "page" }}
+    {{ partial "breadcrumb" . }}
+  {{ end }}
+  <div class="flex align-center">
+    <a class="button" href="/subscribe" title="Subscribe to the Blog">Subscribe</a>
+
+    <div id="day-or-night" class="color-scheme">
+      <button id="day-mode" title="Day Mode">
+        <svg><use xlink:href="#icon-sun"></svg>
+      </button>
+      <button id="night-mode" title="Night Mode">
+        <svg><use xlink:href="#icon-moon"></svg>
+      </button>
+    </div>
+  </div>
+</div><!--/marquee-->

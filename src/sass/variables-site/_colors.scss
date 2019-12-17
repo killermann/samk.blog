@@ -1,0 +1,44 @@
+$blue:				#4356ff;
+$light-blue:	#4ecaff;
+$green:				#40ae49;
+$light-green:	rgb(166, 231, 97);	
+$yellow-green:rgb(208, 224, 28);
+$orange:			#ff8229;
+$light-orange:#ffb516;
+$bright-red:	#ff5739;
+$red:					#ff3737;
+$pink: 				#FF529D;
+$violet:			#7948ff;
+$fuschia:			#f82eff;
+$purple:			rgb(189, 102, 255);
+$teal:				#00c9b5;
+$grey: 				#9c9c9c;
+
+$color__primary: $purple;
+
+:root {
+	--bg-color: #fff;
+	--bg-faint: #eaeaea;
+	--bg-mask: rgba(255,255,255,.7);
+	--text-color: #000;
+	--text-color-reverse: #fff;
+}
+
+$color__background-body: var(--bg-color);
+$color__background-faint: var(--bg-faint);
+$color__background-screen: #f1f1f1;
+$color__background-hr: #ccc;
+$color__background-button: #e6e6e6;
+$color__background-pre: #eee;
+$color__background-ins: #fff9c0;
+
+$color__text-screen: #21759b;
+$color__text-input: #666;
+$color__text-input-focus: #111;
+$color__link-hover: lighten($color__primary,20%);
+$color__text-main: var(--text-color);
+
+$color__border-input: #ccc;
+$color__border-abbr: #666;
+
+::selection {background: lighten($teal,20%);}

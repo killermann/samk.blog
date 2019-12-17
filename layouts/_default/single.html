@@ -1,0 +1,63 @@
+{{ define "header" }}
+{{ partial "site-header.html" . }}
+{{ end }}
+{{ define "main" }}
+<article class="wrap {{ if .Params.format }}format-{{ .Params.format }}{{ else }}format-standard{{ end }}">
+
+	<header class="entry-header">
+		<div class="entry-header-text">
+			<h1 class="entry-title">{{ .Title }}</h1>
+			{{ if .Params.excerpt }}
+			<p class="excerpt">{{ .Params.excerpt }}</p>
+			{{ end }}
+			<div class="byline">
+				<a href="/categories/{{ index .Params.categories 0 | urlize }}" title="All {{ index .Params.categories 0 }} Posts">{{ index .Params.categories 0 }}</a>  <span class="author vcard">by <a class="url fn n" href="/about/sam-killermann/" title="About the Author">{{ .Params.author }}</a></span>
+			</div>
+		</div>
+		{{ if .Params.featured_image }}
+		<div class="post-thumbnail">
+			<img src="{{ .Params.featured_image }}" alt="" />
+		</div>
+		{{ end }}
+	
+	</header><!-- .entry-header -->
+
+	<section class="entry-content text-wrap">
+		{{ .Content }}
+	</section><!-- .entry-content -->
+	<footer class="entry-footer text-wrap">
+		{{ range .Params.categories }}
+		<span class="cat-links"><a href="/categories/{{ . | urlize }}">{{ . }}</a></span>
+		{{ end }}
+		{{ range .Params.tags }}
+		<span class="tags-links"><a href="/tags/{{ . | urlize }}">{{ . }}</a></span>
+		{{ end }}
+	</footer>
+
+</article>
+
+<div id="heart-sK">
+	<a href="https://www.samuelkillermann.com" title="Created by Sam Killermann" target="_blank" rel="noreferrer noopener"><svg class="animated-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133.83 66.6"><path stroke-width="5" fill="none" id="heart" d="M22,36.39S20.5,26.67,11.64,23.5s-12.6,3.94-3,16.8S23.61,63.9,23.2,54.23,22.48,20.75,34.14,9.61C43.25.9,51.06,5.09,50.45,17.53c-.76,15.4-20.05,37.6-20.05,37.6"/><path stroke-width="5" fill="none" id="sK" d="M63,36.06a15.16,15.16,0,0,0-11-5.5C44,30.15,37.8,37,54.4,49.41s-19,22.07-11.93,4.84C46.05,45.53,58.78,34.86,64.77,24,71.94,11,74.91-2.56,73.24,5.35c-3.07,14.52-3.71,54.27-3.13,51.17,4.08-21.92,33.81-52.2,31-50.35S69.39,35.07,74.91,33.64,129,21.09,130.83,24.16"/></svg></a>
+</div>
+<div id="footer-feedburner" class="text-wrap bigpad">
+	<div class="inner">
+		<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow">
+			<h2 class="chameleon-color">Do you want new posts in your inbox?</h2>
+			<p>I can make that happen. We have the technology. Just don't expect a bunch of emails from me.</p>
+			<label for="feedburner-email">Drop your email here 👇<br/></label>
+			
+			<input type="hidden" value="samkillermannblog" name="uri"/>
+			<input type="hidden" name="loc" value="en_US"/>
+			<div class="flex">
+				<input class="chameleon-border" aria-label="Enter Email" id="feedburner-email" placeholder="youre@awesome.bud" type="email" name="email"/>
+				<input type="submit" aria-label="Sign me up" class="button" value="Sign me up." />
+			</div>
+			<p class="description">Delivered free and with zero advertising by <a href="https://feedburner.google.com/fb/a/mailverify?uri=samkillermannblog&amp;loc=en_US" target="_blank">FeedBurner</a>. Seriously. Ads are poison. Other <a href="https://samkillermann.com/subscribe" title="Other subscription options">subscription options here</a>.</p>
+		</form>
+	</div>
+	<div class="icon">
+		<svg class="chameleon-color"><use xlink:href="#icon-prescription-bottle-alt"></svg>
+	</div>
+</div>
+
+{{ end }}
