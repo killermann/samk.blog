@@ -1,4 +1,4 @@
-baseURL = "https://samkillermannblog.netlify.com"
+baseURL = "https://samkillermannblog.netlify.com/"
 languageCode = "en-us"
 title = "Sam Killermann's Blog"
 enableRobotsTXT = true
@@ -17,7 +17,7 @@ summaryLength = 40
 	author_patrons_count = 15
 	site_patrons_count = 27
 	email_list_url = "https://app.convertkit.com/landing_pages/402557?v=7"
-	description = "Learn about gender, sexuality, & social justice with Sam Killermann. Your free online resource for everything from genderbread people to LGBTQ vocabulary."
+	description = "Killermann is the author of several books, and his global justice resources are viewed and downloaded by millions of people every year. Here, he blogs."
 	og_image = "/img/sK-social-card.png"
 
 [social]
