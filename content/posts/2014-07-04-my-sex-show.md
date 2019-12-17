@@ -38,11 +38,7 @@ Below is a little video we put together that might help make it all make sense.
 </div>
 
 <div class="youtube">
-  <iframe src="http://player.cinchcast.com/?platformId=1&assetType=single&assetId=6633533" width="640" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p> 
-  
-  <div style="font-size: 10px; text-align: center; width: 640px;">
-    Find Additional Lifestyle Podcasts with <a href="http://www.blogtalkradio.com/dennistardan" rel="nofollow">DennisTardan</a> on BlogTalkRadio
-  </div>
+  <iframe src="https://player.cinchcast.com/?platformId=1&assetType=single&assetId=6633533" width="640" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p> 
 </div>
 
  [1]: http://www.blogtalkradio.com/dennistardan/2014/07/03/s0514-a-conversation-with-sam-killermann
