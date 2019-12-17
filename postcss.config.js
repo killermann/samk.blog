@@ -2,7 +2,7 @@ module.exports = {
 	plugins: {
     '@fullhuman/postcss-purgecss': {
       content: ['layouts/**/*.html'],
-      whitelist: []
+      whitelistPatternsChildren: [/color/]
     },
 		autoprefixer: {
 			browsers: [

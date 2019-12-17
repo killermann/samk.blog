@@ -64,7 +64,7 @@
 	{{ end }}
 </head>
 
-<body class="{{ .Kind }}-body {{- with .Params.body_class}} {{ . }}{{ end -}}" >
+<body class="{{ .Kind }}-body {{- with .Params.body_class}} {{ . }}{{ end -}} color1" >
 	<a class="skip-link screen-reader-text" href="#main">Skip navigation &darr;</a>
 	<div id="page">
 		{{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}	
