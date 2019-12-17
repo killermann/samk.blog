@@ -28,4 +28,4 @@ The bigger the event, or the more meaningful it is to me, the more intense the i
 
 Maybe in a year or two, or a few hundred more trips, I&#8217;ll shake this thing and be able to sleep the night before I hit the road. It&#8217;d be nice, but then when would I find time to rewatch seasons of _Futurama_?
 
- [1]: http://samkillermann.wpengine.com/hiding-behind-a-keyboard/ "Hiding Behind a Keyboard: The Terror of the Unknown"
+ [1]: //hiding-behind-a-keyboard/ "Hiding Behind a Keyboard: The Terror of the Unknown"

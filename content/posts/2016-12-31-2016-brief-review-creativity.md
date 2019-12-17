@@ -34,7 +34,7 @@ So, with that said, following is what I finished, published, and/or created in
 [**hues**][1], the global justice collective that I co-founded and now houses me as an employee, was born. That&#8217;s no small cookie. Granted, it came out of the oven a little underdone, but that just makes for a gooey center, right?! </end cookie analogy> Hues was launched, but I also learned early that [hues would never be &#8220;launched,&#8221;][2] a perspective I carried into my other projects this year.
 
 <div class="wp-block-image">
-  <figure class="alignright"><a href="http://facilitating.xyz"><img data-src="http://samkillermann.wpengine.com/wp-content/uploads/2015/10/facxyz-social-card-300x158.png" alt="" class="wp-image-876 lazy-load" srcset="/wp-content/uploads/2015/10/facxyz-social-card-300x158.png 300w, /wp-content/uploads/2015/10/facxyz-social-card-768x404.png 768w, /wp-content/uploads/2015/10/facxyz-social-card-1024x539.png 1024w, /wp-content/uploads/2015/10/facxyz-social-card.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
+  <figure class="alignright"><a href="http://facilitating.xyz"><img data-src="//wp-content/uploads/2015/10/facxyz-social-card-300x158.png" alt="" class="wp-image-876 lazy-load" srcset="/wp-content/uploads/2015/10/facxyz-social-card-300x158.png 300w, /wp-content/uploads/2015/10/facxyz-social-card-768x404.png 768w, /wp-content/uploads/2015/10/facxyz-social-card-1024x539.png 1024w, /wp-content/uploads/2015/10/facxyz-social-card.png 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
 </div>
 
 **[FacilitatingXYZ][3]**, a free online resource with videos, articles, and downloads for facilitators (and a collaboration with Meg Bolger, Kaleigh Conelison and lots of others), officially launched this year, after an abandoned Kickstarter and &#8220;back to the drawing board&#8221; period last year. Read more about that in [this blog post I wrote about it][4].
@@ -108,7 +108,7 @@ Happy 2017.
  [1]: http://hues.xyz
  [2]: https://medium.com/hues-advisory-briefing/failure-to-launch-reframing-new-initiatives-1050eae3aae0#.c74hizolr
  [3]: http://facilitating.xyz
- [4]: http://samkillermann.wpengine.com/why-im-so-excited-about-facilitatingxyz/
+ [4]: //why-im-so-excited-about-facilitatingxyz/
  [5]: http://medium.com/kinda-political
  [6]: http://karenrayne.com
  [7]: http://itspronouncedmetrosexual.com/2016/05/sexualitree-model-of-comprehensive-sexuality/
@@ -119,5 +119,5 @@ Happy 2017.
  [12]: http://iheartsingularthey.com
  [13]: http://sexualtiree.org
  [14]: http://itspronouncedmetrosexual.com/genderbread-person
- [15]: http://samtalkto.us
+ [15]: https://samtalkto.us
  [16]: http://open.hues.xyz

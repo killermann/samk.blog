@@ -12,7 +12,7 @@ dsq_thread_id:
   - 2026006903
 photo:
   - |
-    That's a photo of me on a hike while visiting fam in Kauai in '06. I thought I was alone, having hiked ahead on the trail, and was captivated by the sunset. I didn't realize my cousin sneakily taking the photo on his phone. <a title="Sam Killermann Sunset Hike" href="http://samkillermann.wpengine.com/wp-content/uploads/2013/12/sam-killermann-sunset-hike-hanakapiai.jpg" target="_blank">Here's the full version</a>.
+    That's a photo of me on a hike while visiting fam in Kauai in '06. I thought I was alone, having hiked ahead on the trail, and was captivated by the sunset. I didn't realize my cousin sneakily taking the photo on his phone. <a title="Sam Killermann Sunset Hike" href="//wp-content/uploads/2013/12/sam-killermann-sunset-hike-hanakapiai.jpg" target="_blank">Here's the full version</a>.
 categories:
   - Better Humaning
 tags:
@@ -52,6 +52,6 @@ Can we stop equating being alone with being lonely? Yes. And we should. Because 
 
 I&#8217;ve found progress through being [mindful][3] of when I&#8217;m feeling lonely, [intentional][3] in how I allow myself to react to that feeling, and focusing on appreciating the experience I&#8217;m having instead of missing the experiences I&#8217;m not having.
 
- [1]: http://samkillermann.wpengine.com/see-movie-by-yourself/ "Go See a Movie By Yourself"
- [2]: http://samkillermann.wpengine.com/we-fabricate-the-obstacles-to-happiness/ "We Fabricate the Obstacles that Stand Between Us and Happiness"
- [3]: http://samkillermann.wpengine.com/happiness/ "The 3 Ingredients to a Happy Existence"
+ [1]: //see-movie-by-yourself/ "Go See a Movie By Yourself"
+ [2]: //we-fabricate-the-obstacles-to-happiness/ "We Fabricate the Obstacles that Stand Between Us and Happiness"
+ [3]: //happiness/ "The 3 Ingredients to a Happy Existence"

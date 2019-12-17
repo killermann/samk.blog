@@ -9,6 +9,6 @@ Longer-form posts about [Better Humaning][1], [Technolophizing][2], [Adventravel
 
 <hr class="wp-block-separator" />
 
- [1]: https://samkillermann.com/category/better-humaning/
- [2]: https://samkillermann.com/category/technolophizing
- [3]: https://samkillermann.com/category/adventravel
+ [1]: //category/better-humaning/
+ [2]: //category/technolophizing
+ [3]: //category/adventravel

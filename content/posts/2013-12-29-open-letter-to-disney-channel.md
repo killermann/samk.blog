@@ -10,7 +10,7 @@ url: /open-letter-to-disney-channel/
 featured_image: /wp-content/uploads/2013/12/disney-channel-jessie-text.jpg
 photo:
   - |
-    That's the logo of <em>Jessie</em>. I blurred it a bit because I think it should be treated with the same taboo we treat images of <a title="Genital Xenophobia and Genital Wanderlust: Show Me Yours and I’ll Show You Mine" href="http://samkillermann.wpengine.com/genital-xenophobia-vs-genital-wanderlust/" target="_blank">genitals</a>.
+    That's the logo of <em>Jessie</em>. I blurred it a bit because I think it should be treated with the same taboo we treat images of <a title="Genital Xenophobia and Genital Wanderlust: Show Me Yours and I’ll Show You Mine" href="//genital-xenophobia-vs-genital-wanderlust/" target="_blank">genitals</a>.
 dsq_thread_id:
   - 2079540918
 categories:

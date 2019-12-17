@@ -42,9 +42,9 @@ If a genie gave me just one wish&#8230; I would wish for infinite hummus. Sorry.
 
 _If you&#8217;re up for this challenge, [let me know][6]. Or share the list with a friend as a friendly challenge. We can be one another&#8217;s accountabilibuddies. Gosh, I love spelling that word._
 
- [1]: http://samkillermann.wpengine.com/treat-every-day-like-christmas/ "14 Simple Ways to Treat Every Day More Like Christmas"
- [2]: http://samkillermann.wpengine.com/gratitude-challenge/ "My Gratitude Challenge"
- [3]: http://samkillermann.wpengine.com/minimalism-tips/ "100+ Tips for Minimalism"
- [4]: http://samkillermann.wpengine.com/alone-not-lonely/ "Being Alone Isn’t the Same as Being Lonely"
- [5]: http://samkillermann.wpengine.com/be-your-own-friend-first/ "Be Your Own Friend First"
- [6]: http://samkillermann.wpengine.com/contact/ "Contact"
+ [1]: //treat-every-day-like-christmas/ "14 Simple Ways to Treat Every Day More Like Christmas"
+ [2]: //gratitude-challenge/ "My Gratitude Challenge"
+ [3]: //minimalism-tips/ "100+ Tips for Minimalism"
+ [4]: //alone-not-lonely/ "Being Alone Isn’t the Same as Being Lonely"
+ [5]: //be-your-own-friend-first/ "Be Your Own Friend First"
+ [6]: //contact/ "Contact"

@@ -126,4 +126,4 @@ If you&#8217;re employing all three, you&#8217;ll know if you ever need to turn 
 
 By living intentionally, mindfully, and minimally, you&#8217;ll be best equipped to know exactly what you _need _in any situation, or what you need in life in general, in order to feel the warm fuzzy glow of contentedness.
 
- [1]: http://samkillermann.wpengine.com/contact/ "Contact"
+ [1]: //contact/ "Contact"

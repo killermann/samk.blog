@@ -26,7 +26,7 @@ I&#8217;m on day 9 of 100 in my quest to making meditation an integral part of m
 ## 1. Tools matter.
 
 <div class="wp-block-image">
-  <figure class="alignright"><img data-src="http://samkillermann.wpengine.com/wp-content/uploads/2016/09/meditation-progress-sam-killermann-e1474133301429.jpg" alt="meditation-progress-sam-killermann" class="wp-image-884 lazy-load" srcset="/wp-content/uploads/2016/09/meditation-progress-sam-killermann-e1474133301429.jpg 350w, /wp-content/uploads/2016/09/meditation-progress-sam-killermann-e1474133301429-150x150.jpg 150w, /wp-content/uploads/2016/09/meditation-progress-sam-killermann-e1474133301429-300x300.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></figure>
+  <figure class="alignright"><img data-src="//wp-content/uploads/2016/09/meditation-progress-sam-killermann-e1474133301429.jpg" alt="meditation-progress-sam-killermann" class="wp-image-884 lazy-load" srcset="/wp-content/uploads/2016/09/meditation-progress-sam-killermann-e1474133301429.jpg 350w, /wp-content/uploads/2016/09/meditation-progress-sam-killermann-e1474133301429-150x150.jpg 150w, /wp-content/uploads/2016/09/meditation-progress-sam-killermann-e1474133301429-300x300.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></figure>
 </div>
 
 There&#8217;s this famous Audre Lorde quote that gets tossed around a lot in the social justice activism spaces I occupy: &#8220;For the master’s tools will never dismantle the master’s house.&#8221;
@@ -42,13 +42,13 @@ It&#8217;s this idea, that _the master&#8217;s tools may temporarily allow us to
 **My phone was the biggest offender, and has become my greatest accomplice.** Before bed each night, I&#8217;ve been charging my phone in another room, and opening my Calm app prior to putting it to sleep. That means that, upon waking, I can&#8217;t just roll over and check my phone; I have to get up and go to the kitchen (forcing myself to break one part of my bad habit). Then, when I open my phone to habitually _check some [red numbers][3]_, I&#8217;m instead greeted by the sound of gentle rainfall and a polite request to meditate. Knowing this is [a goal of mine][4], and something I _always _appreciate, it&#8217;s hard not to take it up on its offer.
 
 <div class="wp-block-image wp-image-885">
-  <figure class="aligncenter"><img data-src="http://samkillermann.wpengine.com/wp-content/uploads/2016/09/IMG_5218-576x1024.png" alt="Even without the rain sounds this is pleasing" class="wp-image-885 lazy-load" srcset="/wp-content/uploads/2016/09/IMG_5218-576x1024.png 576w, /wp-content/uploads/2016/09/IMG_5218-169x300.png 169w, /wp-content/uploads/2016/09/IMG_5218.png 750w" sizes="(max-width: 576px) 100vw, 576px" /><figcaption>Even without the rain sounds this is pleasing</figcaption></figure>
+  <figure class="aligncenter"><img data-src="//wp-content/uploads/2016/09/IMG_5218-576x1024.png" alt="Even without the rain sounds this is pleasing" class="wp-image-885 lazy-load" srcset="/wp-content/uploads/2016/09/IMG_5218-576x1024.png 576w, /wp-content/uploads/2016/09/IMG_5218-169x300.png 169w, /wp-content/uploads/2016/09/IMG_5218.png 750w" sizes="(max-width: 576px) 100vw, 576px" /><figcaption>Even without the rain sounds this is pleasing</figcaption></figure>
 </div>
 
 **And my bicycle has become a surprise accomplice.** I love riding my bicycle, and I often see it as an escape, as much as a form of transportation. This past week, I noticed a mental habit that I fall into on my bike: I tend to spend the whole ride planning. I&#8217;ll plan a book chapter I want to write, a new comedy bit I might perform, how I&#8217;ll start a meeting or conversation &#8212; planning _something_. It&#8217;s terrible! Instead of appreciate the ride, the wind, or the beautiful city I live in &#8212; or at least just taking a break from work &#8212; I habitually turn my bicycle into a little mobile office. Well, after day 2 or 3 that changed, and I now have about a week of riding meditations under my belt, and I couldn&#8217;t be happier.
 
 <div class="wp-block-image wp-image-891">
-  <figure class="aligncenter"><a href="https://www.instagram.com/p/BAvKcVqFHn3/?taken-by=killermann"><img data-src="http://samkillermann.wpengine.com/wp-content/uploads/2016/09/sam-killermann-bicycle.jpg" alt="my bicycle on instagram" class="wp-image-891 lazy-load" srcset="/wp-content/uploads/2016/09/sam-killermann-bicycle.jpg 800w, /wp-content/uploads/2016/09/sam-killermann-bicycle-300x200.jpg 300w, /wp-content/uploads/2016/09/sam-killermann-bicycle-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>This machine kills fascists (<a href="https://www.instagram.com/p/BAvKcVqFHn3/?taken-by=killermann">from instagram</a>)</figcaption></figure>
+  <figure class="aligncenter"><a href="https://www.instagram.com/p/BAvKcVqFHn3/?taken-by=killermann"><img data-src="//wp-content/uploads/2016/09/sam-killermann-bicycle.jpg" alt="my bicycle on instagram" class="wp-image-891 lazy-load" srcset="/wp-content/uploads/2016/09/sam-killermann-bicycle.jpg 800w, /wp-content/uploads/2016/09/sam-killermann-bicycle-300x200.jpg 300w, /wp-content/uploads/2016/09/sam-killermann-bicycle-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>This machine kills fascists (<a href="https://www.instagram.com/p/BAvKcVqFHn3/?taken-by=killermann">from instagram</a>)</figcaption></figure>
 </div>
 
 Thanks to my phone, I have a consistent morning meditation practice (that replaces my first-thing News and Email Binge). And thanks to my bike, I get three or four mindfulness breaks later in the day while getting some exercise.
@@ -77,8 +77,8 @@ It&#8217;s this Something Bigger that is going to connect all those moments for 
 My life gets chaotic (whose doesn&#8217;t). I invite a lot of challenge, that I sometimes get the better of, and that sometimes gets the better of me. So let me tell you: the idea of finding calm even amidst the chaos, and knowing that is always there, in my back pocket when I need it&#8230; that&#8217;s something big for me.
 
  [1]: https://www.google.com/search?client=safari&rls=en&q=can+you+destroy+the+master's+house+using+the+master's+tools+audre+lorde+quote&ie=UTF-8&oe=UTF-8
- [2]: http://samkillermann.wpengine.com/tips-for-living-mindfully/
- [3]: http://samkillermann.wpengine.com/numbers-rule-my-life/
- [4]: http://samkillermann.wpengine.com/building-daily-meditation-habit/
+ [2]: //tips-for-living-mindfully/
+ [3]: //numbers-rule-my-life/
+ [4]: //building-daily-meditation-habit/
  [5]: http://www.brainyquote.com/quotes/keywords/surround_yourself.html
  [6]: https://kadampa-center.org/sites/default/files/Handouts5-7.pdf

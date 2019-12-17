@@ -19,7 +19,7 @@ tags:
   - Reflecting
 
 ---
-A [couple months ago][1] I ventured into the land of the <a href="http://samkillermann.wpengine.com/category/voice/" target="_blank">podcast</a>. A couple weeks ago I roped my friend Ian in and &#8220;Thought of the Week&#8221; became &#8220;The Hawthorne Effect.&#8221; The whole thing has been a huge learning process. After doing a number of different podcast approaches by myself, and trying a few different things out with Ian, he and I sat down tonight to reflect on what we think has worked, what hasn&#8217;t, and set a clear plan for what we&#8217;ll do in the future. I&#8217;m really excited with what we came up with.
+A [couple months ago][1] I ventured into the land of the <a href="//category/voice/" target="_blank">podcast</a>. A couple weeks ago I roped my friend Ian in and &#8220;Thought of the Week&#8221; became &#8220;The Hawthorne Effect.&#8221; The whole thing has been a huge learning process. After doing a number of different podcast approaches by myself, and trying a few different things out with Ian, he and I sat down tonight to reflect on what we think has worked, what hasn&#8217;t, and set a clear plan for what we&#8217;ll do in the future. I&#8217;m really excited with what we came up with.
 
 Starting next week, I&#8217;m confident that folks who have been listening to the experiment that has been the podcast will notice a huge shift (in a positive direction) in the feel and product. While we won&#8217;t know if that&#8217;s true until next week, this reflects the way that I try to approach most new projects: experiment a bunch, reflect, synthesize, retool, then focus in.
 
@@ -27,4 +27,4 @@ With my writing for <a href="http://itspronouncedmetrosexual.com" target="_blan
 
 I like this approach. It works well for me. I&#8217;m going to try to do apply it to more parts of my life.
 
- [1]: http://samkillermann.wpengine.com/hiding-behind-a-keyboard/ "Hiding Behind a Keyboard: The Terror of the Unknown"
+ [1]: //hiding-behind-a-keyboard/ "Hiding Behind a Keyboard: The Terror of the Unknown"

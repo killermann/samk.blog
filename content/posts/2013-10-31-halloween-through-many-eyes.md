@@ -81,9 +81,9 @@ Y&#8217;all are doing what now?
 
 _Here&#8217;s the full image that I used for the header to this post. It&#8217;s a doodle I made Halloween 2012 for a friend. You can click it for full resolution, and feel free to share it._
 
-[<img class="alignnone size-full wp-image-30 lazy-load" data-src="http://samkillermann.wpengine.com/wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann.png" alt="Jack o Lantern by Sam Killermann" width="1200" height="800" srcset="/wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann.png 1200w, /wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann-300x200.png 300w, /wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann-768x512.png 768w, /wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann-1024x683.png 1024w" sizes="(max-width: 1200px) 100vw, 1200px" />][4]
+[<img class="alignnone size-full wp-image-30 lazy-load" data-src="//wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann.png" alt="Jack o Lantern by Sam Killermann" width="1200" height="800" srcset="/wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann.png 1200w, /wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann-300x200.png 300w, /wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann-768x512.png 768w, /wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann-1024x683.png 1024w" sizes="(max-width: 1200px) 100vw, 1200px" />][4]
 
  [1]: https://twitter.com/Killermann/status/395265221704437760
  [2]: https://twitter.com/Killermann/status/395265250347323392
  [3]: https://twitter.com/Killermann/status/395265824404942849
- [4]: http://samkillermann.wpengine.com/wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann.png
+ [4]: //wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann.png

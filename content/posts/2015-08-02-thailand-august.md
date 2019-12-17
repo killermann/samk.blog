@@ -42,14 +42,14 @@ And I&#8217;m going to meet some people who will share their stories with me &#
 {{< subscribe >}}
 **If you&#8217;re there, and you&#8217;d like to be friends, please [get in touch][2]. I would love to meet you (especially anyone doing gender, sexuality, or activism work) and hear your story. And if you&#8217;re not there, but have been, and would like to give me a recommendation or two, [ditto][2].**
 
-<pre><em>To follow along, I'll be posting occasional updates on this site <a href="http://samkillermann.wpengine.com/category/thailand">here</a>, on <a href="http://facebook.com/samkillermann">Facebook</a>, and photos on <a href="http://instagram.com/killermann">Instagram</a>.</em></pre>
+<pre><em>To follow along, I'll be posting occasional updates on this site <a href="//category/thailand">here</a>, on <a href="http://facebook.com/samkillermann">Facebook</a>, and photos on <a href="http://instagram.com/killermann">Instagram</a>.</em></pre>
 
 
 
 I mean&#8230; c&#8217;mon:
 
-<figure id="attachment_827" aria-describedby="caption-attachment-827" style="width: 1400px" class="wp-caption aligncenter">[<img class="size-full wp-image-827 lazy-load" data-src="http://samkillermann.wpengine.com/wp-content/uploads/2015/08/khao-sam-roy.jpg" alt="Photo by Prachanart Viriyaraks of Khao Sam Roi Yot nat'l park." width="1400" height="934" srcset="/wp-content/uploads/2015/08/khao-sam-roy.jpg 1400w, /wp-content/uploads/2015/08/khao-sam-roy-300x200.jpg 300w, /wp-content/uploads/2015/08/khao-sam-roy-768x512.jpg 768w, /wp-content/uploads/2015/08/khao-sam-roy-1024x683.jpg 1024w" sizes="(max-width: 1400px) 100vw, 1400px" />][3]<figcaption id="caption-attachment-827" class="wp-caption-text">Photo by Prachanart Viriyaraks of Khao Sam Roi Yot nat&#8217;l park.</figcaption></figure>
+<figure id="attachment_827" aria-describedby="caption-attachment-827" style="width: 1400px" class="wp-caption aligncenter">[<img class="size-full wp-image-827 lazy-load" data-src="//wp-content/uploads/2015/08/khao-sam-roy.jpg" alt="Photo by Prachanart Viriyaraks of Khao Sam Roi Yot nat'l park." width="1400" height="934" srcset="/wp-content/uploads/2015/08/khao-sam-roy.jpg 1400w, /wp-content/uploads/2015/08/khao-sam-roy-300x200.jpg 300w, /wp-content/uploads/2015/08/khao-sam-roy-768x512.jpg 768w, /wp-content/uploads/2015/08/khao-sam-roy-1024x683.jpg 1024w" sizes="(max-width: 1400px) 100vw, 1400px" />][3]<figcaption id="caption-attachment-827" class="wp-caption-text">Photo by Prachanart Viriyaraks of Khao Sam Roi Yot nat&#8217;l park.</figcaption></figure>
 
  [1]: https://www.kickstarter.com/projects/mikementz/mike-mentz-travelpop-double-album-and-epic-acousti
- [2]: http://samkillermann.wpengine.com/contact/
- [3]: http://samkillermann.wpengine.com/wp-content/uploads/2015/08/khao-sam-roy.jpg
+ [2]: //contact/
+ [3]: //wp-content/uploads/2015/08/khao-sam-roy.jpg

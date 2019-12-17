@@ -36,7 +36,7 @@ This is entirely about singing, but it&#8217;s also entirely about anything. Any
 
 I&#8217;m still terrified, but I stopped letting that stop me years ago.
 
- [1]: http://samkillermann.wpengine.com/new-show-in-tolerance/ "InTolerance: Why I’m Writing A New Show About Prejudice, Faith, and Identity"
- [2]: http://samkillermann.wpengine.com/we-fabricate-the-obstacles-to-happiness/ "We Fabricate the Obstacles that Stand Between Us and Happiness"
+ [1]: //new-show-in-tolerance/ "InTolerance: Why I’m Writing A New Show About Prejudice, Faith, and Identity"
+ [2]: //we-fabricate-the-obstacles-to-happiness/ "We Fabricate the Obstacles that Stand Between Us and Happiness"
  [3]: http://www.ted.com/talks/brene_brown_on_vulnerability?language=en
- [4]: http://samkillermann.wpengine.com/starstruck/ "Starstruck"
+ [4]: //starstruck/ "Starstruck"

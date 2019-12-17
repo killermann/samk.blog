@@ -12,7 +12,7 @@ dsq_thread_id:
   - 2006071286
 photo:
   - |
-    Today's cover image is from a comic I made in '10 based on the standup in today's video. <a title="Thanksgiving Comic" href="http://samkillermann.wpengine.com/wp-content/uploads/2013/11/weakSauce-Thanksgiving.jpg">Here's the full comic</a>.
+    Today's cover image is from a comic I made in '10 based on the standup in today's video. <a title="Thanksgiving Comic" href="//wp-content/uploads/2013/11/weakSauce-Thanksgiving.jpg">Here's the full comic</a>.
 custom_post_template:
   - single-youtube.php
 ampforwp-amp-on-off:

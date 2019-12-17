@@ -28,7 +28,7 @@ The train is stopped in Nong Pladuk Junction. Steamy air fills the rail car. Non
 
 <!--more--><figure class="wp-block-image">
 
-[<img class="lazy-load" data-src="http://samkillermann.wpengine.com/wp-content/uploads/2015/08/IMG_0093.jpg" alt="" />][1]</figure> <figure class="wp-block-image">[<img class="lazy-load" data-src="http://samkillermann.wpengine.com/wp-content/uploads/2015/08/IMG_0095.jpg" alt="" />][2]</figure> 
+[<img class="lazy-load" data-src="//wp-content/uploads/2015/08/IMG_0093.jpg" alt="" />][1]</figure> <figure class="wp-block-image">[<img class="lazy-load" data-src="//wp-content/uploads/2015/08/IMG_0095.jpg" alt="" />][2]</figure> 
 
 Tonight, I&#8217;ll board a plane to Beijing, and after half a day there I&#8217;ll board another one to Houston. My time in Thailand, and the remaining time in this adventure, is measured now in hours, not days, not weeks. The days flew by in minutes. The weeks were hours.
 
@@ -36,7 +36,7 @@ If Thailand were a snow globe, I only managed to figure out how to turn it over;
 
 But Thailand isn&#8217;t a snow globe. Thailand is fucking hot. The sweating! And the persistent stickiness from copious bug spray, the lack of consistent showers and sleeping, and the sweating&#8230; it&#8217;s these things that make it easier to be comfortable that my time here is wrapping up.<figure class="wp-block-image">
 
-[<img class="lazy-load" data-src="http://samkillermann.wpengine.com/wp-content/uploads/2015/08/IMG_0096.jpg" alt="" />][3]</figure> <figure class="wp-block-image">[<img class="lazy-load" data-src="http://samkillermann.wpengine.com/wp-content/uploads/2015/08/IMG_0094.jpg" alt="" />][4]</figure> 
+[<img class="lazy-load" data-src="//wp-content/uploads/2015/08/IMG_0096.jpg" alt="" />][3]</figure> <figure class="wp-block-image">[<img class="lazy-load" data-src="//wp-content/uploads/2015/08/IMG_0094.jpg" alt="" />][4]</figure> 
 
 And I&#8217;m excited to go back to my life. I miss people back home in Austin more than I&#8217;ve ever missed people back home in Austin: my friends, swimming in springs and drinking beer on rooftops; and my partner, eating Indian food and laughing from our overfull bellies. I&#8217;m excited to get back to the work I was doing when I left. I had just published [a book][5]. Who leaves the continent days after publishing a book? And I have shows to perform and [another book][6] to write and a whole [new organization][7] to get off the ground and into the sky.
 
@@ -45,10 +45,10 @@ But I also recognize that it will be easy for me to leave all of Thailand behind
 
 The woman in the apron walks by again, yelling at the top of her lungs to everyone on the train, as we start to pick up speed leaving the station. She only has 2 more shrimp bowls.
 
- [1]: http://samkillermann.wpengine.com/wp-content/uploads/2015/08/IMG_0093.jpg
- [2]: http://samkillermann.wpengine.com/wp-content/uploads/2015/08/IMG_0095.jpg
- [3]: http://samkillermann.wpengine.com/wp-content/uploads/2015/08/IMG_0096.jpg
- [4]: http://samkillermann.wpengine.com/wp-content/uploads/2015/08/IMG_0094.jpg
+ [1]: //wp-content/uploads/2015/08/IMG_0093.jpg
+ [2]: //wp-content/uploads/2015/08/IMG_0095.jpg
+ [3]: //wp-content/uploads/2015/08/IMG_0096.jpg
+ [4]: //wp-content/uploads/2015/08/IMG_0094.jpg
  [5]: http://hushfactor.com
  [6]: http://guidetofacilitation.com
  [7]: http://hues.xyz

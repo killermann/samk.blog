@@ -22,4 +22,4 @@ I spent most of the day today horizontal. I slept a lot, napped a bit, and snooz
 
 I&#8217;m not sure what is in store for me tomorrow, whether I&#8217;ll be horizontal, vertical, or some other -al. I don&#8217;t know what to expect, and I always try my best _not to_ expect. [I prefer wondering][1] over knowing. But I do know one thing: tomorrow will be perfect.
 
- [1]: http://samkillermann.wpengine.com/i-miss-wondering/ "I Miss Wondering"
+ [1]: //i-miss-wondering/ "I Miss Wondering"

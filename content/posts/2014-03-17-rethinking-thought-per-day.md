@@ -41,6 +41,6 @@ Nudgingly yours,
 
 sK
 
- [1]: http://samkillermann.wpengine.com/welcome/ "Welcome to Sam Killermann’s Thought / Day"
- [2]: http://samkillermann.wpengine.com/protecting-good-habits/
- [3]: http://samkillermann.wpengine.com/category/challenge/
+ [1]: //welcome/ "Welcome to Sam Killermann’s Thought / Day"
+ [2]: //protecting-good-habits/
+ [3]: //category/challenge/

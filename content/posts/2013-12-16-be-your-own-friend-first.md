@@ -35,4 +35,4 @@ There&#8217;s this old proverb that says, &#8220;Sweep before your own door firs
 
 It&#8217;s great to want to be a good friend to other people. The best way you can do that is by being a good friend to you.
 
- [1]: http://samkillermann.wpengine.com/self-consciousness-podcast/ "Self-Consciousness"
+ [1]: //self-consciousness-podcast/ "Self-Consciousness"

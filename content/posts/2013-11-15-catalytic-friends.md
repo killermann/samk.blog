@@ -31,4 +31,4 @@ That&#8217;s a catalytic friend. A person who will take the simple fuels in your
 
 Catalytic friends are hard to come by. If you find one, or have one in your life, hold onto them dearly.
 
- [1]: http://samkillermann.wpengine.com/happiness/ "The 3 Ingredients to a Happy Existence"
+ [1]: //happiness/ "The 3 Ingredients to a Happy Existence"

@@ -40,7 +40,7 @@ sK
   2. [**Use this contact form**][3]. It archives messages for me, which makes it easier to tend to them when I set aside the time.
   3. **You can also email **[**yo@samkillermann.co**m][4], but I hope you read the prologue above if you do so.
 
- [1]: http://samtalkto.us
+ [1]: https://samtalkto.us
  [2]: http://itspronouncedmetrosexual.com/campus-programs "IPM Booking"
  [3]: https://goo.gl/forms/FB7iSu6MG50QtF6p1
  [4]: mailto:yo@samkillermann.com

@@ -38,10 +38,10 @@ Outside of his key initiatives, Sam is a frequent keynote speaker, makes politic
  [1]: http://www.samuelkillermann.com
  [2]: http://www.guidetogender.com
  [3]: http://www.youtube.com/watch?v=NRcPXtqdKjE
- [4]: http://samuelkillermann.com/about/
- [5]: http://samuelkillermann.com/work
- [6]: http://samuelkillermann.com
- [7]: http://samuelkillermann.com/now/
+ [4]: https://samuelkillermann.com/about/
+ [5]: https://samuelkillermann.com/work
+ [6]: https://samuelkillermann.com
+ [7]: https://samuelkillermann.com/now/
  [8]: https://www.samuelkillermann.com/bio/
  [9]: http://itspronouncedmetrosexual.com/2012/03/the-genderbread-person-v2-0/
  [10]: http://itspronouncedmetrosexual.com/2014/07/how-the-gender-neutral-bathroom-sign-i-made-is-being-manufactured-and-donated-to-colleges/

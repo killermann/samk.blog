@@ -45,7 +45,7 @@ We internalize a message that our genitals are valuable, sacred, meant to be def
 
 At the same time, we&#8217;re navigating a confusing and mixed-message world that pushes us to want to enter other people&#8217;s Troy. We want to see their Helen (if you know what I mean), and are encouraged to devise a number of strategies to do that. If you&#8217;re doubting this line of thought, just start to google any celebrity&#8217;s name and see what it auto-suggests. Like so:
 
-[<img class="alignnone size-full wp-image-443 lazy-load" alt="jon-hamm-bulge" data-src="http://samkillermann.wpengine.com/wp-content/uploads/2013/12/jon-hamm-bulge.jpg" width="900" height="331" srcset="/wp-content/uploads/2013/12/jon-hamm-bulge.jpg 900w, /wp-content/uploads/2013/12/jon-hamm-bulge-300x110.jpg 300w, /wp-content/uploads/2013/12/jon-hamm-bulge-768x282.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />][1]
+[<img class="alignnone size-full wp-image-443 lazy-load" alt="jon-hamm-bulge" data-src="//wp-content/uploads/2013/12/jon-hamm-bulge.jpg" width="900" height="331" srcset="/wp-content/uploads/2013/12/jon-hamm-bulge.jpg 900w, /wp-content/uploads/2013/12/jon-hamm-bulge-300x110.jpg 300w, /wp-content/uploads/2013/12/jon-hamm-bulge-768x282.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />][1]
 
 &#8220;Sorry to put you on the spot here, Jon. But we really wanna see your Helen. And I know you haven&#8217;t lowered the gates, so we&#8217;re gonna find a way around that. We are Achaeans. We have the internet. We will see your penis.&#8221;
 
@@ -109,4 +109,4 @@ Ultimately, I want you &#8212; your _whole_ you &#8212; to be able to be happy. 
 
  
 
- [1]: http://samkillermann.wpengine.com/wp-content/uploads/2013/12/jon-hamm-bulge.jpg
+ [1]: //wp-content/uploads/2013/12/jon-hamm-bulge.jpg

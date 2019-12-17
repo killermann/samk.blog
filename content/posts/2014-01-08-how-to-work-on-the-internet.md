@@ -72,7 +72,7 @@ Most importantly, just get _a _website up and start doing your thing. Remember
 
 Randi Zuckerberg said this wonderful thing that I used in a keynote I gave a few weeks back. Here&#8217;s the slide:
 
-[<img class="alignnone size-full wp-image-510 lazy-load" data-src="http://samkillermann.wpengine.com/wp-content/uploads/2014/01/zuckerberg-online-feedback-quote.jpg" alt="zuckerberg-online-feedback-quote" width="900" height="644" srcset="/wp-content/uploads/2014/01/zuckerberg-online-feedback-quote.jpg 900w, /wp-content/uploads/2014/01/zuckerberg-online-feedback-quote-300x215.jpg 300w, /wp-content/uploads/2014/01/zuckerberg-online-feedback-quote-768x550.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />][1]
+[<img class="alignnone size-full wp-image-510 lazy-load" data-src="//wp-content/uploads/2014/01/zuckerberg-online-feedback-quote.jpg" alt="zuckerberg-online-feedback-quote" width="900" height="644" srcset="/wp-content/uploads/2014/01/zuckerberg-online-feedback-quote.jpg 900w, /wp-content/uploads/2014/01/zuckerberg-online-feedback-quote-300x215.jpg 300w, /wp-content/uploads/2014/01/zuckerberg-online-feedback-quote-768x550.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />][1]
 
 (I know. My slides are so pretty. But that&#8217;s not what we&#8217;re talking about here. Let&#8217;s move on.)
 
@@ -90,4 +90,4 @@ So, what are you waiting for?
 
 Start right now.
 
- [1]: http://samkillermann.wpengine.com/wp-content/uploads/2014/01/zuckerberg-online-feedback-quote.jpg
+ [1]: //wp-content/uploads/2014/01/zuckerberg-online-feedback-quote.jpg

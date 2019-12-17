@@ -47,4 +47,4 @@ If you&#8217;re digging the idea of single-serving friends, but aren&#8217;t sur
   * **Be no-holds-barred honest.** We [all lie][1] more than we likely realize. Single-serving friendships can be amazing in that you have never told the person a lie (where most of the long-term or more high-contact friends you likely lie to inadvertently dozens of times a week). You don&#8217;t have to &#8220;protect&#8221; them with white lies, and you don&#8217;t need to puffer yourself into something you&#8217;re not. You can be blissfully, heart-relievingly honest. And it&#8217;s fantastic.
   * **High fives are good.** In case you&#8217;re not a hugger.
 
- [1]: http://samkillermann.wpengine.com/no-lying-for-one-week/ "For One Week, Starting Now, I Will Tell No Lies"
+ [1]: //no-lying-for-one-week/ "For One Week, Starting Now, I Will Tell No Lies"

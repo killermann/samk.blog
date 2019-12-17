@@ -20,7 +20,7 @@ tags:
 
 ---
 <p style="text-align: justify;">
-  There are some wonderful things happening right now. All last year, I said it again and again, we&#8217;re on the cusp of something great. Sites trying to create positive change in the world dominate my social media feeds. I was getting my hair cut today and I said I do &#8220;social justice work&#8221; and the hairdresser actually [kinda] knew what that meant. We&#8217;re more <em>aware</em> than we have been in my lifetime, and <a title="I’d be okay with a revolution." href="http://samkillermann.wpengine.com/okay-with-revolution/">we&#8217;d be okay with a revolution</a>.
+  There are some wonderful things happening right now. All last year, I said it again and again, we&#8217;re on the cusp of something great. Sites trying to create positive change in the world dominate my social media feeds. I was getting my hair cut today and I said I do &#8220;social justice work&#8221; and the hairdresser actually [kinda] knew what that meant. We&#8217;re more <em>aware</em> than we have been in my lifetime, and <a title="I’d be okay with a revolution." href="//okay-with-revolution/">we&#8217;d be okay with a revolution</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -91,7 +91,7 @@ People with privilege, start using your privilege to make change, instead of fal
 
 #1 and #2 will help #3, but ultimately nothing will change unless we stop supporting and perpetuating the things we don&#8217;t believe in and start raising hell to see them changed.
 
- [1]: http://samkillermann.wpengine.com/choose-to-love/ "Choosing to Love Instead of Allowing Ourselves to Hate"
+ [1]: //choose-to-love/ "Choosing to Love Instead of Allowing Ourselves to Hate"
  [2]: http://www.theguardian.com/environment/2013/nov/13/climate-change-red-state-opinion-america-study
  [3]: http://www.youtube.com/watch?v=QPKKQnijnsM
  [4]: http://teamcoco.com/video/aziz-ansari-racist-grandma

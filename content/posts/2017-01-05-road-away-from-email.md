@@ -139,9 +139,9 @@ P.O. Box 684412
 Austin, TX 78768
 
  [1]: http://itspronouncedmetrosexual.com/2014/04/i-have-not-given-you-consent/
- [2]: http://samkillermann.wpengine.com/numbers-rule-my-life/
+ [2]: //numbers-rule-my-life/
  [3]: https://en.wikipedia.org/wiki/Hydra_(comics)
- [4]: http://samtalkto.us
+ [4]: https://samtalkto.us
  [5]: http://hues.xyz
  [6]: https://www.youtube.com/watch?v=-r2xXtSsPV0
  [7]: https://smile.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=sr_1_1?ie=UTF8&qid=1483643767&sr=8-1&keywords=tools+of+titans

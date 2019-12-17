@@ -55,4 +55,4 @@ If you have any other tips, I&#8217;d love to hear them. This is a forever-strug
   <em>Now, I have some <a href="http://en.wikipedia.org/wiki/Retroactive_continuity" target="_blank">retcon-ing</a> to do with this project for last week. Oddly, I wrote most of the thoughts that are missing, I just didn&#8217;t find the time to publish them here because Netflix.</em>
 </p>
 
- [1]: http://samkillermann.wpengine.com/new-years-resolutions-happy-world/ "If Everyone Made these 12 New Year’s Resolutions, the World Would Be Happier"
+ [1]: //new-years-resolutions-happy-world/ "If Everyone Made these 12 New Year’s Resolutions, the World Would Be Happier"

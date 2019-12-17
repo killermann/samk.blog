@@ -45,15 +45,15 @@ Happy 2013, Friends! I&#8217;m looking forward to what 2014 has in store for us.
 
  
 
- [1]: http://samkillermann.wpengine.com/welcome/ "Welcome to Sam Killermann’s Thought / Day"
- [2]: http://samkillermann.wpengine.com/2013/
- [3]: http://samkillermann.wpengine.com/let-your-teacher-grade-your-test/
- [4]: http://samkillermann.wpengine.com/celebrities-as-people/
- [5]: http://samkillermann.wpengine.com/okay-with-revolution/
- [6]: http://samkillermann.wpengine.com/im-glad-chivalry-is-dead/
- [7]: http://samkillermann.wpengine.com/alone-not-lonely/
- [8]: http://samkillermann.wpengine.com/abusive-gender-stereotypes/
- [9]: http://samkillermann.wpengine.com/republican-values-against-oppression/
- [10]: http://samkillermann.wpengine.com/us-vs-them/
- [11]: http://samkillermann.wpengine.com/we-fabricate-the-obstacles-to-happiness/
- [12]: http://samkillermann.wpengine.com/happiness/
+ [1]: //welcome/ "Welcome to Sam Killermann’s Thought / Day"
+ [2]: //2013/
+ [3]: //let-your-teacher-grade-your-test/
+ [4]: //celebrities-as-people/
+ [5]: //okay-with-revolution/
+ [6]: //im-glad-chivalry-is-dead/
+ [7]: //alone-not-lonely/
+ [8]: //abusive-gender-stereotypes/
+ [9]: //republican-values-against-oppression/
+ [10]: //us-vs-them/
+ [11]: //we-fabricate-the-obstacles-to-happiness/
+ [12]: //happiness/

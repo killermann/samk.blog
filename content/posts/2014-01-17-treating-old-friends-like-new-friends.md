@@ -37,5 +37,5 @@ There are many, many more ways to try to bring the honeymoon back into my friend
 
  
 
- [1]: http://samkillermann.wpengine.com/30-mind-blowing-facts-internet-is-broken/ "30 Ways The Top Ten Most Mind Blowing Facts You Would Never Expect About Jennifer Lawrence Absolutely Kinda Restored Our Faith In Humanity And Crushed Our Souls"
- [2]: http://samkillermann.wpengine.com/tag/platinum-rule/
+ [1]: //30-mind-blowing-facts-internet-is-broken/ "30 Ways The Top Ten Most Mind Blowing Facts You Would Never Expect About Jennifer Lawrence Absolutely Kinda Restored Our Faith In Humanity And Crushed Our Souls"
+ [2]: //tag/platinum-rule/

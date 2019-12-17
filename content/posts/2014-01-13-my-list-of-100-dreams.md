@@ -25,7 +25,7 @@ Have y&#8217;all heard of Laura Vanderkam&#8217;s &#8220;<a rel="noopener" href=
 
 To me, it feels like a bucket list, but better: the items don&#8217;t have to feel realistic, or things you can only do if you put the time aside. They can be big and scary and feel impossible. 
 
-I don&#8217;t usually do things like this, but one of my goals for this year was to <a rel="noopener" href="http://samkillermann.wpengine.com/new-years-resolutions-happy-world/" target="_blank">put myself in unknown situations</a> more. And now that I&#8217;ve done it, I can&#8217;t recommend it enough. Let&#8217;s get uncomfy together.
+I don&#8217;t usually do things like this, but one of my goals for this year was to <a rel="noopener" href="//new-years-resolutions-happy-world/" target="_blank">put myself in unknown situations</a> more. And now that I&#8217;ve done it, I can&#8217;t recommend it enough. Let&#8217;s get uncomfy together.
 
 Here&#8217;s my list of 100 dreams:
 

@@ -22,8 +22,8 @@ Yep. That&#8217;s a <a href="http://www.huffingtonpost.co.uk/2013/12/30/andrew-f
 
 Oh, and here&#8217;s the guy:
 
-[<img class="alignnone size-full wp-image-460 lazy-load" alt="frey" data-src="http://samkillermann.wpengine.com/wp-content/uploads/2013/12/frey.jpg" width="570" height="403" srcset="/wp-content/uploads/2013/12/frey.jpg 570w, /wp-content/uploads/2013/12/frey-300x212.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />][1]
+[<img class="alignnone size-full wp-image-460 lazy-load" alt="frey" data-src="//wp-content/uploads/2013/12/frey.jpg" width="570" height="403" srcset="/wp-content/uploads/2013/12/frey.jpg 570w, /wp-content/uploads/2013/12/frey-300x212.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" />][1]
 
  
 
- [1]: http://samkillermann.wpengine.com/wp-content/uploads/2013/12/frey.jpg
+ [1]: //wp-content/uploads/2013/12/frey.jpg
