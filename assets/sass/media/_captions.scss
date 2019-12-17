@@ -1,0 +1,23 @@
+.wp-caption {
+	margin-bottom: 1.5em;
+	font-size:.7em;
+	line-height:1.2;
+	max-width: 100%;
+	font-family:$sans-serif;
+
+	img[class*="wp-image-"] {
+		@include center-block;
+	}
+
+	.wp-caption-text {
+		margin: 0.8075em 0;
+	}
+}
+
+.wp-caption-text {
+	text-align: center;
+}
+
+.wp-block-image .aligncenter>figcaption, .wp-block-image .alignleft>figcaption, .wp-block-image .alignright>figcaption, .wp-block-image.is-resized>figcaption {
+	display:block !important;
+}

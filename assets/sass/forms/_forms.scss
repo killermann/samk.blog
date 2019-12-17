@@ -1,0 +1,34 @@
+@import "buttons";
+
+@import "fields";
+
+form.search-form {
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	font-size:1rem;
+	max-width:100%;
+	width:100%;
+
+	label {
+		position:relative;
+	}
+
+	input {
+		margin:0;
+		padding:.5em;
+		border:none;
+		border-radius:3px;
+		box-shadow:none;
+	}
+
+	input[type=search] {
+		width:150px;
+		border-bottom-style:solid;
+		border-bottom-width:3px;
+		@extend .chameleon-border;
+	}
+	input[type=submit] {
+		margin-left:4px;
+	}
+}

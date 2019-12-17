@@ -1,0 +1,44 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after { /* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+	box-sizing: inherit;
+}
+
+body {
+	background: var(--bg-color); /* Fallback for when there is no custom background color defined. */
+	transition:background 1s ease-in-out;
+}
+
+hr {
+	@extend .chameleon-bg;
+	border: 0;
+	height: 5px;
+	border-radius:10px;
+	margin: 3em auto;
+	max-width:16.66%;
+}
+
+@import "lists";
+
+img {
+	height: auto; /* Make sure images are scaled correctly. */
+	max-width: 100%; /* Adhere to container width. */
+}
+
+figure {
+	margin: 1em 0; /* Extra wide images within figure tags don't overflow the content area. */
+}
+
+@import "tables";
+
+@import "header";
+
+@import "sidebar";
+
+@import "footer";
+
+@import "blocks";
