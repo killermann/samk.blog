@@ -31,7 +31,7 @@ These are things I try to be mindful of every day. I&#8217;m hoping that by writ
   * Check in to your body parts. Where are your hands, how tense are your shoulders, knees, and toes. Flex all of your muscles in your entire body, then relax them.
   * Feel your feet in your shoes and the ground beneath them when you walk.
   * **Walk slowly.**
-  * ****When you wake up, spend 15 &#8211; 30 minutes planning your day. Spend the rest of your day living it.
+  * When you wake up, spend 15 &#8211; 30 minutes planning your day. Spend the rest of your day living it.
   * Breathe deeply. Exhale slowly.
   * Check in to your mind. What are you thinking about and why? Let those feelings go.
   * Take note of what makes you want to feel happiness, anger, surprise, disgust, contempt, and fear. Write these things down throughout your day if you have a hard time remembering.

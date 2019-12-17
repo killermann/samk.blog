@@ -63,9 +63,7 @@ Don&#8217;t let all this &#8220;blow your mind.&#8221; Let this help you be more
 
 We need to stop being okay with the overwhelming amount of injustice happening in the world, our country, our state, our city. We need to stop being okay with greed that leads to death, corruption that leads to exclusion, and marginalization that leads to a lack of basic human needs being met. We need to stop being okay with a revolution and we need to start demanding one.
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 <p style="text-align: left;">
   <em>While digging through my archives to find today&#8217;s cover photo, I found this photo below, which seems all too apt a way to end this thought.</em>

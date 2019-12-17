@@ -54,7 +54,7 @@ So. Anyway. The title of this thought. I&#8217;m going to do that. For real. Sta
 
 Oh god my nose is bleeding.
 
-\***
+***
 
 _Bonus! Here&#8217;s a great RSA Animate about honest and dishonesty. If you wanna chat, use the comments. I&#8217;d love to hear your thoughts._
 

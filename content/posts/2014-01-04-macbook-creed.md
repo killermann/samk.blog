@@ -38,8 +38,6 @@ This is my MacBook. There are many like it, but this one is mine.
 
 <span style="line-height: 1.5em;">So be it, until victory is Apple&#8217;s and there is no aluminum left unbrushed.</span>
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 _(In case you&#8217;re unfamiliar with the <a href="http://en.wikipedia.org/wiki/Rifleman's_Creed" target="_blank">Rifleman&#8217;s Creed</a>, this is a parody of that.)_

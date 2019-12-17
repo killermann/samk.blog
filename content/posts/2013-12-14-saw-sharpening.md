@@ -17,13 +17,12 @@ categories:
 tags:
   - Productivity
   - Reflecting
-
 ---
 As I mentioned [a couple days ago][1], I&#8217;ve got a bit of a break before I head back on the road for my next gig. This is important time for me, because it&#8217;s the time that I set aside every year to sharpen my saw. Saw sharpening is an important part of life, which is why it&#8217;s the theme of one of my favorite [zen stories][2]. But what is it? Here are the three Rs of Saw Sharpening:
 
 **Relaxation:** designating a block of time as a break from whatever you normally do. This doesn&#8217;t need to be on a beach, or even time spent resting, it just needs to be a time you&#8217;re able to relax the part of your self (brain, bod, whatev) that you normally work.
 
-**Reflection: **using this time to meaningfully reflect on your past. It&#8217;s easy to relax and completely tune out of life, and that&#8217;s nice sometimes, but that&#8217;s not going to sharpen any saws. It&#8217;s also easy to keep working and doing and progressing and never look back. This is your time to look back.
+**Reflection:** using this time to meaningfully reflect on your past. It&#8217;s easy to relax and completely tune out of life, and that&#8217;s nice sometimes, but that&#8217;s not going to sharpen any saws. It&#8217;s also easy to keep working and doing and progressing and never look back. This is your time to look back.
 
 **Readjusting:** making small changes to the way you approach your life and work. This doesn&#8217;t have to be (nor should it be) an overhaul. While you&#8217;re reflecting, you&#8217;ll likely think of a few things you can tweak that will make for a more fruitful future. Fruit is good. Tweak for fruit.
 

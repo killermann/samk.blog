@@ -43,7 +43,7 @@ If you&#8217;re digging the idea of single-serving friends, but aren&#8217;t sur
   * **Be clear up front.** If you want to stay connected with someone, tell them. Ask if that&#8217;s okay. Explain what you mean.
   * **Don&#8217;t force it.** One of my best friends in the world is someone I only chat with or see a few times a year, but when we do, we&#8217;re immediately best friends again. That&#8217;s how our relationship works. It works that way because we&#8217;ve allowed it to be that way and haven&#8217;t tried to force it to be something it&#8217;s not. Feel it out.
   * **Hugs are good.** If you&#8217;re a hugger.
-  * **Phone numbers are better than emails are better than Facebooks are better than Twitters. **Social media is a great way to _disconnect _from people. Let them tell you directly what they want to tell you about their life. Do the same.
+  * **Phone numbers are better than emails are better than Facebooks are better than Twitters.** Social media is a great way to _disconnect_ from people. Let them tell you directly what they want to tell you about their life. Do the same.
   * **Be no-holds-barred honest.** We [all lie][1] more than we likely realize. Single-serving friendships can be amazing in that you have never told the person a lie (where most of the long-term or more high-contact friends you likely lie to inadvertently dozens of times a week). You don&#8217;t have to &#8220;protect&#8221; them with white lies, and you don&#8217;t need to puffer yourself into something you&#8217;re not. You can be blissfully, heart-relievingly honest. And it&#8217;s fantastic.
   * **High fives are good.** In case you&#8217;re not a hugger.
 

@@ -23,9 +23,7 @@ I got an email with the above title and the following snippets, from a wonderful
 
 _Below is what I had to say in response. If you have a question like this, or any question really, that you&#8217;d be okay with me answering on this site, write me at yo [at] samkillermann [dawt] com. I&#8217;d love to hear from you._
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 What you&#8217;re experiencing isn&#8217;t just something I&#8217;ve struggled with before, but something I have to be mindful about every day. For me, being positive in the face of negativity isn&#8217;t just important for me personally, but a requirement for what I&#8217;m trying to do.
 

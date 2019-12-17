@@ -31,7 +31,7 @@ Huge thanks to Rustik Jamz for the music. Check them out: @[rustik-jamz][2].
 
 Double huge thanks to Dr. Milton Bennett for coining the term &#8220;The Platinum Rule&#8221; back in 1979 and having such a huge impact on my life before I was even born. Check him out here: <a href="http://www.idrinstitute.org/page.asp?menu1=2&menu2=3" target="_blank" rel="nofollow noopener">www.idrinstitute.org/page.asp?menu1=2&menu2=3</a>.
 
-\***
+***
 
 _Oh, and that header image is taken from a Powerpoint I made for a keynote I gave recently, where I had comparison slides to visually depict the differences between the Golden Rule and the Platinum Rule. I made them on the plane en route. They might be my favorite things I&#8217;ve ever made. They are included  below for your viewing pleasure (:_
 

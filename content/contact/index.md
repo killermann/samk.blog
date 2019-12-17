@@ -38,7 +38,7 @@ sK
 
   1. <span style="line-height: 1.5em;">My preference, if you have an account, is to <strong>mention me on Twitter </strong><a href="https://twitter.com/killermann"><strong>@killermann</strong></a><strong>)</strong>. The short form of Twitter, plus me basically never using it, makes it a great place to say hi.</span>
   2. [**Use this contact form**][3]. It archives messages for me, which makes it easier to tend to them when I set aside the time.
-  3. **You can also email **[**yo@samkillermann.co**m][4], but I hope you read the prologue above if you do so.
+  3. **You can also email [yo@samkillermann.com][4]**, but I hope you read the prologue above if you do so.
 
  [1]: https://samtalkto.us
  [2]: http://itspronouncedmetrosexual.com/campus-programs "IPM Booking"

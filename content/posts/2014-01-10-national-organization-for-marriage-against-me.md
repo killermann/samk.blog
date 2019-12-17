@@ -92,9 +92,7 @@ Sam &#8220;Sin with Colored Pencils&#8221; Killermann
 
 P.S. I didn&#8217;t want this, but if you wanna keep this tête-à-tête going, I&#8217;m not going to back down. I&#8217;m a quick, passionate, socially-conscious comedian with no day job and an internet at my disposal. You&#8217;re a bully with a dead cause. I don&#8217;t see this ending well for you.
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 <p style="text-align: left;">
   <strong><em>A Few Corrections From Your Article, NOM:</em></strong>

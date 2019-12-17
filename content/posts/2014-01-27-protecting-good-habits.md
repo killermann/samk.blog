@@ -47,9 +47,7 @@ If you&#8217;re struggling with adopting and protecting some good habits in your
 
 If you have any other tips, I&#8217;d love to hear them. This is a forever-struggle for me, so I&#8217;m always open to insight.
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 <p style="text-align: left;">
   <em>Now, I have some <a href="http://en.wikipedia.org/wiki/Retroactive_continuity" target="_blank">retcon-ing</a> to do with this project for last week. Oddly, I wrote most of the thoughts that are missing, I just didn&#8217;t find the time to publish them here because Netflix.</em>

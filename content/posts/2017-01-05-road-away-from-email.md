@@ -125,7 +125,7 @@ I hope this doesn&#8217;t sound whiny. It&#8217;s not meant to be whiny, just a 
 
 And I also hope folks don&#8217;t focus too much on the numbers themselves. I think email is a problem, even if it&#8217;s just a few emails that distract you, bring you anxiety, or inappropriately demand your attention.
 
-Email makes everything seem urgent and important, and the simple fact of my life (and perhaps yours) is that **almost nothing that comes through my email inbox is truly urgent or important. **It was just convenient.
+Email makes everything seem urgent and important, and the simple fact of my life (and perhaps yours) is that **almost nothing that comes through my email inbox is truly urgent or important.** It was just convenient.
 
 I&#8217;m okay with a little inconvenience, if it leads to me being able to better spend my time the way that I feel compelled and gifted to be doing so. I think quitting email is the best path to that outcome.
 

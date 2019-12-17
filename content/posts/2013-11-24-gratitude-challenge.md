@@ -36,8 +36,6 @@ Thank you for being you,
 
 sK
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 _Oh, but if you do, please don&#8217;t send me a thank you, or it won&#8217;t count as one of your seven (sorry, I don&#8217;t make the rules &#8212; blame the folks at corporate). This challenge is not me fishing for more thanks._

@@ -25,9 +25,7 @@ tags:
 
 It was a person who pulled him out of himself. A person who made him need, in a way that need was embodied by want. It was a person who lured then faded, who teased then parried, who pulled then pushed. It was a person who meant more to him than he felt comfortable acknowledging, because there was no sense in it. But his life had never made sense.
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 <p style="text-align: left;">
   I think a lot about life. If you&#8217;ve read much of what I&#8217;ve published on this site, this likely comes as no surprise to you. If you know me as a person, in the real-life, touchy-feely world, it&#8217;s definitely not a surprise. I don&#8217;t sleep much. I never have. But I daydream a lot. I always have.
@@ -41,9 +39,7 @@ It was a person who pulled him out of himself. A person who made him need, in a 
   All this time I spent in my head, for the longest time, remained in my head. When I started letting it out, it started to make more sense to me, and I learned it helped other people make sense to them. It was good. It was cathartic. It became necessary.
 </p>
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 <p style="text-align: left;">
   &#8220;Yeah, I know, I know. All that stuff. Those are good things. But none of those really mean anything. When you boil it down, you can say all those things, and try to <em>be </em>all those things, and just end up exactly where you started: clueless and floundering through life. So, maybe I asked it wrong. What&#8217;s the meaning of <em>your</em> life?&#8221; he asked.
@@ -65,9 +61,7 @@ It was a person who pulled him out of himself. A person who made him need, in a 
   Because he&#8217;s never lied. Not to anyone. But he&#8217;s also never been sincere. His world is centered around people. He has too much love, his mom always told him this. And he&#8217;s managed to create a life that is honest, where he can find Meaning that is true to himself. But the idea that a person has so much sway over him, a person who barely knows him can pull on his mind the way the moon pulls the tides out of the sea, scares him. It makes him feel weak. Vulnerable. Incredibly, irrevocably human. And that, to him, is life. It&#8217;s perfect. But it&#8217;s not the way things <em>should</em> be. He knows this.
 </p>
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 <p style="text-align: left;">
   When I started writing, I finally started to calm my mind and channel the chaos into a discernible message. I wrote a lot of fiction for years, many years ago. I wrote hundreds of thousands of words. I would never share it with anyone, write it and delete it. It was catharsis with no other purpose. It was perfect.
@@ -81,9 +75,7 @@ It was a person who pulled him out of himself. A person who made him need, in a 
   I was told by someone I respected a great deal that my writing was the &#8220;best student writing&#8221; she&#8217;d ever read. I didn&#8217;t know at the time how meaningful that would be, and I doubt she does to this day, but a few years later it would be the nudge I needed to become <em>me</em>.
 </p>
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 <p style="text-align: left;">
   &#8220;It&#8217;s hard to be sincere,&#8221; he replied. &#8220;Because I&#8217;m worried you won&#8217;t understand.&#8221;
@@ -97,9 +89,7 @@ It was a person who pulled him out of himself. A person who made him need, in a 
   &#8220;I&#8217;ll understand,&#8221; his friend reassured.
 </p>
 
-<p style="text-align: center;">
-  ***
-</p>
+***
 
 <p style="text-align: left;">
   When I wrote my first &#8220;article&#8221; I had no idea what I was getting into. In fact, at the time, I wouldn&#8217;t&#8217;ve even called it an &#8220;article.&#8221; I just thought of it as &#8220;this thing I&#8217;ll write because I was told I should write it.&#8221; It got 20 views, three of which were probably my mom. When a little over a month later my site broke 100,000 readers, I was more surprised than anyone.
@@ -113,9 +103,7 @@ It was a person who pulled him out of himself. A person who made him need, in a 
   I can&#8217;t imagine life now without writing. But I also couldn&#8217;t&#8217;ve imagined that writing would be such an important part of my life. And for a person whose life relies on his imagination, this is disconcerting.
 </p>
 
-<p style="text-align: left;">
-  ***
-</p>
+***
 
 <p style="text-align: left;">
   &#8220;The meaning of my life is a person,&#8221; he said through his teeth, realizing that saying it out loud wasn&#8217;t just admitting it to his friend, it was affirming it to himself. &#8220;A person who inspires in me need embodied by want. Who lures then fades. Who pulls and pushes. A person who will likely never understand the importance they have in my life, but will hold that meaning regardless.&#8221;
