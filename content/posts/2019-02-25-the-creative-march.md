@@ -133,7 +133,9 @@ If you&#8217;re marching along with me, [let me know][12]! I&#8217;d love to hea
 
   * **Enter 0-hour days** so that you have one entry in the spreadsheet for every day in the year (with or without a description and mood &#8212; your call, I&#8217;m doing it).
   * **View your 7-day pace** to get a snapshot of how the past week contributes to your year of creativity. Paste this function in your spreadsheet in cell E15, then you can copy/paste it to the right of whatever day you want to measure (**If you&#8217;re not using my spreadsheet template, you&#8217;ll need to customize the range**): 
-    <pre>=SUM(C8:C15)*52.143</pre>
+```excel
+=SUM(C8:C15)*52.143
+```
 
  [1]: /big-flu-no-news/
  [2]: /numbers-rule-my-life/

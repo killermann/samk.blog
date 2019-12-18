@@ -7,9 +7,8 @@ dfn, cite, em, i {
 }
 
 blockquote {
-	margin: 0 1.5rem 1.5rem;
-	padding:1rem;
-	font-size:1rem;
+	margin:1.5rem 0 1.5rem -.35rem;
+	padding:.5rem 1.5rem .5rem 1.5rem;
 	font-family:$sans-serif;
 	@extend .chameleon-border;
 	border-style:solid;
@@ -36,14 +35,41 @@ p + p {
 }
 
 pre {
-	background: $color__background-pre;
-	font-family: $font__pre;
-	line-height: $font__line-height-pre;
-	margin-bottom: 1.5rem;
-	font-size:.9rem;
-	max-width: 100%;
-	overflow: auto;
 	padding: 1.5rem;
+	margin: 1.5rem auto;
+	position: relative;
+	border-radius: 5px;
+	overflow: hidden;
+	color: var(--bg-color);
+	
+	&:before, &:after {
+		border-radius: 5px;
+		position: absolute;
+		top: 0;
+		z-index: -1;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		opacity: .8;
+		content: '';
+		background: var(--text-color);
+	}
+
+	&:after {
+		z-index: -2;
+		opacity: 1;
+		@extend .chameleon-bg;
+	}
+
+	code:before {
+		position: absolute;
+		top: 5px;
+		font-size: 12px;
+		left: 5px;
+		content: attr(data-lang);
+		@extend .chameleon-color;
+		line-height: 1;
+	}
 }
 
 code, kbd, tt, var {

@@ -55,11 +55,7 @@ tags:
   We despise “fair-weather” fans. That is, we despise people who like a team because it’s good. In fact, we go so far in that direction that we celebrate attachment to a losing team to the point where it’s sadomasochistic:
 </p>
 
-<blockquote class="wp-block-quote graf graf--blockquote">
-  <p>
-    Oh, you’re a Cubs fan… <em class="markup--em markup--blockquote-em">now</em>? I was born a Cubs fan. I was a Cubs fan when they lost — year after year. I come from a family of Cubs fans. Three generations of watching them lose. Three generations of depressing seasons, losing records, heartbreaking <em class="markup--em markup--blockquote-em">but-this-is-the-one-shit-no-it’s-not </em>seasons. I drank myself out of a job because of the Cubs. Do you still have your job? You’re no Cubs fan.
-  </p>
-</blockquote>
+> Oh, you’re a Cubs fan… _now_ ? I was born a Cubs fan. I was a Cubs fan when they lost — year after year. I come from a family of Cubs fans. Three generations of watching them lose. Three generations of depressing seasons, losing records, heartbreaking _but-this-is-the-one-shit-no-it’s-not_ seasons. I drank myself out of a job because of the Cubs. Do you still have your job? You’re no Cubs fan.
 
 <p class="graf graf--p">
   Even more, we hold people to things they’ve supported in the past forever (“Yeah, but you <em class="markup--em markup--p-em">used to be a fan of _____.”)</em>, make no room for them to grow or change, and attack them when they do — even when they change because they didn’t want to keep being loyal to something terrible.
