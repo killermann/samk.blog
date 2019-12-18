@@ -19,7 +19,7 @@ Think of this as part open letter to the world, and part sharing experiences and
 
 Has pissing off your roommate ever really benefited you in the end? If so, send your experience to sam@doesntbelieveyou.lol.
 
-<p class="has-drop-cap">My goal with everything that I write here is for it to be a nudge toward some healthier, happier, or more whole way of living &#8212; for myself, and for anyone who happens to read it. Little reminders, big call-to-actions, personal challenges. Things that I&#8217;m currently struggling with, things I feel like I have my mind wrapped around, and things I may be facing for the first time.</p>
+**My goal with everything that I write here is for it to be a nudge toward some healthier, happier, or more whole way of living** &#8212; for myself, and for anyone who happens to read it. Little reminders, big call-to-actions, personal challenges. Things that I&#8217;m currently struggling with, things I feel like I have my mind wrapped around, and things I may be facing for the first time.
 
 I&#8217;ve found that my writing here organically sorted itself into three overall buckets:
 
@@ -38,6 +38,9 @@ You can also browse the posts here by _format,_ instead of theme. The main forma
 
 I&#8217;ll write in clear language, with passion, my heart to yours. And if you come along for the ride, I hope you&#8217;ll write back.
 
+<a href="/sections/" class="biglink">Browse sections</a> 
+
+
 ## About the Author
 
 <div class="wp-block-image">
@@ -54,13 +57,18 @@ I also do everything myself in my projects (from the writing, to the design, web
 
 This blog is also about that: the things I&#8217;m learning, and how you can DIY, or benefit from my mistakes.
 
+<a href="/about/sam-killermann/" class="biglink">More about me</a> 
+
+
 ## About the Site
 
-This is a [WordPress][16] blog that is served as a static [JAMstack][17] site using [Shifter][18]. I developed/designed a custom theme using [_s][19] as the boilerplate, paring down everything I didn&#8217;t need*, to try to make it as fast and accessible as possible. The theme I made is all open source and uncopyrighted, and you can [view it on Github][20].
+I built this site from the ground-up using [JAMstack][17] methodology. To make this site as fast, accessible, and environmentally sustainable as possible, I'm using Hugo to generate the pages, and I pared down everything I didn't need*. The theme I made is all open source and uncopyrighted, and you can [view it on Github][20].
 
-*You might be wondering about the constantly shifting chameleon color scheme, and asking &#8220;Was _that_ a need?&#8221; Yes, my friend. Because it makes _me _happy to visit this site, and I need to come here for this thing to work. So it was more than a need: it&#8217;s everything. 
+*You might be wondering about the constantly shifting chameleon color scheme, and asking &#8220;Was _that_ a need?&#8221; Yes, my friend. Because it makes _me_ happy to visit this site, and I need to come here for this thing to work. So it was more than a need: it&#8217;s everything.
 
- [1]: /sam-killermann/
+<a href="https://github.com/killermann/samk.blog" class="biglink">More about the site</a> 
+
+ [1]: /about/sam-killermann/
  [2]: https://en.wikipedia.org/wiki/Pale_Blue_Dot
  [3]: https://www.samkillermann.com/category/better-humaning/
  [4]: https://www.samkillermann.com/category/technolophizing
@@ -75,8 +83,5 @@ This is a [WordPress][16] blog that is served as a static [JAMstack][17] site us
  [13]: https://www.samkillermann.com/type/status
  [14]: https://www.samkillermann.com/about/sam-killermann/
  [15]: http://thinkexist.com/quotation/sweep_first_before_your_own_door-before_you_sweep/198763.html
- [16]: https://wordpress.org
  [17]: https://jamstack.org/
- [18]: http://getshifter.io
- [19]: http://underscores.me/
- [20]: https://github.com/killermann/sam-killermann-blog
+ [20]: https://github.com/killermann/samk.blog

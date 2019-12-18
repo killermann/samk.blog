@@ -21,3 +21,43 @@ a {
 		outline: 0;
 	}
 }
+
+.biglink {
+	border:none;
+	position: relative;
+	line-height: 1;
+	font-weight: 800;
+	display: inline-block;
+	padding: .3em .5em;
+	font-family: $font__theme;
+
+	&:before {
+		content: '';
+		@extend .chameleon-bg;
+		position: absolute;
+		right: 0;
+		left: 0;
+		bottom: 0;
+		height: 50%;
+		opacity: .3;
+		z-index: -1;
+		border-radius: .125em;
+	}
+
+	&:after {
+		content: ' ➜';
+		margin-left: .125em;
+		display: inline;
+	}
+
+	&:hover {
+		&:before {
+			height: 100%;
+			opacity: .7;
+		}
+	}
+
+	& + .biglink {
+		margin-left: 1em;
+	}
+}

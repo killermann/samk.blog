@@ -482,7 +482,6 @@
 
 /* Page Styles */
 
-
 .page-title {
 	text-align:center;
 	font-weight: 900;
@@ -490,7 +489,7 @@
 }
 
 .format-page .post-thumbnail {
-	margin-bottom:4vw;
+	margin:calc(4vw + 1.5rem) auto;
 }
 
 /* Home Page Styles */
@@ -843,6 +842,9 @@ MEDIA QUERIES
 @media (min-width: 1030px) {
 
 	.page-body .entry-header {
+
+		text-align: center;
+
 		.post-thumbnail {
 			margin-left: auto;
 			margin-right: auto;
@@ -876,4 +878,11 @@ MEDIA QUERIES
 /* Supa-large */
 
 @media (min-width: 1400px) {
+	.page-body .entry-header {
+		
+		.post-thumbnail {
+			margin-left: -4vw;
+			margin-right: -4vw;
+		}
+	}
 }
