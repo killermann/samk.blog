@@ -67,7 +67,7 @@ This is more important to me than most of the other healthy habits I&#8217;ve ei
 
 I have a hard time imagining the impact of 100 days of straight meditation on my life, knowing what sitting for just a couple minutes can do for my day. I&#8217;m excited by the idea, and I&#8217;m going to hold it in my mind as I settle into this challenge.
 
-<hr class="wp-block-separator" />
+***
 
 ***Updated** on day 2, because I realized I sometimes do news first, sometimes email &#8212; and neither are great
 

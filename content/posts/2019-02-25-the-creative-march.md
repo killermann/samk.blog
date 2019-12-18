@@ -127,7 +127,7 @@ Like with some of my other challenges, I&#8217;ll update this post or write a fo
 
 If you&#8217;re marching along with me, [let me know][12]! I&#8217;d love to hear about any tips you&#8217;ve found useful for the trip.
 
-<hr class="wp-block-separator" />
+***
 
 **Update 1:** I&#8217;m two weeks in, and have a few tips (for those of you who are Creative Marching with me):
 

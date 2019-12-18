@@ -15,7 +15,7 @@ I have a whole website that serves as my virtual curriculum vitae, so if you wan
 
 Oh, you haven&#8217;t clicked? You just wanna learn about me here? Okay. I see. I&#8217;ll abide.
 
-<hr class="wp-block-separator" />
+***
 
 ## Sam Killermann, in Generic Bio
 

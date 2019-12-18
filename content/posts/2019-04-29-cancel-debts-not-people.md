@@ -67,7 +67,7 @@ This can serve as a concrete answer to &#8220;What do you mean by social justice
 
 I&#8217;m here for that. And I&#8217;ll happily wear it on my chest. 
 
-<hr class="wp-block-separator" />
+***
 
 _This post, <a href="https://everyshirtispolitical.com/cancel-debts-not-people/" title="Cancel Debts Not People" rel="canonical">Cancel Debts Not People</a>, originally appeared on [Every Shirt is Political][8], where I created a shirt, print, and stencil based on this idea._
 

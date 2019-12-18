@@ -1,8 +1,8 @@
 module.exports = {
 	plugins: {
     '@fullhuman/postcss-purgecss': {
-			content: ['layouts/**/*.html'],
-			whitelist: ['is-loaded'],
+			content: ['public/**/*.html'],
+			whitelist: ['is-loaded', 'is-active'],
       whitelistPatternsChildren: [/color/]
     },
 		autoprefixer: {

@@ -271,12 +271,9 @@
 .entry-header {
 	margin-bottom:1.5em;
 }
-	.entry-title {
+	.entry-title, .page-title {
 		margin: 2rem auto;
-	}
-
-	.page-body .entry-title {
-		font-size: calc(1.5em + 2.4vw);
+		font-size: calc(1.8em + 1.8vw);
 	}
 
 	.primary-category, .byline, .posted-on, .more-link{
@@ -291,24 +288,28 @@
 		font-family:$sans-serif;
 	}
 
-.page-body {
+/* purgecss ignore */
 
-	.format-standard, .format-page {
+.format-standard, .format-page {
 
-		.entry-content {
-			& > p:first-of-type {
-				margin-top:0;
-				line-height: 1.44;
-				font-size: 1.33em;
-				font-weight:500;
-				font-family:$sans-serif;
-			}
+	.entry-content {
 
-			blockquote {
-				font-family:$sans-serif;
-			}
+		
+		& > p:first-of-type {
+			margin-top:0;
+			line-height: 1.44;
+			font-size: 1.33em;
+			font-weight:500;
+			font-family:$sans-serif;
+		}
+
+		blockquote {
+			font-family:$sans-serif;
 		}
 	}
+}
+
+.page-body {
 
 	.authorBox {
 		@extend .wrap;

@@ -29,14 +29,14 @@ I don&#8217;t usually do things like this, but one of my goals for this year was
 
 Here&#8217;s my list of 100 dreams:
 
-_Note: 1 &#8211; 42 are professional-ish, 42 &#8211; 69 are personal-ish, and the last 31 are all experiential. I&#8217;m occasionally updating with a  _✅_when a dream has become a reality (last update November 2018)._
+_Note: 1 &#8211; 42 are professional-ish, 42 &#8211; 69 are personal-ish, and the last 31 are all experiential. I&#8217;m occasionally updating with a_ ✅ _when a dream has become a reality. (last update December 2019 -- added 4 more checks!)._
 
   1. Write this entire list with 100 legitimate dreams ✅
   2. Create a line of social justice-y greeting cards ✅
   3. Write and illustrate a children&#8217;s book
   4. Publish 3 books, then keep writing more ✅
   5. Keynote a conservative conference/event
-  6. Record and release my EP
+  6. Record and release an EP
   7. Translate _A Guide to Gender_ into 5 languages
   8. Perform/speak on every continent (yes, especially Antarctica)
   9. Perform/speak in every U.S. state (I&#8217;m at 49/50, and looking at you, Alaska &#8212; I&#8217;ll do a free show if anyone at UofA is reading this!)
@@ -44,8 +44,8 @@ _Note: 1 &#8211; 42 are professional-ish, 42 &#8211; 69 are personal-ish, and th
  11. Give away 100,000 copies of _A Guide to Gender_
  12. Host SNL
  13. Open a vegan restaurant/food truck
- 14. Create a fun audio book version of _A Guide to Gender_
- 15. Do my show or give a talk at all the schools I personally attended
+ 14. Create a fun audio book version of _A Guide to Gender_ (25K and counting!)
+ 15. Perform a show or give a talk at all the schools I personally attended
  16. Have a book on the NYT Best Sellers List (organically, not by buying my way in)
  17. Collaborate with three different activists on three different projects in a year ✅
  18. Earn enough money to pay all my bills doing Good (and no freelancing) ✅
@@ -57,9 +57,9 @@ _Note: 1 &#8211; 42 are professional-ish, 42 &#8211; 69 are personal-ish, and th
  24. Launch the Uncopyright Movement  ✅
  25. Serve on the Board of some cool national organization I love ✅
  26. Publish a piece in a print magazine  ✅
- 27. Translate the Genderbread Person into at least 7 more languages
+ 27. Have the Genderbread Person translated into at least 7 languages ✅
  28. Shift my income to be primarily from writing (not speaking/performing) ✅
- 29. Work less than an average 14 hours a day in a year
+ 29. Work less than an average 14 hours a day in a year ✅
  30. Make a documentary inspired by and following the development and reaction one of my projects
  31. Publish a book of poetry and prose
  32. Tell jokes on Comedy Central
@@ -81,17 +81,17 @@ _Note: 1 &#8211; 42 are professional-ish, 42 &#8211; 69 are personal-ish, and th
  48. Cook for friends on a regular basis
  49. Halve my possessions once more, for the last time (probably)
  50. Pay someone to do my taxes
- 51. Get my PhD
+ 51. Get a PhD
  52. Find a secret place in the world where I can escape and sabbatical (and tell no one)
  53. Attend a culinary school academy type thing
  54. Brew my own beer ✅
- 55. Get a puppy and love it to death (after he&#8217;s lived a long, happy life, of course) ✅([Chewbacca!][1])
+ 55. Get a puppy and love it to death (after he&#8217;s lived a long, happy life, of course) ✅([Chewbacca!][1] &amp; [Ghost!](https://www.instagram.com/p/BxiOHs4FiQ2/))
  56. Drink more wine, more tea, and less coffee ✅
  57. Learn to be less afraid of money
  58. Fund a scholarship for students &#8220;who otherwise would not consider higher education an option&#8221;
  59. Get surgery on my eyeballs so I can see better
  60. Actually live in Hawaii near my fam for at least a little bit, if nothing else but to confirm my theory that I&#8217;d get island fever despite all the wonderfulness
- 61. Get braces or whatever is necessary to straighten my teeth so I can chew better
+ 61. Get braces or whatever is necessary to straighten my teeth so I can chew better ✅
  62. Grow a garden
  63. Build a motorcycle
  64. Develop a family of friends in Austin, or wherever I live next ✅
@@ -114,7 +114,7 @@ _Note: 1 &#8211; 42 are professional-ish, 42 &#8211; 69 are personal-ish, and th
  81. Do a backflip out of an airplane (ideally with a parachute attached to me) ✅
  82. Ride in a hot air balloon (ideally in Anatolia in Turkey)
  83. Go to the Sasquatch Music Festival
- 84. Visit the Great Pyramids and the Sphinx
+ 84. Climb the Great Pyramids and walk around the Sphinx ✅
  85. See Zhangye Danxia in China
  86. Buy a van/bus/station wagon and live/work out of it on the road for a while
  87. See Flight of the Conchords live
@@ -122,7 +122,7 @@ _Note: 1 &#8211; 42 are professional-ish, 42 &#8211; 69 are personal-ish, and th
  89. <span style="line-height: 1.5em;">Literally walk 500 miles to see someone I love</span>
  90. Go to Burning Man
  91. Swing on the &#8220;End of the World&#8221; Swing in Baños, Ecuador
- 92. Ride an elephant, ideally one named &#8220;Bubbles&#8221; (but I&#8217;m not picky) ✅(Not Bubbles, [Meena][2])
+ 92. Ride an elephant, ideally one named &#8220;Bubbles&#8221; (but I&#8217;m not picky) ✅[Not Bubbles, [Meena][2]]
  93. Spelunk the caves of Hang Ken in Vietnam
  94. Walk from the Shire to Mordor (or, rather, the real-life places in NZ those locations were shot in)
  95. Oktoberfest in München
@@ -130,7 +130,7 @@ _Note: 1 &#8211; 42 are professional-ish, 42 &#8211; 69 are personal-ish, and th
  97. Experience zero gravity, ideally in space
  98. See Mike Birbiglia live ✅
  99. Attend the World Cup
-100. Visit the Himalayas and a Zen Buddhist monastery in the region
+1.   Visit the Himalayas and a Zen Buddhist monastery in the region
 
 _That&#8217;s it. That&#8217;s a lot. If you want to make any of these dreams a reality with me, or have a tip/inside track for one, I&#8217;m all ears._
 

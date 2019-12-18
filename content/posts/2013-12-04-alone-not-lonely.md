@@ -32,7 +32,11 @@ _I&#8217;m not lonely! I have 2200 facebook friends. Look at all the things I s
 
 We are living in a time when it&#8217;s easy to feel uncomfortable being alone, because there are so many ways you can &#8220;be&#8221; with other people. So we&#8217;re never truly alone. And that makes it ever more uncomfortable when we feel lonely.
 
-I saw someone post a photo on Facebook last Friday night of themselves with a glass of wine and the caption &#8220;Relaxing into a much-needed quiet Friday night date with myself. #DontHate&#8221; The irony hurt. _If you really want to be alone, WHY ARE YOU TELLING THE WHOLE WORLD_, my brain yelled. Then I realized I knew the answer: this person is uncomfortable being alone on a Friday night, and this is how they are trying to mitigate that discomfort_. _
+I saw someone post a photo on Facebook last Friday night of themselves with a glass of wine and the caption &#8220;Relaxing into a much-needed quiet Friday night date with myself. #DontHate&#8221; 
+
+The irony hurt. _If you really want to be alone, WHY ARE YOU TELLING THE WHOLE WORLD_, my brain yelled. 
+
+Then I realized I knew the answer: this person is uncomfortable being alone on a Friday night, and this is how they are trying to mitigate that discomfort.
 
 They are seeing all of their friends posting photos of their fun nights out with dozens of people and having so much fun and internalizing all of this as something being wrong with them. Maybe they chose to be alone tonight, or maybe they got ditched by a friend, or maybe they wanted to go out and don&#8217;t really have any friends who wanted to go out with them, but, whatever the case, they were probably terrified they would slip from _enjoying a night alone_ into _being lonely on a Friday night_. The first is good. The second is bad. And maybe a &#8220;like&#8221; or a reassuring comment would stave that off.
 
@@ -44,7 +48,7 @@ I am usually good at landing on the _enjoying a night alone_ side of the line, 
 
 <iframe src="//instagram.com/p/fyzVQoFHsM/embed/" width="612" height="710" frameborder="0" scrolling="no"></iframe>
 
-That was at some hotel in some town on the east coast several weeks ago. I spent a ton of time on the road this fall, and was likely sharing that to stave off the internal perception of loneliness that night. Don&#8217;t get me wrong, I was also sharing it because I think it&#8217;s hilarious how disgusting I am. I don&#8217;t really eat animal stuff, and only rarely (once a month or so) eat cheese, but when I do, _I do__._ And it&#8217;s also worth pointing out that when someone &#8220;likes&#8221; something on Instagram they give you a heart. How perfect. But ultimately, I didn&#8217;t want to feel lonely. I never want to feel lonely.
+That was at some hotel in some town on the east coast several weeks ago. I spent a ton of time on the road this fall, and was likely sharing that to stave off the internal perception of loneliness that night. Don&#8217;t get me wrong, I was also sharing it because I think it&#8217;s hilarious how disgusting I am. I don&#8217;t really eat animal stuff, and only rarely (once a month or so) eat cheese, but when I do, _I do_. And it&#8217;s also worth pointing out that when someone &#8220;likes&#8221; something on Instagram they give you a heart. How perfect. But ultimately, I didn&#8217;t want to feel lonely. I never want to feel lonely.
 
 I&#8217;ve found aloneness to be one of the most powerful influences in getting to the point where I&#8217;m at right now, doing what I&#8217;m doing, living the life I&#8217;m living. By finding a way to enjoy and embrace aloneness I&#8217;ve created things and had experiences I would have never had otherwise. Loneliness is a poison, but aloneness is a catalyst. The difficult part is infusing the latter into your life without inadvertently dosing yourself with the former.
 

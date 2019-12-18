@@ -161,7 +161,7 @@ But, for us overthinkers, it&#8217;s often &#8220;no.&#8221;
 
 And sometimes we only notice that 1800 words later. Oof.
 
-<hr class="wp-block-separator" />
+***
 
 <small>Featured photo by <a href="https://unsplash.com/photos/kjERLXaHjXc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sarah Dorweiler</a> on <a href="https://unsplash.com/search/photos/belly-button?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>. And it&#8217;s <em>not </em>a cat <a href="https://www.merriam-webster.com/dictionary/navel-gazing">navel-gazing</a>, like I initially thought. It&#8217;s a cat staring at a tiny mouse toy. Eyes on the prize. Maybe there&#8217;s something Rorschachian about that. I&#8217;m probably overthinking it.</small>
 

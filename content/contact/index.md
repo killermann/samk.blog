@@ -24,7 +24,7 @@ Much love,
 
 sK
 
-<hr class="wp-block-separator" />
+***
 
 **If you&#8217;re looking to book me to speak at your conference or event**, please use the form on this website: [Sam, talk to us][1].
 

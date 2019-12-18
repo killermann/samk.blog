@@ -26,13 +26,13 @@ We have all the data to give ourselves the most accurate grade possible, and th
 
 ## From &#8220;I would never treat anybody this way.&#8221;
 
-This is something I have heard myself say dozens of times. I know that I have an unhealthy standard I set for myself, and that with other people I lead with compassion and understanding, while I never give myself the benefit of the doubt. This understanding is as far as I&#8217;ve gotten, or at least it was_. _And for good reason: I can&#8217;t give myself the benefit of the doubt, because there is no doubt.
+This is something I have heard myself say dozens of times. I know that I have an unhealthy standard I set for myself, and that with other people I lead with compassion and understanding, while I never give myself the benefit of the doubt. This understanding is as far as I&#8217;ve gotten, or at least it _was_. And for good reason: I can&#8217;t give myself the benefit of the doubt, because there is no doubt.
 
 I know. I know better. I know what I should be doing. How I should be feeling. I know.
 
 It&#8217;s easy for me to treat other people with compassion when they experience a shortcoming I would berate myself for, because I don&#8217;t know if they know what I know. I don&#8217;t know if they know [we create our own obstacles to happiness][1]. But I do. I know that. So I should be better.
 
-What&#8217;s worse: I know I shouldn&#8217;t _should_. Oops. There I go again. But I know better. That&#8217;s why. I know what I know, and I _know better. _That&#8217;s at the crux of all of this.
+What&#8217;s worse: I know I shouldn&#8217;t _should_. Oops. There I go again. But I know better. That&#8217;s why. I know what I know, and I _know better._ That&#8217;s at the crux of all of this.
 
 ## To &#8220;I would never treat any body this way.&#8221;
 
@@ -44,7 +44,7 @@ I wasn&#8217;t sure what, if anything, would come from it. I&#8217;ve thought ab
 
 &#8220;Your intellect has matured to this point, but your limbic system hasn&#8217;t.&#8221;
 
-Right. That&#8217;s true. That&#8217;s the annoying part. It&#8217;s that I know I shouldn&#8217;t be experiencing this body discomfort, this genuine _ill. _It makes me sick. It hurts in my chest. That&#8217;s what annoys me. That&#8217;s the double-whammy.
+Right. That&#8217;s true. That&#8217;s the annoying part. It&#8217;s that I know I shouldn&#8217;t be experiencing this body discomfort, this genuine _ill._ It makes me sick. It hurts in my chest. That&#8217;s what annoys me. That&#8217;s the double-whammy.
 
 Then she said basically the same thing, again, but this time I heard it differently.
 
@@ -57,6 +57,8 @@ In grad school, one of the most important things I learned was that we need to m
 The theory being that if you challenge someone too much, they&#8217;ll become overwhelmed; and if you support them too much, they&#8217;ll stagnate; the appropriate combination for growth is challenge mitigated by support.
 
 The idea being that you don&#8217;t go from 1 to 100. You go from 1 to 2. 2 to 3. 3 to 4. And so forth.
+
+{{< mailinglist >}}
 
 Previously, I had been treating my limbic self (my body&#8217;s reflexive responses to these external stimuli) as being on the same level as my intellectual self (the higher reasoning self that has spent way too much time thinking about these things).
 
