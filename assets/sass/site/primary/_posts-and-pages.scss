@@ -422,6 +422,7 @@
 	.button {
 		font-size: .9em;
 		margin-top: 10px;
+
 	}
 
 	.description {
@@ -438,8 +439,8 @@
 
 	.icon {
 		position:absolute;
-		top:0vw;
-		right:-3vw;
+		top:0;
+		right:0;
 		display:block;
 		z-index: 0;
 
@@ -702,7 +703,7 @@
 
 
 .archive-header {
-	padding:4vw 4vw 0;
+	padding:4vw;
 }
 
 	.archive-header.Better,
