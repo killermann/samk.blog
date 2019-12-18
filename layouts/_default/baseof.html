@@ -20,7 +20,7 @@
 	<meta name="MobileOptimized" content="375">
 	<meta name="viewport" content="width=device-width,minimum-scale=1">
 	{{ hugo.Generator }}
-	{{ $style := resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }} 
+	{{ $style := resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}">
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:800&display=optional">

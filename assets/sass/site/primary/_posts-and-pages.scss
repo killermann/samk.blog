@@ -101,7 +101,7 @@
 	display:block;
 	border-radius:5px;
 	overflow: hidden;
-	margin:2rem auto 0;
+	margin:0 auto 1.5rem;
 
 	img {
 		width:100%;
@@ -269,19 +269,20 @@
 	}
 }
 .entry-header {
-	margin-bottom:1.5em;
+	margin-bottom:1.5rem;
 }
 	.entry-title, .page-title {
 		margin: 2rem auto;
-		font-size: calc(1.8em + 1.8vw);
+		font-size: calc(2em + 1.8vw);
 	}
 
 	.primary-category, .byline, .posted-on, .more-link{
 		font-weight:900;
-		font-size:.75em;
+		font-size:12px;
 		letter-spacing: 0.08em;
+		font-family: $font__theme;
 		text-transform:uppercase;
-		line-height:1;
+		line-height:1.44;
 	}
 
 	.more-link {
@@ -718,10 +719,14 @@
 		padding: calc(25px + 4vw);
 		overflow: hidden;
 
+		&:hover:after {
+			opacity: .3;
+		}
+
 		&:after {
 			content: '';
 			display:block;
-			opacity: .15;
+			opacity: .2;
 			position: absolute;
 			@extend .chameleon-bg;
 			z-index: 1;
@@ -765,37 +770,37 @@
 
 
 	.archive-header.Technolophizing {
-		background-image: url('img/bg-technolophizing-1400.jpg');
+		background-image: url('/img/bg-technolophizing-1400.jpg');
 
 		.page-title {
-			background-image: url('img/header-technolophizing.png');
+			background-image: url('/img/header-technolophizing.png');
 			height: 128px;
 		}
 	}
 
 	.archive-header.Better {
-		background-image: url(img/bg-better-humaning-1400.jpg);
+		background-image: url(/img/bg-better-humaning-1400.jpg);
 
 		.page-title {
-			background-image: url('img/header-better-humaning.png');
+			background-image: url('/img/header-better-humaning.png');
 			height: 120px;
 		}
 	}
 
 	.archive-header.Kinda {
-		background-image: url(img/bg-kinda-political-1400.jpg);
+		background-image: url(/img/bg-kinda-political-1400.jpg);
 
 		.page-title {
-			background-image: url('img/header-kinda-political.png');
+			background-image: url('/img/header-kinda-political.png');
 			height: 120px;
 		}
 	}
 
 	.archive-header.Adventravel {
-		background-image: url(img/bg-adventravel-1400.jpg);
+		background-image: url(/img/bg-adventravel-1400.jpg);
 
 		.page-title {
-			background-image: url('img/header-adventravel.png');
+			background-image: url('/img/header-adventravel.png');
 			height: 120px;
 		}
 	}
@@ -804,15 +809,15 @@
 	(-webkit-min-device-pixel-ratio: 1.25),
 	(min-resolution: 120dpi){
 		.archive-header.Technolophizing .page-title {
-			background-image: url('img/header-technolophizing@2x.png');
+			background-image: url('/img/header-technolophizing@2x.png');
 		}
 
 		.archive-header.Better .page-title {
-			background-image: url('img/header-better-humaning@2x.png');
+			background-image: url('/img/header-better-humaning@2x.png');
 		}
 
 		.archive-header.Kinda .page-title {
-			background-image: url('img/header-kinda-political@2x.png');
+			background-image: url('/img/header-kinda-political@2x.png');
 		}
 	}
 
@@ -842,6 +847,9 @@ MEDIA QUERIES
 
 @media (min-width: 768px) {
 
+	.primary-category, .byline, .posted-on, .more-link{
+		font-size:.8em;
+	}
 }
 
 /* Large screens */

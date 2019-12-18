@@ -131,10 +131,8 @@ height: auto;
 }
 
 /*--------------------------------------------------------------
-# Plugin Modules
+# Show content once CSS is parsed
 --------------------------------------------------------------*/
-
-@import "modules/serialize";
 
 html {
 	visibility: visible;
