@@ -10,14 +10,13 @@
 			{{ if .Params.excerpt }}
 			<p class="excerpt">{{ .Params.excerpt }}</p>
 			{{ end }}
+			<div class="byline">
+				From <a href="/categories/{{ index .Params.categories 0 | urlize }}" title="All {{ index .Params.categories 0 }} Posts">{{ index .Params.categories 0 }}</a>  <span class="author vcard"> by <a class="url fn n" href="/about/sam-killermann/" title="About the Author">{{ .Params.author }}</a></span>
+			</div>
 		</div>
 		{{ if .Params.featured_image }}
 		<div class="post-thumbnail">
 			<img src="{{ .Params.featured_image }}" alt="" />
-		</div>
-
-		<div class="byline">
-			From <a href="/categories/{{ index .Params.categories 0 | urlize }}" title="All {{ index .Params.categories 0 }} Posts">{{ index .Params.categories 0 }}</a>  <span class="author vcard"> by <a class="url fn n" href="/about/sam-killermann/" title="About the Author">{{ .Params.author }}</a></span>
 		</div>
 		{{ end }}
 	

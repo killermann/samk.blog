@@ -64,7 +64,7 @@
 	{{ end }}
 </head>
 
-<body class="{{ .Kind }}-body {{- with .Params.body_class}} {{ . }}{{ end -}} color1" >
+<body class="{{ .Kind }}-body{{ with .Params.body_class}} {{ . }}{{ end }} color1" >
 	<a class="skip-link screen-reader-text" href="#main">Skip navigation &darr;</a>
 	<div id="page">
 		{{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}	
@@ -78,10 +78,10 @@
 		{{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
 	</div><!--/page-->
 	{{ partial "svg-icons" }}
-	<script
+	<!-- <script
   src="https://code.jquery.com/jquery-3.4.1.min.js"
   integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
+  crossorigin="anonymous"></script> -->
 	<script async data-no-instant src="/scripts-dist.js"></script>
 </body>
 

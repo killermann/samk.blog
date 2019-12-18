@@ -14,7 +14,7 @@
 			</div>
 			{{ if .Params.featured_image }}
 			<div class="post-thumbnail">
-				<img src="{{ .Params.featured_image }}" alt="" />
+				<img class="lazy-load" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ .Params.featured_image }}" alt="" />
 			</div>
 			{{ end }}
 
