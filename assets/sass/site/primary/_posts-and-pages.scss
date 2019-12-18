@@ -248,20 +248,20 @@
 	margin-bottom:1.5rem;
 }
 	.entry-title, .page-title {
-		margin: 2rem auto calc(1rem + 2vw);
+		margin: 4vw auto calc(1rem + 1.5vw);
 		font-size: calc(2em + 1.8vw);
 	}
 
 	.excerpt {
 		font-family:$serif;
 		font-weight: 500;
-		margin-bottom:calc(1rem + 2vw);
+		margin-bottom:calc(1rem + 1.5vw);
 		line-height: 1.44;
 		font-size: 1.33em;
 	}
 
 	.byline {
-		margin-bottom: calc(1rem + 2vw);
+		margin-bottom: calc(1rem + 1.5vw);
 	}
 
 	.primary-category, .byline {
@@ -350,8 +350,8 @@
 }
 
 #heart-sK {
-	width:100px;
-	margin:6vw auto 2vw;
+	width:7em;
+	margin:calc(3rem + 2vw) auto 2vw;
 
 	a {
 		border: none;
@@ -365,7 +365,9 @@
 	#heart {
 		@extend .chameleon-color;
 		stroke: currentColor;
+		transition: all 6s linear;
 	}
+
 	#sK {
 		stroke:var(--text-color);
 	}
