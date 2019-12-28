@@ -7,6 +7,10 @@
 	<div class="section-intro entry-content text-wrap">
 		{{ .Content }}
 	</div>
+	{{ else }}
+	<div class="section-intro page-count text-wrap" style="text-align: center;">
+		<strong>Page {{ .Paginator.PageNumber }}</strong>
+	</div>
 	<hr/>
 	{{ end -}}
 </header>
