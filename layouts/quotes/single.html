@@ -1,6 +1,4 @@
 {{ define "main" }}
-{{ $pages := where site.Pages "Type" "post" }}
-{{ $paginator := .Paginate $pages }}
 <header class="section-header format-page wrap">
 	<h1 class="page-title chameleon-color">{{ .Title }}</h1>
 	<div class="section-intro entry-content text-wrap">
@@ -10,10 +8,11 @@
 </header>
 <section class="section-main">
 	<div class="loop">
-    {{ range $paginator.Pages }}
-      {{ partial "card.html" . }}
-    {{ end }}
-    {{- partial "pagination.html" . -}}
-  </div>
-</section><!--/section-main-->
+		{{ range where site.Pages "Type" "post" }}
+			{{ if eq .Params.format "quote" }}
+				{{ partial "card.html" . }}
+			{{ end }}
+		{{ end }}
+	</div>
+</section>
 {{ end }}

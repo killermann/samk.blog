@@ -1,8 +1,7 @@
 {{ define "header" }}{{ partial "site-header.html" . }}{{ end }}
 {{ define "main" }}
-
-<article class="text-wrap format-page">
-	<header class="entry-header">
+<article class="pad format-page">
+	<header class="entry-header text-wrap">
 		<h1 class="page-title chameleon-color">{{ .Title }}</h1>
 	</header><!-- .entry-header -->
 	{{ if .Params.featured_image }}
@@ -10,11 +9,9 @@
 		<img src="{{ .Params.featured_image }}" alt="" />
 	</div>
 	{{ end }}
-
-	<div class="entry-content type-wrap">
+	<div class="entry-content text-wrap">
 		{{ .Content }}
 	</div><!-- .entry-content -->
-
 </article>
 
 {{ end }}

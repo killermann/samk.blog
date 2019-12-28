@@ -2,16 +2,16 @@
 {{ partial "site-header.html" . }}
 {{ end }}
 {{ define "main" }}
-<article class="wrap {{ if .Params.format }}format-{{ .Params.format }}{{ else }}format-standard{{ end }}">
+<article class="wrap pad {{ if .Params.format }}format-{{ .Params.format }}{{ else }}format-standard{{ end }}">
 
 	<header class="entry-header">
 		<div class="entry-header-text">
 			<h1 class="entry-title">{{ .Title }}</h1>
 			{{ if .Params.excerpt }}
-			<p class="excerpt">{{ .Params.excerpt }}</p>
+			<p class="excerpt text-wrap">{{ .Params.excerpt }}</p>
 			{{ end }}
 			<div class="byline">
-				From <a href="/categories/{{ index .Params.categories 0 | urlize }}" title="All {{ index .Params.categories 0 }} Posts">{{ index .Params.categories 0 }}</a>  <span class="author vcard"> by <a class="url fn n" href="/about/sam-killermann/" title="About the Author">{{ .Params.author }}</a></span>
+				From <a href="/categories/{{ index .Params.categories 0 | urlize }}" title="All {{ index .Params.categories 0 }} Posts">{{ index .Params.categories 0 }}</a>  <span class="author"> by <a class="url fn n" href="/about/sam-killermann/" title="About the Author">{{ .Params.author }}</a></span>
 			</div>
 		</div>
 		{{ if .Params.featured_image }}

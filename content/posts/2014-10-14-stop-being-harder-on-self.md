@@ -14,7 +14,7 @@ categories:
 tags:
   - Challenge
   - Coaching
-  - Happiness
+  - (Un)Happiness
   - Mindfulness
 
 ---

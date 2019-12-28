@@ -1,0 +1,40 @@
+.pagination {
+  display: flex;
+  justify-content: space-evenly;
+
+  .current-page-number {
+    padding: .2em .4em;
+    border: 1px solid var(--bg-faint);
+    text-align: center;
+    border-radius: 4px;
+    margin-right: .2em;
+    font-weight: bold;
+    display: inline-block;
+  }
+
+  .pagination-link {
+    display: block;
+    border: none;
+    @extend .chameleon-bg;
+    width: 2.4em;
+    height: 2em;
+    border-radius: 500px;
+    position: relative;
+  
+    .icon {
+      position: absolute;
+      font-size: 1.4em;
+      left: 50%;
+      top: 50%;
+      line-height: 1;
+      color: var(--bg-color) !important;
+      transform: translate(-50%,-50%);
+    }
+
+    &.previous {
+      .icon {
+        transform: translate(-50%,-50%) rotate(180deg);
+      }
+    }
+  }
+}

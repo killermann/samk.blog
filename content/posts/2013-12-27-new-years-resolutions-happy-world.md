@@ -17,7 +17,7 @@ categories:
 tags:
   - Challenge
   - Gratitude
-  - Happiness
+  - (Un)Happiness
   - Holidays
   - How-To
   - Progress Report

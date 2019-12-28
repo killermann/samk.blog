@@ -17,7 +17,7 @@ ampforwp-amp-on-off:
 categories:
   - Better Humaning
 tags:
-  - Happiness
+  - (Un)Happiness
   - Minimalism
 
 ---

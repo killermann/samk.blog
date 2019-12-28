@@ -1,19 +1,21 @@
 {{ define "main" }}
-<header class="page-header">
+<header class="archive-header wrap {{ .Title | urlize }}">
 	<h1 class="page-title tc">
 		{{ .Title | default .Site.Title }}
 	</h1>
-	{{- if .Params.subtitle }}
-	<h2 class="tc text-c-700 em1 mt0 page-subtitle">{{ .Params.subtitle | lower }} 
-		{{- if ne .Paginator.PageNumber 1 }} (Page {{ .Paginator.PageNumber}}){{ end -}}
-	</h2>
+	{{- if eq .Paginator.PageNumber 1 }}
+	<div class="section-intro entry-content text-wrap">
+		{{ .Content }}
+	</div>
+	<hr/>
 	{{ end -}}
 </header>
 <section class="section-main">
 	<div class="loop">
-		{{ range first 10 (where site.Pages "Type" "post" ) }}
-			{{ partial "card.html" . }}
+		{{ range .Paginator.Pages }}
+			{{- partial "card.html" . -}}
 		{{ end }}
+		{{- partial "pagination.html" . -}}
 	</div>
 </section>
 {{ end }}

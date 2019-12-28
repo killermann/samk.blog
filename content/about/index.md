@@ -31,12 +31,12 @@ As you&#8217;ve already likely noticed, there&#8217;s a lot of overlap between t
 
 You can also browse the posts here by _format,_ instead of theme. The main formats I&#8217;m using are: 
 
-  * **[Articles][11]**: exactly what you expect them to be, longer-form, written posts.
+  * **[Essays][11]**: exactly what you expect them to be, longer-form, written posts.
   * **[Quotes][12]**: short little lessons encapsulated into a sentence or two, from others and from myself
   * **[Statuses][13]**: think Facebook, but without all the weird data extortion and psychological manipulation
   * **[Links][12]**: things I&#8217;m excited to point you to, that don&#8217;t live here
 
-I&#8217;ll write in clear language, with passion, my heart to yours. And if you come along for the ride, I hope you&#8217;ll write back.
+I&#8217;ll write in clear language, with passion, from my heart to yours. And if you come along for the ride, I hope you&#8217;ll write back.
 
 <a href="/sections/" class="biglink">Browse sections</a> 
 
@@ -44,7 +44,7 @@ I&#8217;ll write in clear language, with passion, my heart to yours. And if you 
 ## About the Author
 
 <div class="wp-block-image">
-  <figure class="alignright is-resized"><a href="https://www.samkillermann.com/about/sam-killermann/"><img data-src="/wp-content/uploads/2018/12/sam-killermann-author-headshot.jpg" alt="" class="wp-image-1084 lazy-load" width="250" height="274" srcset="/wp-content/uploads/2018/12/sam-killermann-author-headshot.jpg 500w, /wp-content/uploads/2018/12/sam-killermann-author-headshot-274x300.jpg 274w" sizes="(max-width: 250px) 100vw, 250px" /></a><figcaption>Sam Killermann headshot</figcaption></figure>
+  <figure class="alignright is-resized"><a href="/about/sam-killermann/"><img data-src="/wp-content/uploads/2018/12/sam-killermann-author-headshot.jpg" alt="" class="wp-image-1084 lazy-load" width="250" height="274" srcset="/wp-content/uploads/2018/12/sam-killermann-author-headshot.jpg 500w, /wp-content/uploads/2018/12/sam-killermann-author-headshot-274x300.jpg 274w" sizes="(max-width: 250px) 100vw, 250px" /></a><figcaption>Sam Killermann headshot</figcaption></figure>
 </div>
 
 You can [read all about me on this &#8220;About Sam Killermann&#8221; page][14], but here&#8217;s a different &#8220;about&#8221; that&#8217;s focused on the relationship between this blog and me:
@@ -70,18 +70,18 @@ I built this site from the ground-up using [JAMstack][17] methodology. To make t
 
  [1]: /about/sam-killermann/
  [2]: https://en.wikipedia.org/wiki/Pale_Blue_Dot
- [3]: https://www.samkillermann.com/category/better-humaning/
- [4]: https://www.samkillermann.com/category/technolophizing
- [5]: https://www.samkillermann.com/category/adventravel
- [6]: https://www.samkillermann.com/tag/happiness/
- [7]: https://www.samkillermann.com/tag/mindfulness/
- [8]: https://www.samkillermann.com/tag/work
- [9]: https://www.samkillermann.com/tag/how-to
- [10]: https://www.samkillermann.com/tag/activism
- [11]: https://www.samkillermann.com/articles/
- [12]: https://www.samkillermann.com/type/quote/
- [13]: https://www.samkillermann.com/type/status
- [14]: https://www.samkillermann.com/about/sam-killermann/
+ [3]: /categories/better-humaning/
+ [4]: /categories/technolophizing
+ [5]: /categories/adventravel
+ [6]: /tags/happiness/
+ [7]: /tags/mindfulness/
+ [8]: /tags/work
+ [9]: /tags/how-to
+ [10]: /tags/activism
+ [11]: /essays/
+ [12]: /type/quote/
+ [13]: /type/status
+ [14]: /about/sam-killermann/
  [15]: http://thinkexist.com/quotation/sweep_first_before_your_own_door-before_you_sweep/198763.html
  [17]: https://jamstack.org/
  [20]: https://github.com/killermann/samk.blog

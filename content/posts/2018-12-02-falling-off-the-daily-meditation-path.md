@@ -13,9 +13,8 @@ categories:
   - Building a Daily Meditation Habit
 tags:
   - Habits
-  - Happiness
+  - (Un)Happiness
   - Mindfulness
-
 ---
 I haven&#8217;t meditated in over a week. 
 

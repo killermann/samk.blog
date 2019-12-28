@@ -13,6 +13,7 @@
 	a {
 		width:30.333%;
 		margin:4vw 1.5%;
+		color: #000;
 
 		&:hover, &:focus {
 			color:white;
@@ -92,7 +93,6 @@
 		border-bottom:none;
 		border-left:none;
 		border-right:none;
-		color:var(--text-color);
 
 		.site-info {
 			flex-grow:2;

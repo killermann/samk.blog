@@ -124,12 +124,15 @@
 
 .loop {
 
+	@extend .pad;
+
 	.loop-content {
 		position:relative;
 		padding:6vw 0vw;
 
 		.entry-header {
 			position:relative;
+			text-align: left;
 			
 			.primary-category {
 				margin-top: 5px;
@@ -248,7 +251,7 @@
 	margin-bottom:1.5rem;
 }
 	.entry-title, .page-title {
-		margin: 4vw auto calc(1rem + 1.5vw);
+		margin: calc(4vw + 1rem) auto calc(1rem + 1.5vw);
 		font-size: calc(2em + 1.8vw);
 	}
 
@@ -258,6 +261,7 @@
 		margin-bottom:calc(1rem + 1.5vw);
 		line-height: 1.44;
 		font-size: 1.33em;
+		opacity: .7;
 	}
 
 	.byline {
@@ -278,7 +282,6 @@
 .format-standard, .format-page {
 
 	.entry-content {
-
 		
 		& > p:first-of-type {
 			margin-top:0;
@@ -683,12 +686,12 @@
 
 
 .archive-header {
-	padding:4vw;
+	padding:4vw 4vw 0;
 }
 
-	.archive-header.Better,
-	.archive-header.Technolophizing,
-	.archive-header.Adventravel {
+	.archive-header.better-humaning,
+	.archive-header.technolophizing,
+	.archive-header.adventravel {
 		color: white;
 		position: relative;
 		z-index: 1;
@@ -750,7 +753,7 @@
 	}
 
 
-	.archive-header.Technolophizing {
+	.archive-header.technolophizing {
 		background-image: url('/img/bg-technolophizing-1400.jpg');
 
 		.page-title {
@@ -759,7 +762,7 @@
 		}
 	}
 
-	.archive-header.Better {
+	.archive-header.better-humaning {
 		background-image: url(/img/bg-better-humaning-1400.jpg);
 
 		.page-title {
@@ -768,7 +771,7 @@
 		}
 	}
 
-	.archive-header.Kinda {
+	.archive-header.kinda-political {
 		background-image: url(/img/bg-kinda-political-1400.jpg);
 
 		.page-title {
@@ -777,7 +780,7 @@
 		}
 	}
 
-	.archive-header.Adventravel {
+	.archive-header.adventravel {
 		background-image: url(/img/bg-adventravel-1400.jpg);
 
 		.page-title {
@@ -789,15 +792,15 @@
 	@media
 	(-webkit-min-device-pixel-ratio: 1.25),
 	(min-resolution: 120dpi){
-		.archive-header.Technolophizing .page-title {
+		.archive-header.technolophizing .page-title {
 			background-image: url('/img/header-technolophizing@2x.png');
 		}
 
-		.archive-header.Better .page-title {
+		.archive-header.better-humaning .page-title {
 			background-image: url('/img/header-better-humaning@2x.png');
 		}
 
-		.archive-header.Kinda .page-title {
+		.archive-header.kinda-political .page-title {
 			background-image: url('/img/header-kinda-political@2x.png');
 		}
 	}
@@ -848,9 +851,9 @@ MEDIA QUERIES
 		}
 	}
 
-	.archive-header.Technolophizing,
-	.archive-header.Better,
-	.archive-header.Adventravel {
+	.archive-header.technolophizing,
+	.archive-header.better-humaning,
+	.archive-header.adventravel {
 		border-radius: 25px;
 		margin-top: 4vw;
 		margin-bottom: 6vw;
