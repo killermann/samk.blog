@@ -123,9 +123,9 @@
 }
 
 .loop {
-
-	@extend .pad;
-
+	
+	padding: 0 4vw;
+	
 	.loop-content {
 		position:relative;
 		padding:6vw 0vw;
@@ -687,6 +687,10 @@
 
 .archive-header {
 	padding:4vw 4vw 0;
+
+	.page-title {
+		margin: 0 auto 1.5rem;
+	}
 }
 
 	.archive-header.better-humaning,
@@ -703,8 +707,15 @@
 		padding: calc(25px + 4vw);
 		overflow: hidden;
 
-		&:hover:after {
-			opacity: .3;
+		.absolute-link {
+			@extend .chameleon-bg;
+			opacity: .05;
+			z-index: 5;
+
+			&:hover {
+				opacity: .25;
+			}
+
 		}
 
 		&:after {
@@ -728,7 +739,7 @@
 			margin-top: 4vw;
 			margin-bottom: 0;
 		}
-		.archive-description, .page-title {
+		.section-intro, .page-title {
 			z-index: 5;
 			position: relative;
 		}
@@ -803,10 +814,6 @@
 		.archive-header.kinda-political .page-title {
 			background-image: url('/img/header-kinda-political@2x.png');
 		}
-	}
-
-	.page-template-page-sections .archive-header:hover:after{
-		opacity: .5;
 	}
 
 /*\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
