@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.LanguageCode | default "en-us" }}">
 <head>
-	<style>html{visibility: hidden; opacity:0;}</style>
+	<style>
+		html{
+			visibility: hidden; opacity:0;
+		}
+		.preload * {
+		-webkit-transition: none !important;
+		-moz-transition: none !important;
+		-ms-transition: none !important;
+		-o-transition: none !important;
+	}
+	</style>
 	<script>
 	let root = document.documentElement;
 	if(localStorage.getItem("colorScheme")==="night") {
@@ -64,7 +74,7 @@
 	{{ end }}
 </head>
 
-<body class="{{ .Kind }}-body{{ with .Params.body_class}} {{ . }}{{ end }} color1" >
+<body class="{{ .Kind }}-body{{ with .Params.body_class}} {{ . }}{{ end }} color1 preload" >
 	<a class="skip-link screen-reader-text" href="#main">Skip navigation &darr;</a>
 	<div id="page">
 		{{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}	
@@ -79,6 +89,11 @@
 	</div><!--/page-->
 	{{ partial "svg-icons" }}
 	<script async data-no-instant src="/scripts-dist.js"></script>
+	<script>
+		(function() {
+			document.getElementsByTagName("BODY")[0].classList.remove("preload");		
+		})();
+		</script>
 </body>
 
 </html>
