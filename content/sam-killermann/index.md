@@ -9,7 +9,7 @@ ampforwp-amp-on-off:
   - default
 
 ---
-_If you know me from the interwebs, it&#8217;s likely through one of my [social good projects][1], [my book][2], or maybe my [gendery TED Talk][3]. But I wanted this site to stand as a remaining bastion of quasi-personal space where I can explore ideas and share things away from the limelight that has become most of my other sites. That said, below are a few disclosures about me._
+If you know me from the interwebs, it&#8217;s likely through one of my [social good projects][1], [my book][2], or maybe my [gendery TED Talk][3]. But I wanted this site to stand as a remaining bastion of quasi-personal space where I can explore ideas and share things away from the limelight that has become most of my other sites. That said, below are a few disclosures about me.
 
 I have a whole website that serves as my virtual curriculum vitae, so if you wanna know about [me][4] and my [work][5], head over to [samuelkillermann.com][6] and click around. You can start [here to learn what I&#8217;m up to right now][7].
 

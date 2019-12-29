@@ -6,29 +6,13 @@
 
 .format-quote {
 	position: relative;
+	text-align: center;
 
-	&:before, &:after {
-		position: absolute;
-		font-family: $serif;
-		line-height: 1;
-		font-weight: 900;
-		font-size: 3em;
-		color: var(--bg-color);
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-
-	&:before {
-		content: '“';
-		top: 15px;
-		left: 15px;
-	}
-
-	&:after {
-		content: '„';
-		bottom: 15px;
-		right: 15px;
+	&.single {
+		margin: 6vw auto;
+		.entry-header, .entry-footer {
+			display: none;
+		}
 	}
 
 	.primary-category {
@@ -39,9 +23,38 @@
 		border:none;
 		@extend .text-wrap;
 		padding:0;
+		margin: 4vw auto;
 		font-size: 2em;
 		font-family: $serif;
 		text-align: center;
+
+		&:before, &:after {
+			position: absolute;
+			font-family: $serif;
+			line-height: 1;
+			font-weight: 900;
+			font-size: 2em;
+			color: var(--bg-color);
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		&:before {
+			content: '“';
+			top: 15px;
+			left: 15px;
+		}
+
+		&:after {
+			content: '„';
+			bottom: 15px;
+			right: 15px;
+		}
+	}
+
+	&.single blockquote:before, &.single blockquote:after {
+		@extend .chameleon-color;
 	}
 
 	cite {
@@ -49,7 +62,6 @@
 		font-weight:900;
 		opacity: .65;
 		display: block;
-		margin: 2em auto 0;
 		text-align: center;
 		letter-spacing: 0.08em;
 		font-family: $font__theme;
@@ -65,45 +77,6 @@
 	}
 }
 
-	.loop .format-quote {
-
-		.entry-footer{
-			background:none;
-			a {
-				color:inherit;
-				opacity:.5;
-
-				&:hover {opacity:1;}
-			}
-		}
-	}
-
-	.single {
-
-		main#main {
-
-			article.format-quote  {
-
-				.entry-content {
-					padding:60px 0px;
-					text-align:center;
-
-					blockquote {
-						font-size:calc(30px + 1.2vw);
-						margin:0 auto 1em;
-					}
-
-					cite {
-						font-size:calc(30px + .7vw);
-					}
-
-					blockquote p, p, cite, cite p {
-						text-align:center;
-					}
-				}
-			}
-		}
-	}
 
 .format-status{
 
