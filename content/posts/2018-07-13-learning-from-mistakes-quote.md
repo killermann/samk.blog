@@ -13,4 +13,6 @@ tags:
 format: quote
 
 ---
-Mistakes don&#8217;t guarantee learning, but learning requires mistakes.
+> Mistakes don&#8217;t guarantee learning, but learning requires mistakes.
+
+<cite>Sam Killermann</cite>

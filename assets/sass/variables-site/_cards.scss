@@ -1,68 +1,30 @@
 .card {
 	border-radius:25px;
-	box-shadow: 5px 5px 0 0 rgba(6,41,66,.2);
+	background: var(--bg-faint);
 	overflow:hidden;
-	background-color:var(--bg-color);
-	position:relative;
 
-	a {
-		position:absolute;
-		border:none;
-		top:0;
-		left:0;
-		height:100%;
-		width:100%;
+	.entry-header-text {
+		padding:4vw;
+	}
 
-		&:hover {
-			opacity:.2;
-			background-color:var(--bg-mask);
+	.entry-title {
+		.svg-inline--fa {
+			height: .7em;
 		}
 	}
 
-	.pad {
-		padding:12px;
-	}
-
-	.card--image {
-		clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 90%);
-		margin-bottom:-7%;
-	}
-
-	.card--title {
-		padding:10px;
-		font-size:1.1em;
+	.post-thumbnail, .entry-header {
 		margin:0;
 	}
 
-	.card--description {
-		padding:10px;
+	.post-thumbnail {
+		border-radius:0 0 25px 25px;
+		clip-path: polygon(0 10%, 100% 0, 100% 100%, 0% 100%);
 	}
 
-	.card--title + .card--description {
-		padding-top:0;
-	}
-
-	.card--cta {
-		border:2px solid var(--bg-faint);
-		padding:10px;
-		border-radius:12px;
-		margin:0 10px 10px;
-	}
-
-	&:hover {
-		transform:translatey(-2px);
-		transition:all .2s ease-out;
-		box-shadow: 8px 8px 3px 0 rgba(0,0,0,.15);
-		align-items: center;
-		text-decoration:none;
-		strong {color:#fff;}
-
-		.card--cta {
-			@extend .chameleon-border;
-		}
-
-		.icon {
-			transform:scale(1.3);
+	&:hover, &:focus {
+		.post-thumbnail img {
+			transform: scale(1.07);
 		}
 	}
 }

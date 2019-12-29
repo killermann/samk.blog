@@ -11,6 +11,7 @@ categories:
   - Technolophizing
   - Work dot Com
 format: link
+link: http://itspronouncedmetrosexual.com/2018/09/the-state-of-this-site-or-funding-online-work-in-2018-an-infographic/
 
 ---
 I wrote [an unusual blog post][1] (and designed an accompanying infographic) on my main site, _It&#8217;s Pronounced Metrosexual_, where I disclosed the numbers on the number of people who have contributed to the site, and the number who hasn&#8217;t. 

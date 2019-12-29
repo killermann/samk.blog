@@ -1,6 +1,6 @@
 {{ define "main" }}
-<header class="archive-header wrap {{ .Title | urlize }}">
-	<h1 class="page-title tc">
+<header class="archive-header wrap pad {{ .Title | urlize }}">
+	<h1 class="page-title chameleon-color">
 		{{ .Title | default .Site.Title }}
 	</h1>
 	{{- if eq .Paginator.PageNumber 1 }}

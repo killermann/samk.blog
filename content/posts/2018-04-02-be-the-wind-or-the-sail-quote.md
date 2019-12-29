@@ -18,3 +18,5 @@ format: quote
 
 ---
 > Be the wind, or risk becoming the sail.
+
+<cite>Sam Killermann</cite>
