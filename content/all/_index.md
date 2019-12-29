@@ -1,5 +1,5 @@
 ---
-title: All
+title: All Posts
 author: Sam Killermann
 type: all
 ---

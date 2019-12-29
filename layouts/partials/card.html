@@ -4,8 +4,12 @@
 			<div class="entry-header-text">
 				{{- if .Params.categories }}
 				<div class="primary-category">
-					{{ with .Params.format }}{{ . }} | {{ end }}
+					{{- with .Params.format }}{{ . }} | {{ end }}
+					{{ if eq .Params.format "status" }}
+					{{ .PublishDate.Format "Jan 2, 2006" }}
+					{{ else }}
 					{{ index .Params.categories 0 }}
+					{{ end -}}
 				</div>
 				{{ end -}}
 				{{ if eq .Params.format "quote" }}
@@ -17,7 +21,7 @@
 				</h3>
 				{{ end }}
 				{{ if .Params.excerpt }}
-				<p class="excerpt">{{ .Params.excerpt }}</p>
+				<p class="excerpt text-wrap" style="margin-left: 0">{{ .Params.excerpt }}</p>
 				{{ end }}
 			</div>
 			{{ if .Params.featured_image }}
