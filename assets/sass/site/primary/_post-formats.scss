@@ -60,6 +60,7 @@
 			content: '—';
 			margin-right: .4em;
 			display: inline-block;
+			@extend .chameleon-color;
 		}
 	}
 }
