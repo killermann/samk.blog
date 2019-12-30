@@ -342,6 +342,7 @@
 #footer-feedburner {
 	margin:4vw auto;
 	position: relative;
+	width: 92vw;
 
 	h2 {
 		padding: 1em 0;
@@ -380,22 +381,23 @@
 	.inner {
 		background:var(--bg-mask);
 		position: relative;
+		padding-left: 8vw;
 		z-index: 1;
 		border-radius:20px;
 	}
 
 	.icon {
 		position:absolute;
-		top:0;
-		right:0;
+		top: 50%;
+		transform: translate(0, -50%);
+		left:0;
 		display:block;
 		z-index: 0;
 
 		svg {
-			width:14vw;
-			height:14vw;
+			width:8vw;
+			height:auto;
 			display:block;
-			transform:rotate(15deg);
 		}
 	}
 
