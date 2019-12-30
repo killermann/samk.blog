@@ -1,19 +1,21 @@
 {{ define "main" }}
-<header class="archive-header wrap pad {{ .Title | urlize }}">
-	<h1 class="page-title chameleon-color">
-		{{ .Title | default .Site.Title }}
-	</h1>
-	{{- if eq .Paginator.PageNumber 1 }}
-	<div class="section-intro entry-content text-wrap">
-		{{ .Content }}
-	</div>
-	<hr/>
-	{{ else }}
-	<div class="section-intro page-count text-wrap" style="text-align: center;">
-		<strong>Page {{ .Paginator.PageNumber }}</strong>
-	</div>
-	{{ end -}}
-</header>
+<div class="archive-header-wrap">
+	<header class="archive-header wrap pad {{ .Title | urlize }}">
+		<h1 class="page-title chameleon-color">
+			{{ .Title | default .Site.Title }}
+		</h1>
+		{{- if eq .Paginator.PageNumber 1 }}
+		<div class="section-intro entry-content text-wrap">
+			{{ .Content }}
+		</div>
+		<hr/>
+		{{ else }}
+		<div class="section-intro page-count text-wrap" style="text-align: center;">
+			<strong>Page {{ .Paginator.PageNumber }}</strong>
+		</div>
+		{{ end -}}
+	</header>
+</div>
 <section class="section-main">
 	<div class="loop">
 		{{ range .Paginator.Pages }}
