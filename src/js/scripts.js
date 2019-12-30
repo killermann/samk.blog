@@ -1,7 +1,6 @@
 //@prepros-prepend intersection-observer.js
 //@prepros-prepend lozad.min.js
 
-
 // Initialize lozad
 
 const observer = lozad('.lazy-load', {

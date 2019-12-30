@@ -211,16 +211,24 @@
 	}
 }
 .entry-header {
-	margin-bottom:1.5rem;
+	margin:1rem auto;
 }
 	.entry-title, .page-title {
-		margin: calc(4vw + 1rem) auto calc(1rem + 1.5vw);
 		font-size: calc(2em + 1.8vw);
+	}
+
+	.entry-title {
+		margin: calc(1.5vw + 10px) auto calc(2vw + 5px);
+	}
+
+	.page-title {
+		margin: calc(4vw + 1rem) auto calc(1rem + 1.5vw);
 	}
 
 	.excerpt {
 		font-family:$serif;
 		font-weight: 500;
+		margin-left: 0;
 		margin-bottom:calc(1rem + 1.5vw);
 		line-height: 1.44;
 		font-size: 1.33em;
@@ -819,6 +827,10 @@ MEDIA QUERIES
 			margin-right: auto;
 			border-radius:5px;
 		}
+	}
+
+	.excerpt {
+		margin-left: auto;
 	}
 
 	.archive-header-wrap {

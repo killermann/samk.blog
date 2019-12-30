@@ -6,16 +6,19 @@
 
 	<header class="entry-header">
 		<div class="entry-header-text">
+			<div class="primary-category">
+				{{ if eq .Params.format "status" }}
+				{{ .PublishDate.Format "Jan 2, 2006" }} <a href="/statuses" title="All Status Updates">Status Update</a> 
+				{{ else }}
+				<a href="/categories/{{ index .Params.categories 0 | urlize }}" title="All {{ index .Params.categories 0 }} Posts">{{ index .Params.categories 0 }}</a> 
+				{{ end }} 
+			</div>
 			<h1 class="entry-title">{{ .Title }}</h1>
 			{{ if .Params.excerpt }}
 			<p class="excerpt text-wrap">{{ .Params.excerpt }}</p>
 			{{ end }}
 			<div class="byline">
-				{{ if eq .Params.format "status" }}
-				{{ .PublishDate.Format "Jan 2, 2006" }} <a href="/statuses" title="All Status Updates">Status Update</a> 
-				{{ else }}
-				From <a href="/categories/{{ index .Params.categories 0 | urlize }}" title="All {{ index .Params.categories 0 }} Posts">{{ index .Params.categories 0 }}</a>
-				{{ end }} 
+			
 				<span class="author"> by <a class="url fn n" href="/about/sam-killermann/" title="About the Author">{{ .Params.author }}</a></span>
 			</div>
 		</div>
