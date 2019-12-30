@@ -23,10 +23,11 @@
 		border:none;
 		@extend .text-wrap;
 		padding:0;
-		margin: 4vw auto;
+		margin: calc(25px + 4vw) auto;
 		font-size: 2em;
 		font-family: $serif;
 		text-align: center;
+		line-height: 1.333;
 
 		&:before, &:after {
 			position: absolute;
