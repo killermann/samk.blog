@@ -658,6 +658,9 @@
 
 /* Archive Styles */
 
+.archive-header-wrap {
+	margin-top: -12px;
+}
 
 .archive-header {
 	padding:4vw 4vw 0;
@@ -835,7 +838,7 @@ MEDIA QUERIES
 
 	.archive-header-wrap {
 		padding: 0 4vw;
-		margin-top: -10px;
+		margin-top: 0;
 	}
 
 	.archive-header.technolophizing,
