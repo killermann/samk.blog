@@ -33,7 +33,7 @@
 	{{ $style := resources.Get "sass/style.scss" | toCSS | postCSS | minify | fingerprint }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}">
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:800&display=optional">
+	<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:800&display=optional"> -->
 	{{ block "favicon" . }}
 	{{ partial "site-favicon.html" . }}
 	{{ end -}}
