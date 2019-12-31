@@ -5,12 +5,12 @@ type: post
 date: 2019-05-27T19:08:36+00:00
 excerpt: Finding the magical amounts of time you need to allocate to spectating, studying, and practicing.
 url: /the-9-3-1-learning-rule/
+discussionId: /the-9-3-1-learning-rule/
 featured_image: /wp-content/uploads/2019/05/aditya-vyas-786151-unsplash.jpg
 categories:
   - Better Humaning
 topics:
   - Learning
-
 ---
 When you&#8217;re trying to learn a new thing &#8212; a skill, talent, instrument, sport, language, anything &#8212; there are a million things that can derail you. 
 

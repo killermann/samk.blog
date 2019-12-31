@@ -25,7 +25,7 @@
 	padding: 4px;
 	padding-bottom: env(safe-area-inset-bottom);
 	font-size:.8em;
-	color:black;
+	color:rgba(0,0,0,.9);
 }
 
 	#footer-sK {
@@ -38,7 +38,7 @@
 		color: rgba(255,255,255,.85);
 		overflow:hidden;
 
-		h2 {
+		h2 {	
 			font-size:2em;
 			margin: 1em auto;
 			font-weight:900;

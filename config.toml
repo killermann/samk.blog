@@ -23,6 +23,8 @@ summaryLength = 40
 	email_list_url = "https://app.convertkit.com/landing_pages/402557?v=7"
 	description = "Killermann is the author of several books, and his global justice resources are viewed and downloaded by millions of people every year. Here, he blogs."
 	og_image = "/img/sK-social-card.png"
+	talkyardServerUrl = "https://comments-for-www-samkillermann-com.talkyard.net"
+	talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 
 [social]
 	twitter = "Killermann"

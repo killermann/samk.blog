@@ -415,7 +415,7 @@
 	}
 }
 .hero {
-	z-index:8888;
+	z-index:100;
 	display:block;
 	width:100%;
 	position:relative;
@@ -562,13 +562,13 @@
 			align-items: center;
 		}
 
-		.hero {z-index:8888}
+		.hero {z-index:100}
 
 		.grid-cell.option {
 			align-items: stretch;
 			text-align:center;
 			padding:0;
-			z-index:8889;
+			z-index:101;
 			max-width:90%;
 			width: 360px;
 			margin:0 20px 20px;
