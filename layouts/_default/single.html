@@ -74,7 +74,7 @@
 	</div>
 </section>
 {{- if .Params.discussionId }}
-<section id="reply" class="text-wrap">
+<section id="reply" class="pad">
 <style type="text/css">
 #reply h2 {
 	text-align: center;
@@ -86,7 +86,7 @@
 	<h2>What do you think? 👇</h2>
 	<script>talkyardServerUrl='{{ .Site.Params.talkyardServerUrl }}';</script>
 <script async defer src="{{ .Site.Params.talkyardScriptUrl }}"></script>
-<div class="talkyard-comments" data-discussion-id="{{ .Params.discussionId }}" style="margin-top: 45px;	border-radius: 10px; padding: 10px; background: white;">
+<div class="talkyard-comments text-wrap" data-discussion-id="{{ .Params.discussionId }}" style="margin-top: 45px;	border-radius: 14px; padding: 10px; background: white;">
 <noscript>Please enable Javascript to view comments.</noscript>
 </div>
 </section>

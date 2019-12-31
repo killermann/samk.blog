@@ -251,7 +251,7 @@
 	.post-deets {
 		display: flex;
 		justify-content: space-between;
-		font-size: .8em;
+		font-size: calc(.8rem + .2vw);
 		line-height: 1;
 		opacity: .65;
 		margin-bottom: 1.666rem;
