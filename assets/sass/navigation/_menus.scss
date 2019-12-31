@@ -62,7 +62,6 @@
 		}
 
 		&:hover, &:focus {
-			@extend .chameleon-color;
 			transition:color .15s ease-in;
 		}
 	}

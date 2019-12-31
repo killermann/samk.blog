@@ -28,6 +28,24 @@
 
 	#masthead--nav {
 		display:none;
+
+		a.active {
+			opacity: 1;
+			@extend .chameleon-color;
+			position: relative;
+
+			&:before {
+				content: '';
+				position: absolute;
+				border-radius: .2em;
+				width: 1.5em;
+				height: 1.5em;
+				top: 50%;
+				left: -10%;
+				@extend .chameleon-bg;
+				transform: translate(-50%, -50%) rotate(45deg);
+			}
+		}
 	}
 
 	#day-or-night {
@@ -155,12 +173,6 @@
 
 	#masthead {
 		background:none;
-
-		&:hover {
-			#masthead--nav {
-				opacity:1;
-			}
-		}
 	}
 
 	#masthead--inner {
@@ -192,12 +204,16 @@
 		flex-grow:1;
 		flex-direction:column;
 		flex-wrap:nowrap;
-		opacity:.65;
 		transition:all .5s;
 
 		a {
 			width:100%;
 			margin:1vh auto;
+			opacity: .65;
+
+			&:hover, &.active {
+				opacity: 1;
+			}
 		}
 	}
 }
