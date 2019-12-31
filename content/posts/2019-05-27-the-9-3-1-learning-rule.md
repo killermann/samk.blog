@@ -7,6 +7,7 @@ excerpt: Finding the magical amounts of time you need to allocate to spectating,
 url: /the-9-3-1-learning-rule/
 discussionId: /the-9-3-1-learning-rule/
 featured_image: /wp-content/uploads/2019/05/aditya-vyas-786151-unsplash.jpg
+featured_image_cred: Aditya Vyas
 categories:
   - Better Humaning
 topics:

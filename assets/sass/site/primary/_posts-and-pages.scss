@@ -86,7 +86,7 @@
 	border:none;
 	display:block;
 	overflow: hidden;
-	margin:0 -4vw 4vw;
+	margin:0 -4vw 1.666rem;
 
 	img {
 		width:100%;
@@ -246,6 +246,19 @@
 		font-family: $font__theme;
 		text-transform:uppercase;
 		line-height:1.44;
+	}
+
+	.post-deets {
+		display: flex;
+		justify-content: space-between;
+		font-size: .8em;
+		line-height: 1;
+		opacity: .65;
+		margin-bottom: 1.666rem;
+
+		a {
+			border: none;
+		}
 	}
 
 /* purgecss ignore */

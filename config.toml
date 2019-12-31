@@ -21,7 +21,7 @@ summaryLength = 40
 	author_patrons_count = 15
 	site_patrons_count = 27
 	email_list_url = "https://app.convertkit.com/landing_pages/402557?v=7"
-	description = "Killermann is the author of several books, and his global justice resources are viewed and downloaded by millions of people every year. Here, he blogs."
+	description = "Killermann is the author of several books, and his global justice resources are used by millions of people every year. Here, he blogs."
 	og_image = "/img/sK-social-card.png"
 	talkyardServerUrl = "https://comments-for-www-samkillermann-com.talkyard.net"
 	talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"

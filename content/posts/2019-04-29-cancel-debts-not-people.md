@@ -6,6 +6,7 @@ date: 2019-04-30T02:00:24+00:00
 excerpt: What would happen if we traded something abstract for something material?
 url: /cancel-debts-not-people/
 featured_image: /wp-content/uploads/2019/04/anthony-delanoix-492581-unsplash.jpg
+featured_image_cred: Anthony Delanoix
 categories:
   - Better Humaning
 topics:
