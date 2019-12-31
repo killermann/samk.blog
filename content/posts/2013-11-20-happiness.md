@@ -15,12 +15,12 @@ photo:
 ampforwp-amp-on-off:
   - default
 categories:
-  - (Un)Happiness
   - Better Humaning
-tags:
+topics:
   - Intentionality
   - Mindfulness
   - Minimalism
+  - (Un)Happiness
 
 ---
 Intentionality, Mindfulness, and Minimalism are all you need, beyond basic biological requirements (clean water, nutritious food, human touch, etc.), to live a happy existence. This is what I&#8217;ve come to believe. I&#8217;ll define what I mean by all three, and talk about their relationship to one another, but first I want to talk about &#8220;happiness.&#8221;

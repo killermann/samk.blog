@@ -12,7 +12,7 @@ dsq_thread_id:
   - 2049411541
 categories:
   - Better Humaning
-tags:
+topics:
   - Challenge
   - Help
 

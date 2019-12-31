@@ -8,7 +8,7 @@ url: /self-employed/
 featured_image: /wp-content/uploads/2018/12/flower-growing-in-hand-by-Tom-Ezzatkhah.jpg
 categories:
   - Better Humaning
-tags:
+topics:
   - Philosophizin
   - Work
 

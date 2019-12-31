@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2062263666
 categories:
   - Updates
-tags:
+topics:
   - Progress Report
   - Update
 

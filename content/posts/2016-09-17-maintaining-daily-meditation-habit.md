@@ -15,7 +15,7 @@ categories:
   - Building a Daily Meditation Habit
   - Technolophizing
   - Work dot Com
-tags:
+topics:
   - Habits
   - How-To
   - Mindfulness

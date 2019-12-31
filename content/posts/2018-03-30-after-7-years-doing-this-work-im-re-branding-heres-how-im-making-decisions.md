@@ -12,7 +12,7 @@ categories:
   - Technolophizing
   - Updates
   - Work dot Com
-tags:
+topics:
   - Branding
   - Progress Report
   - Strategic Planning

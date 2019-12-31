@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2045027638
 categories:
   - Updates
-tags:
+topics:
   - Gratitude
   - Reflecting
 

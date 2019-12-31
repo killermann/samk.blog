@@ -12,7 +12,7 @@ photo:
   - "Today's photo is of an Austin Capital Metro Bus, my favorite kind!"
 categories:
   - Updates
-tags:
+topics:
   - Mindfulness
   - Prose
 

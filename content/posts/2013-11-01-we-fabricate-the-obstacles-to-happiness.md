@@ -13,12 +13,12 @@ photo:
 ampforwp-amp-on-off:
   - default
 categories:
-  - (Un)Happiness
   - Better Humaning
-tags:
+topics:
   - Cover Stories
   - Obstacles
   - Philosophizin
+  - (Un)Happiness
 
 ---
 You sit down in a restaurant, the server comes over and asks what&#8217;ll you have. &#8220;I would like a double bacon cheeseburger, please. I prefer my fermented milk on top of pig on top of cow on top of cow.&#8221; Then the server replies, &#8220;No problem, hun&#8217;. Just put together this 5,000 piece puzzle _Minimalist Sand Dune_ and I&#8217;ll have your order right out.&#8221;

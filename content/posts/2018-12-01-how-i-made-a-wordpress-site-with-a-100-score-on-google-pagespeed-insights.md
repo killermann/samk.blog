@@ -11,7 +11,7 @@ ampforwp-amp-on-off:
 categories:
   - Technolophizing
   - Work dot Com
-tags:
+topics:
   - Overhead
   - Web Dev
   - Wordpress

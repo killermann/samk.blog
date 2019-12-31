@@ -12,7 +12,7 @@ photo:
   - 'Photo Credit: Getty'
 categories:
   - Better Humaning
-tags:
+topics:
   - Fame
   - Objectification
 

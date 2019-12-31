@@ -12,7 +12,7 @@ photo:
   - "That's a photo of my microphone and laptop as I sat down to attempt to record my first podcast, and then cowardly backed out."
 categories:
   - Updates
-tags:
+topics:
   - Fear
   - Stand Up
   - Writing

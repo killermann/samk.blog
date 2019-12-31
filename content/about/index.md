@@ -73,11 +73,11 @@ I built this site from the ground-up using [JAMstack][17] methodology. To make t
  [3]: /categories/better-humaning/
  [4]: /categories/technolophizing
  [5]: /categories/adventravel
- [6]: /tags/happiness/
- [7]: /tags/mindfulness/
- [8]: /tags/work
- [9]: /tags/how-to
- [10]: /tags/activism
+ [6]: /topics/happiness/
+ [7]: /topics/mindfulness/
+ [8]: /topics/work
+ [9]: /topics/how-to
+ [10]: /topics/activism
  [11]: /essays/
  [12]: /type/quote/
  [13]: /type/status

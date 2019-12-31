@@ -15,7 +15,7 @@ dsq_thread_id:
   - 2075530778
 categories:
   - Updates
-tags:
+topics:
   - Critical Thinking
   - Mindfulness
   - Rest

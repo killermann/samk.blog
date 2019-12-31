@@ -15,7 +15,7 @@ dsq_thread_id:
   - 2079540918
 categories:
   - Updates
-tags:
+topics:
   - In The Media
   - Open Letter
   - Rant

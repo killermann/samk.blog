@@ -14,7 +14,7 @@ photo:
   - "I made today's photo in winter '12 when I was playing in a rainstorm in Hanapepe Valley."
 categories:
   - Better Humaning
-tags:
+topics:
   - Perfection
 
 ---

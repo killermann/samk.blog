@@ -1,6 +1,7 @@
-/feed/                              /index.xml
-/category/*                         /categories/:splat
-/tag/*                              /tags/:splat
-/type/*                             /:splat
-/articles/                          /essays/
-https://samkillermannblog.netlify.com https://www.samkillermann.com
+/feed/                                        /index.xml
+/category/*                                   /categories/:splat
+/tag/*                                        /topics/:splat
+/type/*                                       /:splat
+/articles/                                    /essays/
+/:slug/amp/                                   /:slug/
+https://samkillermannblog.netlify.com/*       https://www.samkillermann.com/:splat      301!

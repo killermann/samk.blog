@@ -14,7 +14,7 @@ photo:
   - "I took today's photo from my bedroom in my second apartment in ATX. I loved taking a break from working to stare out that window."
 categories:
   - Better Humaning
-tags:
+topics:
   - ATX
   - Home
   - List

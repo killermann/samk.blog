@@ -9,7 +9,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Better Humaning
-tags:
+topics:
   - Politics
 format: status
 

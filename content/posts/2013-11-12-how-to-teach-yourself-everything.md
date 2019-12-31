@@ -20,7 +20,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Updates
-tags:
+topics:
   - How-To
   - Learning
   - Podcast

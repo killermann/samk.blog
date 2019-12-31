@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Better Humaning
-tags:
+topics:
   - Inspiration
   - Passion
 format: video

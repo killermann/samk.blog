@@ -20,7 +20,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Updates
-tags:
+topics:
   - Halloween
   - Holidays
   - Humor

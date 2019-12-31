@@ -15,12 +15,11 @@ dsq_thread_id:
 ampforwp-amp-on-off:
   - default
 categories:
-  - (Un)Happiness
   - Better Humaning
-tags:
+topics:
   - Finding Peace
   - Perfection
-
+  - (Un)Happiness
 ---
 Some days, I wake up spooning my guitar. This comforts me, then I realize I could have destroyed it so it terrifies me, then I realize I didn&#8217;t destroy it so I&#8217;m comforted again. It&#8217;s a roller coaster. Other days, my guitar is the first thing I reach for in the morning. I&#8217;m still rubbing sleepies out of my eyes while I fingerpick a few notes and think about what I&#8217;m going to do with my day.
 

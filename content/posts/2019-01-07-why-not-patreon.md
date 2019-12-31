@@ -9,7 +9,7 @@ featured_image: /wp-content/uploads/2018/12/ben-elwood-476314-unsplash.jpg
 categories:
   - Technolophizing
   - Work dot Com
-tags:
+topics:
   - Challenge
   - vulnerability
   - Work

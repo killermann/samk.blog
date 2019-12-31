@@ -9,7 +9,7 @@ featured_image: /wp-content/uploads/2019/01/passing-ux-mockups.jpg
 categories:
   - Technolophizing
   - Work dot Com
-tags:
+topics:
   - How-To
 
 ---

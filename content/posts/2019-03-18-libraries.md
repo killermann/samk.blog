@@ -8,7 +8,7 @@ url: /libraries/
 featured_image: /wp-content/uploads/2019/03/austin-public-library-rooftop-by-sam-killermann.jpg
 categories:
   - Better Humaning
-tags:
+topics:
   - Humanism
   - Politics
 

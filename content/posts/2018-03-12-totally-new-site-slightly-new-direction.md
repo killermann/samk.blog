@@ -6,7 +6,7 @@ date: 2018-03-13T04:52:25+00:00
 url: /totally-new-site-slightly-new-direction/
 categories:
   - Updates
-tags:
+topics:
   - Progress Report
   - Sam
 format: status

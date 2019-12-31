@@ -7,10 +7,10 @@ excerpt: What I got in exchange for 11 pounds of bodyweight and 80 hours of prod
 url: /big-flu-no-news/
 featured_image: /wp-content/uploads/2019/01/chewbacca-flu-guardian.jpg
 categories:
-  - (Un)Happiness
-tags:
+  - Better Humaning
+topics:
   - Politics
-
+  - (Un)Happiness
 ---
 For the past 7 days, my life was consumed by the flu. Technically, I was more couch-ridden than bedridden, but I was decidedly _horizontal_. Luckily, I had a [faithful guardian][1] who didn&#8217;t leave my side, so I survived.
 

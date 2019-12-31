@@ -15,7 +15,7 @@ dsq_thread_id:
   - 2079098504
 categories:
   - Better Humaning
-tags:
+topics:
   - Activism
   - Gender
   - Sex

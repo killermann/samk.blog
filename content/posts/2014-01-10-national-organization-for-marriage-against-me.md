@@ -12,7 +12,7 @@ dsq_thread_id:
   - 2107385369
 categories:
   - Updates
-tags:
+topics:
   - Gender
   - In The Media
   - Open Letter

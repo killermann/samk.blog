@@ -15,7 +15,7 @@ ampforwp-amp-on-off:
 categories:
   - Adventravel
   - Egypt
-tags:
+topics:
   - Black Desert
   - Camping
   - Egypt

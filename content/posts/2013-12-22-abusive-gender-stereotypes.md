@@ -15,7 +15,7 @@ dsq_thread_id:
   - 2067799225
 categories:
   - Better Humaning
-tags:
+topics:
   - Gender
   - In The Media
 

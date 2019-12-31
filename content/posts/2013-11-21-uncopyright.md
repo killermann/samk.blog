@@ -13,7 +13,7 @@ photo:
     Today's photo is a blurred version of the comic I made to announce my uncopyrighting. Here's the <a href="http://itspronouncedmetrosexual.com/wp-content/uploads/2013/11/copyright-breakup-killermann-comic.jpg">whole shebang</a>.
 categories:
   - Updates
-tags:
+topics:
   - Copyright
   - Writing
 

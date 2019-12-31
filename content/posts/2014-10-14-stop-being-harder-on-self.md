@@ -11,12 +11,11 @@ photo:
     That image is what was open on my desktop (part of <a href="http://itspronouncedmetrosexual.com/2014/10/better-ally-week/" target="_blank">a project</a> I'm working on) while I was having the conversation about all this with Paula. Beyond it being one of the cutest things I've ever drawn, it was also a fitting backdrop to this chat.
 categories:
   - Better Humaning
-tags:
+topics:
   - Challenge
   - Coaching
   - (Un)Happiness
   - Mindfulness
-
 ---
 I&#8217;m my own worst critic. A lot of us are. I don&#8217;t like this about myself. A lot of us don&#8217;t. But I finally have a strategy to make it stop happening.
 

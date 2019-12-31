@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2077495513
 categories:
   - Updates
-tags:
+topics:
   - Challenge
   - Gratitude
   - (Un)Happiness

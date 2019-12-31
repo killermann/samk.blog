@@ -19,7 +19,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Better Humaning
-tags:
+topics:
   - Family
   - Holidays
 format: video

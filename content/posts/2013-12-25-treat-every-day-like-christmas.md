@@ -13,9 +13,8 @@ photo:
 dsq_thread_id:
   - 2073525083
 categories:
-  - (Un)Happiness
   - Better Humaning
-tags:
+topics:
   - (Un)Happiness
   - Holidays
   - How-To

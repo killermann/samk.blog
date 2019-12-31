@@ -15,7 +15,7 @@ photo:
     That's a photo of me on a hike while visiting fam in Kauai in '06. I thought I was alone, having hiked ahead on the trail, and was captivated by the sunset. I didn't realize my cousin sneakily taking the photo on his phone. <a title="Sam Killermann Sunset Hike" href="//wp-content/uploads/2013/12/sam-killermann-sunset-hike-hanakapiai.jpg" target="_blank">Here's the full version</a>.
 categories:
   - Better Humaning
-tags:
+topics:
   - Aloneness
   - Cover Stories
 

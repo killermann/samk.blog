@@ -14,7 +14,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Updates
-tags:
+topics:
   - Progress Report
   - Reflecting
   - Update

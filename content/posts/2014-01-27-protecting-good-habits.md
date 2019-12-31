@@ -19,7 +19,7 @@ dsq_thread_id:
   - 2198636808
 categories:
   - Updates
-tags:
+topics:
   - Habits
   - Obstacles
 

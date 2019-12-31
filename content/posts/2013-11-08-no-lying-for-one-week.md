@@ -14,7 +14,7 @@ photo:
   - The photo for this post was taken from a movie. You probably know it. Then I made it blurry.
 categories:
   - Better Humaning
-tags:
+topics:
   - Challenge
   - Honesty
   - Lying

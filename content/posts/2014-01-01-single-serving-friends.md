@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2086622377
 categories:
   - Better Humaning
-tags:
+topics:
   - Friendship
   - How-To
   - Traveling

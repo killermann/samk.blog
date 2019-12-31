@@ -16,7 +16,7 @@ ampforwp-amp-on-off:
 categories:
   - Technolophizing
   - Work dot Com
-tags:
+topics:
   - Activism
   - In The Media
   - Rant

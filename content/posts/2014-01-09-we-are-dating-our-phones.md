@@ -18,7 +18,7 @@ categories:
   - Technolophizing
   - Updates
   - Work dot Com
-tags:
+topics:
   - In The Media
   - Progress Report
 

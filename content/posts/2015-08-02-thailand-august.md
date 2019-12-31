@@ -13,7 +13,7 @@ ampforwp-amp-on-off:
 categories:
   - Adventravel
   - Thailand
-tags:
+topics:
   - Activism
   - Adventure
   - Gender

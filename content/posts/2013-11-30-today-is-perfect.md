@@ -14,7 +14,7 @@ photo:
   - "I took today's photo with my phone (of my bro-in-law and cousin, respectively) the last time I was visiting my fam on Kauai, January '13."
 categories:
   - Better Humaning
-tags:
+topics:
   - Mindfulness
   - Perfection
 

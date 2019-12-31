@@ -16,7 +16,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Better Humaning
-tags:
+topics:
   - (Un)Happiness
   - Minimalism
 

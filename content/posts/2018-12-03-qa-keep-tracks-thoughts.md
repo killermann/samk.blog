@@ -9,7 +9,7 @@ photo:
   - The photo for this post was modified from a creative commons stock image.
 categories:
   - Updates
-tags:
+topics:
   - Progress Report
 
 ---

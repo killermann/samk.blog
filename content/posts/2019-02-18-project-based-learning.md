@@ -8,7 +8,7 @@ url: /project-based-learning/
 featured_image: /wp-content/uploads/2019/02/fischer-twins-397334-unsplash.jpg
 categories:
   - Better Humaning
-tags:
+topics:
   - Learning
 
 ---

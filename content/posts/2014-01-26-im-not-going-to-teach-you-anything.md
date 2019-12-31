@@ -12,7 +12,7 @@ dsq_thread_id:
   - 2193397359
 categories:
   - Updates
-tags:
+topics:
   - Gender
   - Identity
   - Reflecting

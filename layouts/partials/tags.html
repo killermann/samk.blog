@@ -1,5 +1,5 @@
 	{{ range .Params.tags }}
-		<a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">
+		<a class="tag" href="{{ "/topics/" | relLangURL }}{{ . | urlize }}">
 			{{- . -}}
 		</a>
 	{{ end }}

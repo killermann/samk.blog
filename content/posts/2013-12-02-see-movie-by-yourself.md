@@ -12,7 +12,7 @@ photo:
   - Photo Credit Reuters//Soe Zeya Tun
 categories:
   - Better Humaning
-tags:
+topics:
   - Aloneness
   - Challenge
 

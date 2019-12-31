@@ -8,7 +8,7 @@ url: /cancel-debts-not-people/
 featured_image: /wp-content/uploads/2019/04/anthony-delanoix-492581-unsplash.jpg
 categories:
   - Better Humaning
-tags:
+topics:
   - Activism
   - Politics
 

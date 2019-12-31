@@ -8,7 +8,7 @@ url: /the-9-3-1-learning-rule/
 featured_image: /wp-content/uploads/2019/05/aditya-vyas-786151-unsplash.jpg
 categories:
   - Better Humaning
-tags:
+topics:
   - Learning
 
 ---

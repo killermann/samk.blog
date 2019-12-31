@@ -13,7 +13,7 @@ ampforwp-amp-on-off:
 categories:
   - Technolophizing
   - Work dot Com
-tags:
+topics:
   - Challenge
   - Minimalism
   - Obstacles

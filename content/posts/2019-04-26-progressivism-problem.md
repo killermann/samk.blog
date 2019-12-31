@@ -8,7 +8,7 @@ url: /progressivism-problem/
 featured_image: /wp-content/uploads/2019/04/jcob-nasyr-baby-sea-turtle.jpg
 categories:
   - Better Humaning
-tags:
+topics:
   - Politics
 
 ---

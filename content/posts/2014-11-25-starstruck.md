@@ -11,7 +11,7 @@ photo:
   - "That's me and her. She's cradling my book, I'm grasping hers. She's leaning on me, but she's also, somehow, supporting me."
 categories:
   - Updates
-tags:
+topics:
   - Story
 
 ---

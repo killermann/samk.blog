@@ -8,7 +8,7 @@ url: /anti-phone-addiction-habits/
 featured_image: /wp-content/uploads/2019/03/rawpixel-236143-unsplash.jpg
 categories:
   - Technolophizing
-tags:
+topics:
   - Habits
   - How-To
 

@@ -13,7 +13,7 @@ ampforwp-amp-on-off:
 categories:
   - Better Humaning
   - Building a Daily Meditation Habit
-tags:
+topics:
   - Challenge
   - Cover Stories
   - Mindfulness

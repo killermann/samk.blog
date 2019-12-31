@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2135343886
 categories:
   - Better Humaning
-tags:
+topics:
   - Story
   - Writing
 

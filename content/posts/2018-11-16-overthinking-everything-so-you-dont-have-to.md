@@ -10,7 +10,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Better Humaning
-tags:
+topics:
   - How-To
   - meta af
   - Philosophizin

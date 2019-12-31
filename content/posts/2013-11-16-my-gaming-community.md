@@ -12,7 +12,7 @@ photo:
   - "Today's photo is of James, Adam, and me at UGC."
 categories:
   - Updates
-tags:
+topics:
   - Friendship
   - Gaming
 

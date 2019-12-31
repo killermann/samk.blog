@@ -8,7 +8,7 @@ url: /rage-du-jour/
 featured_image: /wp-content/uploads/2019/05/rage-du-jour.jpg
 categories:
   - Technolophizing
-tags:
+topics:
   - Social Media
 
 ---

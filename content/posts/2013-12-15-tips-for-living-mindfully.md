@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2053167951
 categories:
   - Better Humaning
-tags:
+topics:
   - How-To
   - List
   - Mindfulness

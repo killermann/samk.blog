@@ -15,7 +15,7 @@ photo:
     Try as I might, I can't track down the actual photographer for today's photo for an actual credit, but <em><a href="http://zoomdoggle.com/2009/01/quick-whats-your-favorite-thing-about-today-thanks/" target="_blank">Zoomdoggle</a> </em>is the best I could do.
 categories:
   - Better Humaning
-tags:
+topics:
   - Challenge
   - Gratitude
 

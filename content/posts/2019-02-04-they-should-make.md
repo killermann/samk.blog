@@ -8,7 +8,7 @@ url: /they-should-make/
 featured_image: /wp-content/uploads/2019/02/nikola-knezevic-721357-unsplash.jpg
 categories:
   - Technolophizing
-tags:
+topics:
   - Learning
   - Obstacles
 

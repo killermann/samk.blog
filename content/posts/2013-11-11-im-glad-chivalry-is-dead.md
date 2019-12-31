@@ -12,7 +12,7 @@ photo:
   - "I stole today's ultra-sexy, link-baity photo from the original article at <em>Elite Daily</em>. They stole it from Tumblr."
 categories:
   - Better Humaning
-tags:
+topics:
   - Gender
   - In The Media
   - Platinum Rule

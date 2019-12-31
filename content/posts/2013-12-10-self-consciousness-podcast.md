@@ -17,7 +17,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Updates
-tags:
+topics:
   - (Un)Happiness
   - Podcast
   - Self-Consciousness

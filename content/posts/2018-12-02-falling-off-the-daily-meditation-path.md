@@ -10,11 +10,12 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Better Humaning
-  - Building a Daily Meditation Habit
-tags:
+topics:
   - Habits
   - (Un)Happiness
   - Mindfulness
+series: 
+  - Building a Daily Meditation Habit
 ---
 I haven&#8217;t meditated in over a week. 
 

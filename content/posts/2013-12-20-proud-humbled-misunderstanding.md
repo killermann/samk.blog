@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2063739857
 categories:
   - Better Humaning
-tags:
+topics:
   - Cover Stories
   - Language
   - Pride

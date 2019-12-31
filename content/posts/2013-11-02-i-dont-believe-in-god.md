@@ -14,7 +14,7 @@ photo:
   - "I made today's photo during a hike at a nature preserve in Northern Ohio in '10. When I see scenes like that, I totally get why people believe in God."
 categories:
   - Better Humaning
-tags:
+topics:
   - Belief
   - List
   - Philosophizin

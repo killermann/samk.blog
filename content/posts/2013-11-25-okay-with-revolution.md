@@ -14,7 +14,7 @@ photo:
   - "Fittingly enough, I took today's cover photo at Occupy Austin back in '11."
 categories:
   - Better Humaning
-tags:
+topics:
   - Activism
   - Revolution
 

@@ -10,7 +10,7 @@ photo:
   - The photo for this post was modified from a creative commons stock image.
 categories:
   - Updates
-tags:
+topics:
   - Grad School
   - Learning
   - Reflecting

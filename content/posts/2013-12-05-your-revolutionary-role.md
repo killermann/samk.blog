@@ -13,7 +13,7 @@ dsq_thread_id:
   - 2028297305
 categories:
   - Updates
-tags:
+topics:
   - Capitalism
   - Question
   - Revolution

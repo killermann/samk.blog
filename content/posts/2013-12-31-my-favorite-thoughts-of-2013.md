@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2084477545
 categories:
   - Updates
-tags:
+topics:
   - Best of
   - List
 

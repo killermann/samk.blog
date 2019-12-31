@@ -18,7 +18,7 @@ categories:
   - Better Humaning
   - Technolophizing
   - Work dot Com
-tags:
+topics:
   - Philosophizin
   - Wondering
 

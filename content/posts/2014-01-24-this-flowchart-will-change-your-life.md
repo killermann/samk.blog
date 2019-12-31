@@ -10,17 +10,12 @@ url: /this-flowchart-will-change-your-life/
 featured_image: /wp-content/uploads/2014/01/ohio-sunset.jpg
 photo:
   - I made that photo somewhere in Ohio sometime in 2010, I think. I made that image using that photo sometime earlier tonight.
-dsq_thread_id:
-  - 2224438736
-ampforwp-amp-on-off:
-  - default
 categories:
-  - (Un)Happiness
   - Better Humaning
-tags:
+topics:
   - Philosophizin
+  - (Un)Happiness
 format: image
-
 ---
 Hahaha &#8212; [oh headlines][1]. But seriously. You need no flowchart beyond this flowchart. View. <a href="https://www.facebook.com/photo.php?fbid=769413109736610&set=a.293296114014981.81539.210176765660250&type=1&stream_ref=10" target="_blank">Share</a>. Love. Life.
 

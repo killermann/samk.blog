@@ -11,16 +11,15 @@ photo:
 ampforwp-amp-on-off:
   - default
 categories:
-  - (Un)Happiness
   - Technolophizing
   - Work dot Com
-tags:
+topics:
   - Challenge
   - Habits
   - Philosophizin
   - Productivity
   - Work
-
+  - (Un)Happiness
 ---
 _I wish I never had to read another email._
 

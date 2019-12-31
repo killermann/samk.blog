@@ -14,8 +14,8 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Adventravel
+Tags: 
   - Egypt
-
 ---
 I arrived in Dahab in the middle of the night, the Red Sea choppy with a half-moon floating above in its own sea of stars. Even at 2am, I could see the silhouette of the Kingdom of Saudi Arabia set against the constellations.
 

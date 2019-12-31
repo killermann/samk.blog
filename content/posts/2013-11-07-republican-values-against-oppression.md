@@ -13,7 +13,7 @@ photo:
   - 'Photo Credit: Getty'
 categories:
   - Better Humaning
-tags:
+topics:
   - Oppression
   - Politics
 

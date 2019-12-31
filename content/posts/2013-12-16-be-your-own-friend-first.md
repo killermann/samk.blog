@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2055495934
 categories:
   - Better Humaning
-tags:
+topics:
   - Friendship
   - Self-Care
 

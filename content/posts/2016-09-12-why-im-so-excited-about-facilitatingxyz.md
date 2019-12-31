@@ -12,7 +12,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Updates
-tags:
+topics:
   - Activism
   - Progress Report
   - Update

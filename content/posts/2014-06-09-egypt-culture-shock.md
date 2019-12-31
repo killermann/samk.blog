@@ -14,8 +14,7 @@ ampforwp-amp-on-off:
   - default
 categories:
   - Adventravel
-  - Egypt
-tags:
+topics:
   - Cairo
   - Egypt
 

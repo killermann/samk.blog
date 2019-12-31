@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2047268063
 categories:
   - Better Humaning
-tags:
+topics:
   - People
 
 ---

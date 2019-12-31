@@ -10,7 +10,7 @@ photo:
   - 'Our banner! Check us out on <a href="http://facebook.com/haveyouseensex" target="_blank">Facebook</a> and <a href="http://twitter.com/haveyouseensex" target="_blank">Twitter</a>.'
 categories:
   - Updates
-tags:
+topics:
   - Comedy
   - S.E.X.
   - Sexuality

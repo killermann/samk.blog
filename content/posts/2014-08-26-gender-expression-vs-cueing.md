@@ -11,7 +11,7 @@ photo:
     The first photo was taken by the photographer at the <a href="http://sexedconference.com" target="_blank">Nat'l Sex Ed Conference</a>. The second by Letitia at <a href="https://www.facebook.com/whitelightexposure" target="_blank">White Light Exposure</a>. The third was posted on <a href="http://instagram.com/fitstudentambassadors" target="_blank">FIT's Student Ambassador Instagram</a>.
 categories:
   - Updates
-tags:
+topics:
   - Gender
   - Intentionality
 

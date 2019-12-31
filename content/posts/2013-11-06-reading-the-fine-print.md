@@ -15,7 +15,7 @@ photo:
   - 'The photo for this post is courtesy of <a href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.'
 categories:
   - Updates
-tags:
+topics:
   - Critical Thinking
   - Prose
   - Trust

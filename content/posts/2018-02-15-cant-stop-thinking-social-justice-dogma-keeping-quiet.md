@@ -10,7 +10,7 @@ patreon-level:
   - 1
 categories:
   - Better Humaning
-tags:
+topics:
   - Patrons-only
   - Social Justice Dogma
 

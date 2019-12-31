@@ -14,7 +14,7 @@ photo:
   - "Today's photo, taken by my classmate and friend Raechel Matyas, is of me doing what I do and being who I was in '11."
 categories:
   - Better Humaning
-tags:
+topics:
   - Capitalism
   - Labels
   - Profession

@@ -10,11 +10,10 @@ photo:
   - The photo for this post was modified from a creative commons stock image.
 categories:
   - Adventravel
-  - Egypt
-tags:
+topics:
   - Activism
+  - Egypt
   - Gratitude
   - (Un)Happiness
   - Philosophizin
-
 ---

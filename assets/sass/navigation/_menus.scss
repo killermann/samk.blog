@@ -67,42 +67,6 @@
 		}
 	}
 }
-.posts-navigation,
-.post-navigation {
-	display:block;
-	width:100%;
-	margin:2vw auto;
-	padding:0 2vw;
-
-	.nav-links {
-
-		justify-content:space-between;
-
-
-		a {
-			padding:.5em 1em;
-			font-weight:bold;
-			display:inline-block;
-			border:none;
-		}
-
-		.nav-previous a:before {
-			content:'←';
-			display:inline-block;
-			margin-right:4px;
-			margin-left:-1em;
-		}
-		.nav-next {text-align:right;}
-
-		.nav-next a:after {content:'→'; display:inline-block; margin-left:4px;margin-right:-1em;}
-	}
-
-	.site-main & {
-		margin: 0 0 1.5em;
-		overflow: hidden;
-	}
-}
-
 
 @media (min-width:1030px){
 	.navis {

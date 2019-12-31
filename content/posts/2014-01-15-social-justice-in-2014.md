@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2134106324
 categories:
   - Updates
-tags:
+topics:
   - Activism
   - Revolution
 

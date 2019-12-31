@@ -15,7 +15,7 @@ dsq_thread_id:
   - 2127127904
 categories:
   - Better Humaning
-tags:
+topics:
   - How-To
   - Intentionality
   - Love

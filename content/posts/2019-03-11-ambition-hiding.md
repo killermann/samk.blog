@@ -8,7 +8,7 @@ url: /ambition-hiding/
 featured_image: /wp-content/uploads/2019/03/verne-ho-23882-unsplash.jpg
 categories:
   - Better Humaning
-tags:
+topics:
   - Activism
   - vulnerability
 

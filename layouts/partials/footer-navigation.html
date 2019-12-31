@@ -1,0 +1,19 @@
+<nav role="navigation" id="footer--nav" class="sK-nav">
+  {{ $url := .URL }}
+	{{ if .Site.Menus.main }}
+		{{ range .Site.Menus.main }}
+		<a id="masthead-nav-{{ .Name | urlize }}" class="nav-link {{- if eq $url .URL }} active{{ end -}}" href="{{ .URL }}" title="{{ .Name }}" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: '{{ .Name }}'});">
+			{{- with .Pre }}<svg class="spin-hover"><use xlink:href="#icon-{{ . }}"></svg>{{ end -}}
+			<span>{{ .Name }}</span>
+		</a>
+		{{ end }}
+  {{ end }}
+  {{ if .Site.Menus.footer }}
+		{{ range .Site.Menus.footer }}
+		<a id="masthead-nav-{{ .Name | urlize }}" class="nav-link {{- if eq $url .URL }} active{{ end -}}" href="{{ .URL }}" title="{{ .Name }}" onClick="ga('send', 'event', { eventCategory: 'Navigation', eventAction: 'Desktop', eventLabel: '{{ .Name }}'});">
+			{{- with .Pre }}<svg class="spin-hover"><use xlink:href="#icon-{{ . }}"></svg>{{ end -}}
+			<span>{{ .Name }}</span>
+		</a>
+		{{ end }}
+	{{ end }}
+</nav><!--/mastheadnav-->

@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2065871012
 categories:
   - Updates
-tags:
+topics:
   - How-To
   - List
   - Minimalism

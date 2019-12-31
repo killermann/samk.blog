@@ -14,7 +14,7 @@ dsq_thread_id:
   - 2082837493
 categories:
   - Updates
-tags:
+topics:
   - In The Media
 
 ---
