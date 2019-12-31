@@ -78,12 +78,21 @@
 <style type="text/css">
 #reply h2 {
 	text-align: center;
+	margin-bottom: .5em;
 }
+
+.comments-intro {
+	text-align: center;
+}
+
 #ed-editor-wrapper {
 	z-index: 9999;
 }
 </style>
-	<h2>What do you think? 👇</h2>
+<div class="text-wrap comments-intro">
+	<h2>What do you think? 🤔</h2>
+	<p>I opened up replies on this post because I'd love to hear your thoughts. I'm @Killermann here (as well as <a href="https://twitter.com/killermann" target="_blank" rel="noopener noreferrer">on Twitter</a>)</p>
+</div>
 	<script>talkyardServerUrl='{{ .Site.Params.talkyardServerUrl }}';</script>
 <script async defer src="{{ .Site.Params.talkyardScriptUrl }}"></script>
 <div class="talkyard-comments text-wrap" data-discussion-id="{{ .Params.discussionId }}" style="margin-top: 45px;	border-radius: 14px; padding: 10px; background: white;">
