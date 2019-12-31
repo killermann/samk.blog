@@ -32,19 +32,6 @@
 		a.active {
 			opacity: 1;
 			@extend .chameleon-color;
-			position: relative;
-
-			&:before {
-				content: '';
-				position: absolute;
-				border-radius: .2em;
-				width: 1.5em;
-				height: 1.5em;
-				top: 50%;
-				left: -10%;
-				@extend .chameleon-bg;
-				transform: translate(-50%, -50%) rotate(45deg);
-			}
 		}
 	}
 
