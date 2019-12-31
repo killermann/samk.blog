@@ -37,7 +37,7 @@ summaryLength = 40
 		weight = 1
 	[[menu.main]]
 		name = "Fresh"
-		url = "/fresh/"
+		url = "/all/"
 		pre = "air-freshener"
 		weight = 2
 	[[menu.main]]
