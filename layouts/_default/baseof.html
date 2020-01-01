@@ -43,6 +43,7 @@
 	<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
 	<meta property="og:site_name" content="{{ .Site.Title }}"/>
 	<meta property="og:url" content="{{ .Permalink }}"/>
+	<meta property="og:fb:app_id" content="2410948032490553"/>
 	<meta property="og:locale" content="en-us">
 	{{- $featuredImg := (.Resources.ByType "image").GetMatch "*featured*" -}}
 	{{- if .Params.og_image }}
@@ -56,7 +57,6 @@
 	<meta property="og:image:secure_url" content="{{ $featuredImg.Permalink }}"/>
 	{{ else }}
 	<meta property="og:image" content="{{ .Site.Params.og_image | absURL }}"/>
-	<meta property="og:fb:app_id" content="2410948032490553"/>
 	<meta property="og:image:secure_url" content="{{ .Site.Params.og_image | absURL }}"/>
 	{{ end -}}
 	<!-- Twitter Card Meta -->
