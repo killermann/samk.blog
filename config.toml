@@ -4,6 +4,7 @@ title = "Sam Killermann's Blog"
 enableRobotsTXT = true
 canonifyURLs = true
 summaryLength = 40
+enableGitInfo = true
 
 [Author]
 	name = "Sam Killermann"
