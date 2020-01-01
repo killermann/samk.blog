@@ -1,10 +1,8 @@
 https://samkillermannblog.netlify.com/*       https://www.samkillermann.com/:splat      301!
 /feed/                                        /index.xml
-/articles/                                    /essays/
+/:slug/amp/                                   /:slug/
 /category/*                                   /categories/:splat
-/categories/technolophizing/work-dot-com      /categories/work-dot-com
 /tag/*                                        /topics/:splat
 /type/*                                       /:splat
 /articles/                                    /essays/
-/:slug/amp/                                   /:slug/
-/category/technolophizing/work-dot-com        /categories/work-dot-com
+/categories/technolophizing/work-dot-com      /categories/work-dot-com
