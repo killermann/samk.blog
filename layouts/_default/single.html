@@ -25,7 +25,6 @@
 			<img src="{{ .Params.featured_image }}" alt="" />
 			{{ else }}
 				{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
-				{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
 					{{ with $img }}
 						{{ $big := $img.Resize "1400x q100" }}
 						{{ $small := $img.Resize "600x q100" }}

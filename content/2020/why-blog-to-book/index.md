@@ -13,7 +13,6 @@ topics:
   - Publishing
   - Writing
   - List
-og_image: featured.jpg
 ---
 
 As soon as [my first book](/books/#a-guide-to-gender) was published, I became a purveyor of writing advice. At least that's what everyone else thought. Because from that moment on I've been asked countless questions about book writing. The most common:
