@@ -9,7 +9,7 @@
     "articleSection" : "{{ .Section }}",
     "name" : "{{ if .Params.seo_title }}{{ .Params.seo_title }}{{ else }}{{ .Title }}{{ end }}",
     "headline" : "{{ .Title }}",
-    "image": {{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else}}{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}{{ with $img }}{{ $img.Permalink }}{{ end }}{{ end }},
+    "image" : {{ if .Params.featured_image }}"{{ .Params.featured_image | absURL }}"{{ else}}{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}{{ with $img }}"{{ $img.Permalink }}"{{ end }}{{ end }},
     "description" : "{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else if .IsPage}}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}",
     "inLanguage" : "en-US",
     "author" : "{{ range .Site.Author }}{{ . }}{{ end }}",
