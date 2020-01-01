@@ -43,7 +43,7 @@
 	<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
 	<meta property="og:site_name" content="{{ .Site.Title }}"/>
 	<meta property="og:url" content="{{ .Permalink }}"/>
-	<meta property="og:fb:app_id" content="2410948032490553"/>
+	<meta property="fb:app_id" content="2410948032490553"/>
 	<meta property="og:locale" content="en-us">
 	{{- $featuredImg := (.Resources.ByType "image").GetMatch "*featured*" -}}
 	{{- if .Params.og_image }}
