@@ -77,8 +77,8 @@ It&#8217;s this Something Bigger that is going to connect all those moments for 
 My life gets chaotic (whose doesn&#8217;t). I invite a lot of challenge, that I sometimes get the better of, and that sometimes gets the better of me. So let me tell you: the idea of finding calm even amidst the chaos, and knowing that is always there, in my back pocket when I need it&#8230; that&#8217;s something big for me.
 
  [1]: https://www.google.com/search?client=safari&rls=en&q=can+you+destroy+the+master's+house+using+the+master's+tools+audre+lorde+quote&ie=UTF-8&oe=UTF-8
- [2]: //tips-for-living-mindfully/
- [3]: //numbers-rule-my-life/
- [4]: //building-daily-meditation-habit/
+ [2]: /tips-for-living-mindfully/
+ [3]: /numbers-rule-my-life/
+ [4]: /building-daily-meditation-habit/
  [5]: http://www.brainyquote.com/quotes/keywords/surround_yourself.html
  [6]: https://kadampa-center.org/sites/default/files/Handouts5-7.pdf

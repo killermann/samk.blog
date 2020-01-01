@@ -37,7 +37,7 @@ Peace, Love, Egypt.
 
 sK
 
-<pre>Follow along with the Egypt adventures <a href="//category/egypt/">on the site here</a> or by adding your email to <a href="https://samkillermann.us3.list-manage.com/subscribe/post?u=b0497ab27b695ca0aa9c4787e&id=a2529d5c19">this humble mailing list</a>.</pre>
+<pre>Follow along with the Egypt adventures <a href="/category/egypt/">on the site here</a> or by adding your email to <a href="https://samkillermann.us3.list-manage.com/subscribe/post?u=b0497ab27b695ca0aa9c4787e&id=a2529d5c19">this humble mailing list</a>.</pre>
 
  [1]: http://media.giphy.com/media/UIZs6DDbFuUj6/giphy.gif
  [2]: https://www.youtube.com/watch?v=NRcPXtqdKjE
@@ -48,9 +48,9 @@ sK
  [7]: http://itspronouncedmetrosexual.com
  [8]: http://guidetogender.com
  [9]: http://haveyouseensex.com
- [10]: //macbook-creed/ "MacBooker’s Creed"
+ [10]: /macbook-creed/ "MacBooker’s Creed"
  [11]: https://www.youtube.com/watch?v=FTQbiNvZqaY&feature=kp
- [12]: //my-list-of-100-dreams/ "My List of 100 Dreams"
+ [12]: /my-list-of-100-dreams/ "My List of 100 Dreams"
  [13]: http://media.giphy.com/media/CLLAlUPwPgOQM/giphy.gif
  [14]: http://itspronouncedmetrosexual.com/2014/04/sam-killermann-in-cairo/
  [15]: http://facebook.com/samkillermann

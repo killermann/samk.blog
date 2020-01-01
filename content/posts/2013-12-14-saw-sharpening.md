@@ -42,5 +42,5 @@ Now I&#8217;m off to continue my Saw Sharpening Saturday, which is day one of I-
 
  
 
- [1]: //how-my-year-ended/ "The Most Wild Year of My Life Ended in One Moment"
- [2]: //10-zen-stories/ "My 10 Favorite Zen Stories"
+ [1]: /how-my-year-ended/ "The Most Wild Year of My Life Ended in One Moment"
+ [2]: /10-zen-stories/ "My 10 Favorite Zen Stories"

@@ -36,7 +36,7 @@ _(Sidenote: the nice thing about these photos is my hair/grooming is about ident
 
 [<img class="alignright wp-image-754 size-thumbnail lazy-load" data-src="//wp-content/uploads/2014/08/sam-killermann-androgynous-150x150.jpg" alt="sam-killermann-androgynous" width="150" height="150" srcset="/wp-content/uploads/2014/08/sam-killermann-androgynous-150x150.jpg 150w, /wp-content/uploads/2014/08/sam-killermann-androgynous.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />][2]**What I&#8217;m wearing:** I&#8217;d consider this outfit to be a bit more androgynous. I&#8217;ve got the typical mainstays of man-fashion on &#8212; the jacket, the button down shirt, the pants &#8212; but with a twist. The jacket is glittery silver. The pants are a muted leopard print. My shoes (not pictured) are the same black step-in moccasins as in the third picture, and my socks vibrantly striped in cool colors.
 
-**Why:** this was <a title="My First Live S.E.X. Show" href="//my-sex-show/" target="_blank">a show I put together</a> with a friend (<a href="http://www.unhushed.net/about-unhushed/dr-karen-rayne/" target="_blank">Karen Rayne</a>), and people were coming to see us. Like, on purpose. This, combined with the material I was performing (all super personal & anecdotal), made me feel comfortable pushing things a little bit more out of Handsometown toward Prettyville.
+**Why:** this was <a title="My First Live S.E.X. Show" href="/my-sex-show/" target="_blank">a show I put together</a> with a friend (<a href="http://www.unhushed.net/about-unhushed/dr-karen-rayne/" target="_blank">Karen Rayne</a>), and people were coming to see us. Like, on purpose. This, combined with the material I was performing (all super personal & anecdotal), made me feel comfortable pushing things a little bit more out of Handsometown toward Prettyville.
 
 #### The third photo is me last week doing one of my shows at the Fashion Institute of Technology in NYC
 
@@ -76,7 +76,7 @@ The _why_ that led to me dressing how I did that day was a special feeling, and 
 
 In truth, I didn&#8217;t feel pressured to dress in any way for that show at FIT: I felt liberated to be myself.
 
- [1]: //wp-content/uploads/2014/08/sam-killermann-masculine.jpg
- [2]: //wp-content/uploads/2014/08/sam-killermann-androgynous.jpg
- [3]: //wp-content/uploads/2014/08/sam-killermann-feminine.jpg
- [4]: //wp-content/uploads/2014/08/gender-expression-vs-cueing-by-sam-killermann.jpg
+ [1]: /wp-content/uploads/2014/08/sam-killermann-masculine.jpg
+ [2]: /wp-content/uploads/2014/08/sam-killermann-androgynous.jpg
+ [3]: /wp-content/uploads/2014/08/sam-killermann-feminine.jpg
+ [4]: /wp-content/uploads/2014/08/gender-expression-vs-cueing-by-sam-killermann.jpg

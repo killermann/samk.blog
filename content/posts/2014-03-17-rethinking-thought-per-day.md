@@ -41,6 +41,6 @@ Nudgingly yours,
 
 sK
 
- [1]: //welcome/ "Welcome to Sam Killermann’s Thought / Day"
- [2]: //protecting-good-habits/
- [3]: //category/challenge/
+ [1]: /welcome/ "Welcome to Sam Killermann’s Thought / Day"
+ [2]: /protecting-good-habits/
+ [3]: /category/challenge/

@@ -33,6 +33,6 @@ As Mickey Smith says in [my favorite video (almost) ever][2], &#8220;I never set
 
 I love what I do. I really do. Genuinely, with all my heart, never want to give it up love. I just want to be able to do that more again, and worry about doing it less. So it&#8217;s clear I don&#8217;t like something, now I just have to figure out how I&#8217;m going to [change it][3].
 
- [1]: //remembering-what-you-do/ "Remembering What You Do"
- [2]: //dark-side-of-the-lens/
- [3]: //this-flowchart-will-change-your-life/ "This Flowchart Will Change Your Life"
+ [1]: /remembering-what-you-do/ "Remembering What You Do"
+ [2]: /dark-side-of-the-lens/
+ [3]: /this-flowchart-will-change-your-life/ "This Flowchart Will Change Your Life"

@@ -8,7 +8,7 @@ url: /your-revolutionary-role/
 featured_image: /wp-content/uploads/2013/12/texas-capitol-by-sam-killermann-thumb.jpg
 photo:
   - |
-    That's a photo of the Texas Capitol I made the first time I visited Austin. Here's the <a title="Austin Capitol by Sam Killermann" href="//wp-content/uploads/2013/12/austin-capitol-building-sam-killermann.jpg" target="_blank">full picture</a>. Here's what it would look like <a title="Hahahah JK NSA K thx bye." href="http://jif.bz/I'm_just_kidding.gif" target="_blank">in flames</a>.
+    That's a photo of the Texas Capitol I made the first time I visited Austin. Here's the <a title="Austin Capitol by Sam Killermann" href="/wp-content/uploads/2013/12/austin-capitol-building-sam-killermann.jpg" target="_blank">full picture</a>. Here's what it would look like <a title="Hahahah JK NSA K thx bye." href="http://jif.bz/I'm_just_kidding.gif" target="_blank">in flames</a>.
 dsq_thread_id:
   - 2028297305
 categories:

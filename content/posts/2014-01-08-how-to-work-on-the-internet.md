@@ -90,4 +90,4 @@ So, what are you waiting for?
 
 Start right now.
 
- [1]: //wp-content/uploads/2014/01/zuckerberg-online-feedback-quote.jpg
+ [1]: /wp-content/uploads/2014/01/zuckerberg-online-feedback-quote.jpg

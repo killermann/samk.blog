@@ -34,4 +34,4 @@ Sometimes you bite off too much of a bitter pill to chew it, ya heard?
 
 But the fun part of unteaching is seeing when it clicks. When a person, or group of people, realize something big, and realize that they&#8217;ve kinda known it all along. And knowing that it&#8217;s not going away. That part of their life is organized now.
 
- [1]: //the-platinum-rule-podcast/ "The Platinum Rule vs The Golden Rule"
+ [1]: /the-platinum-rule-podcast/ "The Platinum Rule vs The Golden Rule"

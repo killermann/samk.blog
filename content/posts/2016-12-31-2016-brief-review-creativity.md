@@ -108,7 +108,7 @@ Happy 2017.
  [1]: http://hues.xyz
  [2]: https://medium.com/hues-advisory-briefing/failure-to-launch-reframing-new-initiatives-1050eae3aae0#.c74hizolr
  [3]: http://facilitating.xyz
- [4]: //why-im-so-excited-about-facilitatingxyz/
+ [4]: /why-im-so-excited-about-facilitatingxyz/
  [5]: http://medium.com/kinda-political
  [6]: http://karenrayne.com
  [7]: http://itspronouncedmetrosexual.com/2016/05/sexualitree-model-of-comprehensive-sexuality/

@@ -68,4 +68,4 @@ If this is sounding like something you want to get onboard with, here are the so
   Incidentally, my friend slash wonderful person I look up to a great deal, <a href="http://www.kevinwanzer.com" target="_blank">Kevin Wanzer</a>, named his LLC &#8220;<a href="http://www.choosetolove.com">Choose to Love</a>&#8221; after a poem he wrote (that he published <a href="http://www.amazon.com/Choose-To-Love-About-Choices/dp/1420895214/ref=sr_1_1?ie=UTF8&qid=1389657530&sr=8-1&keywords=choose+to+love" target="_blank">as an illustrated book</a>). Please don&#8217;t consider this article to be affiliated with or an endorsement of Kevin and his work &#8212; it&#8217;s just coincidence in phrasing and a shared philosophy we have. But please consider <em>this </em>is an endorsement of Kevin and his work: buy his book, bring him to your campus/org to speak, and tell everyone you know about both.
 </p>
 
- [1]: //us-vs-them/ "Making a Bigger “Us” and a Smaller “Them”"
+ [1]: /us-vs-them/ "Making a Bigger “Us” and a Smaller “Them”"

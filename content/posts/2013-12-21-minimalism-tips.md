@@ -29,5 +29,5 @@ Kidding. 100 would be a bit excessive, and likely more than a bit counterintuiti
   * do less, invest in what you do more
   * know less, wonder more
 
- [1]: //minimalism-story/ "My Minimalism Story"
- [2]: //happiness/ "The 3 Ingredients to a Happy Existence"
+ [1]: /minimalism-story/ "My Minimalism Story"
+ [2]: /happiness/ "The 3 Ingredients to a Happy Existence"

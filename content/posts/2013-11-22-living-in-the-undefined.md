@@ -12,7 +12,7 @@ dsq_thread_id:
   - 1990409612
 photo:
   - |
-    I made today's photo of a river merging into a pond in the middle of Ohio back in '09. It's beautifully ambiguous, <a href="//wp-content/uploads/2013/11/Sam-Killermann-Pond-Water-Bubbles-Abstract.png">even in its entirety</a>.
+    I made today's photo of a river merging into a pond in the middle of Ohio back in '09. It's beautifully ambiguous, <a href="/wp-content/uploads/2013/11/Sam-Killermann-Pond-Water-Bubbles-Abstract.png">even in its entirety</a>.
 categories:
   - Better Humaning
 topics:

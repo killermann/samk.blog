@@ -19,7 +19,7 @@ topics:
 ---
 In a few short days, I&#8217;ll be debuting <a href="http://tolerance.in" target="_blank">a new show</a>. To those who have followed my work, I understand that the topic (faith) and setting (a church) feel like they are coming out of left field. And that feeling couldn&#8217;t be more right &#8212; that&#8217;s why I&#8217;m doing this show.
 
-Granted, I&#8217;ve written about Christianity a bit, both <a href="//i-dont-believe-in-god/" target="_blank">here</a> and at _<a href="http://itspronouncedmetrosexual.com/tag/christianity/" target="_blank">It&#8217;s Pronounced Metrosexual</a>, _but it would be accurate to say that <span style="text-decoration: underline;">F</span>aith is not my usual go-to topic when I hop on stage. In fact, I&#8217;ve never talked about faith on stage, and, if I&#8217;m being completely honest, I feel palpably uncomfortable in churches. But again, that is, in essence, why I&#8217;m doing this show.
+Granted, I&#8217;ve written about Christianity a bit, both <a href="/i-dont-believe-in-god/" target="_blank">here</a> and at _<a href="http://itspronouncedmetrosexual.com/tag/christianity/" target="_blank">It&#8217;s Pronounced Metrosexual</a>, _but it would be accurate to say that <span style="text-decoration: underline;">F</span>aith is not my usual go-to topic when I hop on stage. In fact, I&#8217;ve never talked about faith on stage, and, if I&#8217;m being completely honest, I feel palpably uncomfortable in churches. But again, that is, in essence, why I&#8217;m doing this show.
 
 Christian/Religious people don&#8217;t often engage in dialogue with Atheist people. Straight/Cisgender people don&#8217;t often engage in dialogue with Queer people. Don&#8217;t get me wrong: there is a lot of talking _at_ these different groups, but that&#8217;s not the same.
 
@@ -27,7 +27,7 @@ There are a lot of &#8220;national conversations&#8221; led by members of all fo
 
 There is this idea that there is no common ground, that we&#8217;re all at extremes, we&#8217;re against, at odds, &#8220;irreconcilably different,&#8221; _fundamentally opposed. _These are identities that are thought to have clear lines in the sand &#8212; party lines, political lines, permanent lines. Us. Them. And a big gap between the two.
 
-But here&#8217;s the thing: I don&#8217;t buy it. Any of it. I think we&#8217;re getting duped, that an extremely vocal minority is misrepresenting the majority, and that we&#8217;re more alike than we are different &#8212; at least where it counts. From my perspective, it&#8217;s becoming more and more clear that&#8217;s the case. But I&#8217;m aware of how odd my perspective is at times. I&#8217;m hoping this show will help <a title="Making a Bigger “Us” and a Smaller “Them”" href="//us-vs-them/" target="_blank">build a bigger Us and a smaller Them</a>.
+But here&#8217;s the thing: I don&#8217;t buy it. Any of it. I think we&#8217;re getting duped, that an extremely vocal minority is misrepresenting the majority, and that we&#8217;re more alike than we are different &#8212; at least where it counts. From my perspective, it&#8217;s becoming more and more clear that&#8217;s the case. But I&#8217;m aware of how odd my perspective is at times. I&#8217;m hoping this show will help <a title="Making a Bigger “Us” and a Smaller “Them”" href="/us-vs-them/" target="_blank">build a bigger Us and a smaller Them</a>.
 
 ## There&#8217;s this thing about me &#8212; about my identity &#8212; that mixes people&#8217;s signals
 

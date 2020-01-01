@@ -26,4 +26,4 @@ Oh, and here&#8217;s the guy:
 
  
 
- [1]: //wp-content/uploads/2013/12/frey.jpg
+ [1]: /wp-content/uploads/2013/12/frey.jpg

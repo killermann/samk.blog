@@ -45,10 +45,10 @@ But I also recognize that it will be easy for me to leave all of Thailand behind
 
 The woman in the apron walks by again, yelling at the top of her lungs to everyone on the train, as we start to pick up speed leaving the station. She only has 2 more shrimp bowls.
 
- [1]: //wp-content/uploads/2015/08/IMG_0093.jpg
- [2]: //wp-content/uploads/2015/08/IMG_0095.jpg
- [3]: //wp-content/uploads/2015/08/IMG_0096.jpg
- [4]: //wp-content/uploads/2015/08/IMG_0094.jpg
+ [1]: /wp-content/uploads/2015/08/IMG_0093.jpg
+ [2]: /wp-content/uploads/2015/08/IMG_0095.jpg
+ [3]: /wp-content/uploads/2015/08/IMG_0096.jpg
+ [4]: /wp-content/uploads/2015/08/IMG_0094.jpg
  [5]: http://hushfactor.com
  [6]: http://guidetofacilitation.com
  [7]: http://hues.xyz

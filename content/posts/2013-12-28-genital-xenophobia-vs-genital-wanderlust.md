@@ -109,4 +109,4 @@ Ultimately, I want you &#8212; your _whole_ you &#8212; to be able to be happy. 
 
  
 
- [1]: //wp-content/uploads/2013/12/jon-hamm-bulge.jpg
+ [1]: /wp-content/uploads/2013/12/jon-hamm-bulge.jpg

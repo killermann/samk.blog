@@ -37,5 +37,5 @@ Intro track by Rustik Jamz. Check them out: @[rustik-jamz][2]
 
 Also, let me know if the coffee shop background noise is too much &#8212; we wanted to have some ambience, but I don&#8217;t want it to be distracting.
 
- [1]: //catalytic-friends/ "Catalytic Friends"
+ [1]: /catalytic-friends/ "Catalytic Friends"
  [2]: https://soundcloud.com/rustik-jamz

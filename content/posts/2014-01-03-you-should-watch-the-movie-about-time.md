@@ -30,4 +30,4 @@ I recommend watching it. And I recommend living it once you do. I&#8217;ll be tr
 
 Worst case scenario: you get to enjoy two hours of Rachel McAdams and equally adorable yet completely unknown to me Domhnall Gleeson.
 
- [1]: //new-years-resolutions-happy-world/ "If Everyone Made these 12 New Year’s Resolutions, the World Would Be Happier"
+ [1]: /new-years-resolutions-happy-world/ "If Everyone Made these 12 New Year’s Resolutions, the World Would Be Happier"

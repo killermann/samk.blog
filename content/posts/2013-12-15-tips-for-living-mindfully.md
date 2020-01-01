@@ -47,4 +47,4 @@ These are things I try to be mindful of every day. I&#8217;m hoping that by writ
 
 Have any tips for living mindfully? Please please please let me know. I&#8217;d like to hear them for myself, but also to add the to this list for others.
 
- [1]: //happiness/ "The 3 Ingredients to a Happy Existence"
+ [1]: /happiness/ "The 3 Ingredients to a Happy Existence"

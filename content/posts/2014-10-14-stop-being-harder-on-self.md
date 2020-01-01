@@ -73,4 +73,4 @@ Pretending it doesn&#8217;t, or yelling that it _shouldn&#8217;t_, won&#8217;t c
 
 And that&#8217;s something my mind can totally (finally) get behind.
 
- [1]: //we-fabricate-the-obstacles-to-happiness/ "We Fabricate the Obstacles that Stand Between Us and Happiness"
+ [1]: /we-fabricate-the-obstacles-to-happiness/ "We Fabricate the Obstacles that Stand Between Us and Happiness"

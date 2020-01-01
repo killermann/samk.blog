@@ -21,5 +21,5 @@ Hahaha &#8212; [oh headlines][1]. But seriously. You need no flowchart beyond th
 
 [<img class="alignnone size-full wp-image-593 lazy-load" alt="Maya-Angelou---Change-It-Flowchart" data-src="//wp-content/uploads/2014/01/Maya-Angelou-Change-It-Flowchart.png" width="800" height="1236" srcset="/wp-content/uploads/2014/01/Maya-Angelou-Change-It-Flowchart.png 800w, /wp-content/uploads/2014/01/Maya-Angelou-Change-It-Flowchart-194x300.png 194w, /wp-content/uploads/2014/01/Maya-Angelou-Change-It-Flowchart-768x1187.png 768w, /wp-content/uploads/2014/01/Maya-Angelou-Change-It-Flowchart-663x1024.png 663w" sizes="(max-width: 800px) 100vw, 800px" />][2]
 
- [1]: //30-mind-blowing-facts-internet-is-broken/ "30 Ways The Top Ten Most Mind Blowing Facts You Would Never Expect About Jennifer Lawrence Absolutely Kinda Restored Our Faith In Humanity And Crushed Our Souls"
- [2]: //wp-content/uploads/2014/01/Maya-Angelou-Change-It-Flowchart.png
+ [1]: /30-mind-blowing-facts-internet-is-broken/ "30 Ways The Top Ten Most Mind Blowing Facts You Would Never Expect About Jennifer Lawrence Absolutely Kinda Restored Our Faith In Humanity And Crushed Our Souls"
+ [2]: /wp-content/uploads/2014/01/Maya-Angelou-Change-It-Flowchart.png

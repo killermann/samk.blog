@@ -138,7 +138,7 @@ P.O. Box 684412
 Austin, TX 78768
 
  [1]: http://itspronouncedmetrosexual.com/2014/04/i-have-not-given-you-consent/
- [2]: //numbers-rule-my-life/
+ [2]: /numbers-rule-my-life/
  [3]: https://en.wikipedia.org/wiki/Hydra_(comics)
  [4]: https://samtalkto.us
  [5]: http://hues.xyz

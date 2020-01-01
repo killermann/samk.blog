@@ -91,6 +91,6 @@ With love,
 
 sK
 
- [1]: //my-heart-in-austin-texas/ "Reasons I Know My Heart is in Austin, Texas"
- [2]: //the-platinum-rule-podcast/ "The Platinum Rule vs The Golden Rule"
- [3]: //we-fabricate-the-obstacles-to-happiness/ "We Fabricate the Obstacles that Stand Between Us and Happiness"
+ [1]: /my-heart-in-austin-texas/ "Reasons I Know My Heart is in Austin, Texas"
+ [2]: /the-platinum-rule-podcast/ "The Platinum Rule vs The Golden Rule"
+ [3]: /we-fabricate-the-obstacles-to-happiness/ "We Fabricate the Obstacles that Stand Between Us and Happiness"

@@ -35,9 +35,9 @@ Here are a few more things I&#8217;ve appreciated about the Thought / Day thing 
 
 ## Challenges Accepted
 
-I&#8217;ve occasionally <a href="//category/challenge/" target="_blank">challenged</a> myself to make changes to my life or look at things differently, and encouraged anyone reading to challenge themselves as well. This has been one of my favorite parts of the project, and something I&#8217;m definitely going to keep up. But what good is a challenge if there&#8217;s no follow up? Here are some short updates and reactions to the four challenges so far:
+I&#8217;ve occasionally <a href="/topics/challenge/" target="_blank">challenged</a> myself to make changes to my life or look at things differently, and encouraged anyone reading to challenge themselves as well. This has been one of my favorite parts of the project, and something I&#8217;m definitely going to keep up. But what good is a challenge if there&#8217;s no follow up? Here are some short updates and reactions to the four challenges so far:
 
-**<a title="Asking For Help" href="//asking-for-help/" target="_blank">Asking for Help</a>.** In addition to the direct call for help in this post, I&#8217;ve started drawing up some plans for 2014 that are going to be much bigger scale requests for help. It&#8217;s been tough, but just writing that post made things much easier. More updates to come on this forever-challenge.
+**<a title="Asking For Help" href="/asking-for-help/" target="_blank">Asking for Help</a>.** In addition to the direct call for help in this post, I&#8217;ve started drawing up some plans for 2014 that are going to be much bigger scale requests for help. It&#8217;s been tough, but just writing that post made things much easier. More updates to come on this forever-challenge.
 
 **[Go See a Movie By Yourself][2].** A lot of people have written in that they&#8217;ve taken me up on this challenge, and the responses have all been awesomely positive. I&#8217;m full on team &#8220;see a movie by myself&#8221; and it seems that a lot of other folks are, too. Fun!
 
@@ -45,7 +45,7 @@ I&#8217;ve occasionally <a href="//category/challenge/" target="_blank">challeng
 
 **[I Will Tell No Lies][4].** Oooo weeee, this one was a doozy. It&#8217;s amazing how easy it is for me to casually lie (white lie) about things that don&#8217;t matter. I have told lies since that lie-free week, so I&#8217;m failing, but I&#8217;m not able to do it without noticing any more (white [lie] guilt), so I&#8217;m slowly curbing the habit. Give me another month or two.
 
- [1]: //hiding-behind-a-keyboard/ "Hiding Behind a Keyboard: The Terror of the Unknown"
- [2]: //see-movie-by-yourself/
- [3]: //gratitude-challenge/
- [4]: //no-lying-for-one-week/
+ [1]: /hiding-behind-a-keyboard/ "Hiding Behind a Keyboard: The Terror of the Unknown"
+ [2]: /see-movie-by-yourself/
+ [3]: /gratitude-challenge/
+ [4]: /no-lying-for-one-week/

@@ -86,7 +86,7 @@ And all of this, I'm supposing, is because we're conditioned in a society that r
 
 We're supposed to work hard and be special and be exceptional, but we're supposed to be modest lest we be perceived as egotistical, vain, or "I bet you think of yourself when you masturbate." 
 
-Add to all of this a crippling desire to be externally validated for a sense of accomplishment (something we were trained to need by years of grades and ribbons and standardized tests and gold stars), the image-crafting of social media, and a society that creates and worships a small group of elite&#8230; and we have a lot of <a title="We Fabricate the Obstacles that Stand Between Us and Happiness" href="//we-fabricate-the-obstacles-to-happiness/" target="_blank">obstacles between us and happiness</a>.
+Add to all of this a crippling desire to be externally validated for a sense of accomplishment (something we were trained to need by years of grades and ribbons and standardized tests and gold stars), the image-crafting of social media, and a society that creates and worships a small group of elite&#8230; and we have a lot of <a title="We Fabricate the Obstacles that Stand Between Us and Happiness" href="/we-fabricate-the-obstacles-to-happiness/" target="_blank">obstacles between us and happiness</a>.
 
 ### So what can do we do differently?
 
@@ -98,4 +98,4 @@ Let's affirm people in being proud of what they've accomplished, and do our best
 
 But, more importantly and bigger picture, let's try to create a space for our friends and loved ones where they don't need to seek external validation to be happy, where they don't see accomplishment as a prerequisite for people to appreciate them, and where they feel unconditionally appreciated just for _being_. 
 
-We can start by fully <a title="Be Your Own Friend First" href="//be-your-own-friend-first/" target="_blank">learning this for ourselves</a>, and having an open heart with no minimum admission requirements.
+We can start by fully <a title="Be Your Own Friend First" href="/be-your-own-friend-first/" target="_blank">learning this for ourselves</a>, and having an open heart with no minimum admission requirements.
