@@ -22,7 +22,7 @@
     "dateModified" : "{{ .Date }}",
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
-    "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"Sam Killermann", "Sam Killerman", "Sam Killermann Blog", "Social Justice","Gender","Sexuality" ]
+    "keywords" : [ {{ if isset .Params "topics" }}{{ range .Params.topics }}"{{ . }}",{{ end }}{{ end }}"Sam Killermann","Sam Killerman","Sam Killermann Blog","Social Justice","Better Humaning","Technolophizing","Creastinating"],
 } {
     "@context": "https://schema.org",
     "@type": "Organization",
