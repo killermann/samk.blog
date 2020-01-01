@@ -5,7 +5,7 @@ type: page
 date: 2018-11-27T18:54:34+00:00
 
 ---
-Here are the **Top 7** most popular [articles][1] on the blog so far:
+Here are the **Top 7** most popular [essays][1] on the blog so far:
 
   1. [My List of 100 Dreams][2]
   2. [Genital Xenophobia and Genital Wanderlust: Show Me Yours and I’ll Show You Mine][3]
