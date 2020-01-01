@@ -35,25 +35,11 @@ We share your Personal Information with third parties to help us use your Person
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-[[INCLUDE IF USING REMARKETING OR TARGETED ADVERTISING]]
-BEHAVIOURAL ADVERTISING
-As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
-
-You can opt out of targeted advertising by:
-[[
-  INCLUDE OPT-OUT LINKS FROM WHICHEVER SERVICES BEING USED.
-  COMMON LINKS INCLUDE:
-    FACEBOOK - https://www.facebook.com/settings/?tab=ads
-    GOOGLE - https://www.google.com/settings/ads/anonymous
-    BING - https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
-]]
-
 Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  http://optout.aboutads.info/.
 
 DO NOT TRACK
 Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-[[INCLUDE IF LOCATED IN OR IF STORE HAS CUSTOMERS IN EUROPE]]
 YOUR RIGHTS
 If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
