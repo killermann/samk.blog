@@ -1,4 +1,5 @@
 /feed/                                        /index.xml
+/articles/                                    /essays/
 /category/*                                   /categories/:splat
 /tag/*                                        /topics/:splat
 /type/*                                       /:splat

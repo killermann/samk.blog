@@ -25,7 +25,7 @@ Here are **7 of my favorites**, that aren&#8217;t include in the popular list:
   6. [Starstruck][14]
   7. [Into the Desert][15]
 
- [1]: /articles/
+ [1]: /essays/
  [2]: /my-list-of-100-dreams/
  [3]: /genital-xenophobia-vs-genital-wanderlust/
  [4]: /proud-humbled-misunderstanding/

@@ -1,6 +1,6 @@
 <div class="loop-content">
 	<article class="wrap card {{ if .Params.format }}format-{{ .Params.format }}{{ else }}format-standard{{ end }}">
-		<div class="entry-header">
+		<div class="entry-header{{ if .Params.featured_image }} with-thumb{{ end }}">
 			<div class="entry-header-text">
 				{{- if .Params.categories }}
 				<div class="primary-category">

@@ -1,11 +1,11 @@
 ---
-title: 5 Reasons You Should Blog-to-Book
+title: 7 Reasons You Should Blog-to-Book
 author: Sam Killermann
 excerpt: It's not just a sure-fire cure for writer's block.
 url: /why-blog-to-book/
+draft: true
 type: post
 date: 2019-12-31T19:08:36+00:00
-draft: true
 categories:
   - Work dot Com
 topics:
