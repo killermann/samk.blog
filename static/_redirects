@@ -2,7 +2,7 @@ https://samkillermannblog.netlify.com/*       https://www.samkillermann.com/:spl
 /feed/                                        /index.xml
 /articles/                                    /essays/
 /category/*                                   /categories/:splat
-/category/technolophizing/work-dot-com        /categories/work-dot-com
+/categories/technolophizing/work-dot-com      /categories/work-dot-com
 /tag/*                                        /topics/:splat
 /type/*                                       /:splat
 /articles/                                    /essays/
