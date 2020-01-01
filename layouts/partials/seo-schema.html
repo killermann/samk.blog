@@ -3,15 +3,17 @@
 {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "{{ .Site.Params.header }}",
-    "url": "{{ .Site.Params.baseURL }}",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "image": "{{ .Site.Params.logo }}",
     "sameAs": [
         "https://www.facebook.com/{{ .Site.Params.facebook }}",
         "https://www.instagram.com/{{ .Site.Params.instagram }}",
         "https://twitter.com/{{ .Site.Params.twitter }}",
         "https://github.com/{{ .Site.Params.github }}"
     ]
-}{{ else }}
+}
+{{ else }}
 {
     "@context" : "http://schema.org",
     "@type" : "BlogPosting",
@@ -22,6 +24,7 @@
     "articleSection" : "{{ if .Params.categories }}{{ index .Params.categories 0 }}{{ end }}",
     "name" : "{{ if .Params.seo_title }}{{ .Params.seo_title }}{{ else }}{{ .Title }}{{ end }}",
     "headline" : "{{ .Title }}",
+    "image" : "{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else}}{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}{{ with $img }}{{ $img.Permalink }}{{ end }}{{ end }}",
     "description" : "{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else if .IsPage}}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}",
     "inLanguage" : "en-US",
     "author" : "{{ range .Site.Author }}{{ . }}{{ end }}",
