@@ -23,9 +23,9 @@ My generic answer: not as hard as it was to edit it.
 
 Why? The big reason is because my first book was blogged-to-book -- at least for the most part.
 
-So by the time I was getting book deal offers to publish it, I had already written a bunch of the chapters that would eventually comprise the finished text.
+So by the time I was getting book deal offers to publish it, I had already written almost all of the chapters that would eventually comprise the finished text.
 
-Most of the remaining work was organizing what I had written, editing things down to what was essentially (and I'm not a natural editor, so this part was really tough for me), and expanding in other areas where an idea needed more support (oooeee I loved this part!).
+Most of the remaining work was organizing what I had written, editing things down to what was essential (and I'm not a natural editor, so this part was really tough for me), and expanding in other areas where an idea needed more support (oooeee I loved this part!).
 
 Another question I get when I set up my book writing advice booth (i.e., I'm alive near someone who is thinking about writing a book and they find out I'm an author): **"What advice do you have for someone who wants to write a book?"**
 
@@ -39,7 +39,11 @@ I'm guessing what I mean is pretty obvious, but here's a short explanation of wh
 4. Yes, I mean share it publicly as you're working on it and have other people read it before it's done.
 5. Yes, I'm sure.
 
-I could go into a lot of detail about the particular Hows of this proposition. And I'm tempted (bad editor here 👋). But I'm going to resist for now, and instead go full Simon Sinek groupie and [start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en):
+I could go into a lot of detail about the particular Hows of this proposition. And I'm tempted (bad editor here 👋). 
+
+But I'm going to resist for now, and instead go full Simon Sinek groupie and [start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en). 
+
+The first reason I think you should publish chapters of your book as you write them is probably reason enough for most people:
 
 ## 1. Blogging your book is a silver bullet for writer's block.
 
