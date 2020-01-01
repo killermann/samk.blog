@@ -1,6 +1,6 @@
 <div class="loop-content">
 	<article class="wrap card {{ if .Params.format }}format-{{ .Params.format }}{{ else }}format-standard{{ end }}">
-		<div class="entry-header{{ if .Params.featured_image }} with-thumb{{ end }}">
+		<div class="entry-header">
 			<div class="entry-header-text">
 				{{- if .Params.categories }}
 				<div class="primary-category">
@@ -24,11 +24,18 @@
 				<p class="excerpt text-wrap" style="margin-left: 0">{{ .Params.excerpt }}</p>
 				{{ end }}
 			</div>
-			{{ if .Params.featured_image }}
 			<div class="post-thumbnail">
+				{{ if .Params.featured_image }}
 				<img loading="lazy" class="lazy-load" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAQAAABeK7cBAAAADUlEQVR42mP8X8/AAAAFgwGANbMDjQAAAABJRU5ErkJggg==" data-src="{{ .Params.featured_image }}" alt="" />
+				{{ else }}
+					{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+					{{ with $img }}
+						{{ $big := $img.Resize "1400x" }}
+						{{ $small := $img.Resize "600x" }}
+							<img loading="lazy" class="lazy-load" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAQAAABeK7cBAAAADUlEQVR42mP8X8/AAAAFgwGANbMDjQAAAABJRU5ErkJggg==" data-srcset="{{ $small.RelPermalink }} 1x, {{ $big.RelPermalink }} 2x" alt="{{ $img.Title }}" />
+					{{ end }}
+				{{ end }}
 			</div>
-			{{ end }}
 			{{ if .Params.link }}
 			<a class="absolute-link" rel="noopener noreferrer" target="_blank" href="{{ .Params.link }}"><span class="screen-reader-text">{{ .Title }}</span></a>
 			{{ else }}

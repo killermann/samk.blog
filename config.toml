@@ -25,9 +25,11 @@ summaryLength = 40
 	og_image = "/img/sK-social-card.png"
 	talkyardServerUrl = "https://comments-for-www-samkillermann-com.talkyard.net"
 	talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
-
-[social]
-	twitter = "Killermann"
+	logo = "favicon-96x96.png"
+	facebook = "samkillermann"
+	twitter = "killermann"
+	instagram = "killermann"
+	github = "killermann"
 
 [menu]
 	[[menu.main]]

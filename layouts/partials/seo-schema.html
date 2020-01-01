@@ -9,6 +9,7 @@
     "articleSection" : "{{ .Section }}",
     "name" : "{{ if .Params.seo_title }}{{ .Params.seo_title }}{{ else }}{{ .Title }}{{ end }}",
     "headline" : "{{ .Title }}",
+    "image": {{ .Params.og_image | absURL }},
     "description" : "{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else if .IsPage}}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}",
     "inLanguage" : "en-US",
     "author" : "{{ range .Site.Author }}{{ . }}{{ end }}",
@@ -22,5 +23,16 @@
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
     "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"Sam Killermann", "Sam Killerman", "Sam Killermann Blog", "Social Justice","Gender","Sexuality" ]
-}
+} {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": {{ .Site.Params.Title }},
+    "url": {{ .Site.BaseURL }},
+    "sameAs": [
+      "https://www.facebook.com/{{ .Site.Params.facebook }}",
+      "https://www.instagram.com/{{ .Site.Params.instagram }}",
+      "https://twitter.com/{{ .Site.Params.twitter }}",
+      "https://github.com/{{ .Site.Params.github }}"
+    ]
+  }
 </script>

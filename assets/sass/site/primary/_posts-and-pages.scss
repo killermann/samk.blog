@@ -161,6 +161,15 @@
 			font-size: 1em;
 			margin-bottom: 1rem;
 		}
+
+		.post-thumbnail {
+			@extend .chameleon-bg;
+			margin-top: -4vw;
+
+			img {
+				opacity: .7;
+			}
+		}
 	}
 
 	.byline, .more-link, .posted-on, .primary-category {
