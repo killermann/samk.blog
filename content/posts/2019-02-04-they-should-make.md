@@ -3,7 +3,7 @@ title: You Can Stop Saying “They Should Make A…”
 author: Sam Killermann
 type: post
 date: 2019-02-04T22:08:52+00:00
-excerpt: There was a time when You needed Their permission. That time has past.
+excerpt: There was a time when You needed Their permission. That time has passed.
 url: /they-should-make/
 featured_image: /wp-content/uploads/2019/02/nikola-knezevic-721357-unsplash.jpg
 categories:
@@ -11,7 +11,6 @@ categories:
 topics:
   - Learning
   - Obstacles
-
 ---
 Something I see all the time on the internet is people saying &#8220;They should have a&#8230;&#8221; or &#8220;They should make a&#8230;&#8221; and then sharing some idea, platform, service, movement, or cause that the commenter wants, and believes &#8220;they&#8221; should create.
 

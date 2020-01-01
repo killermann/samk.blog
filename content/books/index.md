@@ -11,13 +11,13 @@ I&#8217;ve published a few books, written a few more, and contributed chapters t
 
 If you want an email when I publish the next one, the best thing you can do is sign up for [my personal email list][2].
 
-## A Guide to Gender (2nd Ed.)
+## A Guide to Gender
 
 <div class="wp-block-image">
   <figure class="alignright is-resized"><a href="https://guidetogender.com" target="_blank" rel="noreferrer noopener"><img data-src="/wp-content/uploads/2018/11/G2G2-Front-Cover-FINAL-692x1024.png" alt="Cover design for A Guide to Gender: The Social Justice Advocate's Handbook" class="shadow-high wp-image-1033 lazy-load" width="300" height="450" /></a></figure>
 </div>
 
-[A Guide to Gender: The Social Justice Advocate&#8217;s Handbook][3] has been the #1 in a bunch of categories on Amazon, and has become the textbook for lots of gender studies courses, despite me having a subheading in the book stating &#8220;This is not a textbook.&#8221;
+Currently in its 2nd Edition, [A Guide to Gender: The Social Justice Advocate&#8217;s Handbook][3] has been the #1 in a bunch of categories on Amazon, and has become the textbook for lots of gender studies courses, despite me having a subheading in the book stating &#8220;This is not a textbook.&#8221;
 
 I released the second edition in 2017, updating it five years after its initial publication with a couple new chapters, and lots of revised language.
 

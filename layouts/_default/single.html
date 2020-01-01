@@ -44,7 +44,7 @@
 		{{ range .Params.categories }}
 		<span class="cat-links"><a href="/categories/{{ . | urlize }}">{{ . }}</a></span>
 		{{ end }}
-		{{ range .Params.tags }}
+		{{ range .Params.topics }}
 		<span class="tags-links"><a href="/topics/{{ . | urlize }}">{{ . }}</a></span>
 		{{ end }}
 	</footer>
