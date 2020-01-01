@@ -27,14 +27,29 @@
     "image" : "{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else}}{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}{{ with $img }}{{ $img.Permalink }}{{ end }}{{ end }}",
     "description" : "{{ if .Description }}{{ .Description }}{{ else if .Params.excerpt }}{{ .Params.excerpt }}{{ else if .IsPage}}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}",
     "inLanguage" : "en-US",
-    "author" : "{{ range .Site.Author }}{{ . }}{{ end }}",
-    "creator" : "{{ range .Site.Author }}{{ . }}{{ end }}",
-    "publisher": "{{ range .Site.Author }}{{ . }}{{ end }}",
-    "accountablePerson" : "{{ range .Site.Author }}{{ . }}{{ end }}",
-    "copyrightHolder" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "author": {
+        "@type": "Person",
+        "@id": "{{ range .Site.Author }}{{ . }}{{ end }}"
+    },
+    "creator": {
+        "@type": "Person",
+        "@id": "{{ range .Site.Author }}{{ . }}{{ end }}"
+    },
+    "publisher": {
+        "@type": "Person",
+        "@id": "{{ range .Site.Author }}{{ . }}{{ end }}"
+    },
+    "accountablePerson": {
+        "@type": "Person",
+        "@id": "{{ range .Site.Author }}{{ . }}{{ end }}"
+    },
+    "copyrightHolder": {
+        "@type": "Person",
+        "@id": "{{ range .Site.Author }}{{ . }}{{ end }}"
+    },
     "copyrightYear" : "{{ .Date.Format "2006" }}",
     "datePublished": "{{ .Date }}",
-    "dateModified" : "{{ .Date }}",
+    "dateModified" : "{{ .Page.Lastmod }}",
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
     "keywords" : [ {{ if isset .Params "topics" }}{{ range .Params.topics }}"{{ . }}",{{ end }}{{ end }}"Sam Killermann","Sam Killerman","Sam Killermann Blog","Social Justice","Better Humaning","Technolophizing","Creastinating"],
