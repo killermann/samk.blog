@@ -26,6 +26,7 @@ summaryLength = 40
 	talkyardServerUrl = "https://comments-for-www-samkillermann-com.talkyard.net"
 	talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 	logo = "favicon-96x96.png"
+	header = "sK's Blog"
 	facebook = "samkillermann"
 	twitter = "killermann"
 	instagram = "killermann"

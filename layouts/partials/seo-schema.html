@@ -6,7 +6,7 @@
             "@type": "WebPage",
             "@id": "{{ .Site.BaseURL }}"
     },
-    "articleSection" : "{{ .Section }}",
+    "articleSection" : "{{ if .Params.categories }}{{ index .Params.categories 0 }}{{ end }}",
     "name" : "{{ if .Params.seo_title }}{{ .Params.seo_title }}{{ else }}{{ .Title }}{{ end }}",
     "headline" : "{{ .Title }}",
     "image" : {{ if .Params.featured_image }}"{{ .Params.featured_image | absURL }}"{{ else}}{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}{{ with $img }}"{{ $img.Permalink }}"{{ end }}{{ end }},
@@ -26,8 +26,8 @@
 } {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": {{ .Site.Params.Title }},
-    "url": {{ .Site.BaseURL }},
+    "name": "{{ .Site.Params.header }}",
+    "url": "{{ .Site.BaseURL }}",
     "sameAs": [
       "https://www.facebook.com/{{ .Site.Params.facebook }}",
       "https://www.instagram.com/{{ .Site.Params.instagram }}",
