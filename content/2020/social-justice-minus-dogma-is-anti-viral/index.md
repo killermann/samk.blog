@@ -16,7 +16,7 @@ topics:
 
 I've been [working on the internet](/categories/work-dot-com) for about a decade now, but I hadn't encountered this before.
 
-Don't get me wrong: I've created lots of duds. I've made stuff people don't care about. Things by no means "go viral." And I've written, published, and created resources that were either before their time, after, or maybe there never would be a "their time." So I've seen my share of making unpopular content for the internet.
+Don't get me wrong: I've created lots of duds. I've made stuff people don't care about. Things that by no means "went viral." And I've written, published, and created resources that were either before their time, after, or maybe there never would be a "their time." All that goes to say that I've seen my share of making unpopular content for the internet.
 
 But this isn't that.
 
