@@ -93,6 +93,7 @@ People take the course, it gives them a lot to think about, they generally like 
 
 It's like everyone is waiting for someone else to go first. They know [the first one through the wall gets bloody.](https://www.youtube.com/watch?v=D59Oh8sQFSM)
 
+
 ***
 
 <p class="dropcap">As soon as I started publicly talking about SJD I privately stopped accepting gig requests that I felt were advancing SJD. What I mean is that if someone wanted to <a href="https://samtalkto.us">bring me in to speak</a> or perform on their campus, I wouldn't say "Yes" if what I thought they were asking for would contribute to dogmatic activism.</p>
