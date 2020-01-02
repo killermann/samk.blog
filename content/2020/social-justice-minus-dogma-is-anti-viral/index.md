@@ -77,7 +77,7 @@ So a podcast wasn't going to blaze the trail. That format was still too public, 
 
 ***
 
-<p class="dropcap">The Social Justice, Minus Dogma Course + Community was something I was really stubborn to create. I had several people ask me to make it, which is usually all it takes to nudge me into doing something, but I resisted. 
+<p class="dropcap">The Social Justice, Minus Dogma Course + Community was something I was really stubborn to create. I had several people ask me to make it, which is usually all it takes to nudge me into doing something, but I resisted.</p>
 
 To me, a private online course seemed antithetical to dismantling SJD because it didn't break the silence, or require people to disrupt the [pluralistic ignorance](https://en.wikipedia.org/wiki/Pluralistic_ignorance) that seemed to be so prevalent amidst the dogmatic activism.
 
