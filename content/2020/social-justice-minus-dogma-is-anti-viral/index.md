@@ -4,8 +4,8 @@ author: Sam Killermann
 type: post
 date: 2020-01-02T11:38:00+06:00
 excerpt: For over two years now I've been publicly writing and talking about social justice dogma. I've noticed the weirdest thing.
-url: /social-justice-minus-dogma-is-anti-viral/
-discussionId: /social-justice-minus-dogma-is-anti-viral/
+url: /talking-about-social-justice-dogma-is-anti-viral/
+discussionId: /talking-about-social-justice-dogma-is-anti-viral/
 categories:
 - Better Humaning
 topics: 
