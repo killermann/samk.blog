@@ -6,3 +6,4 @@ https://samkillermannblog.netlify.com/*       https://www.samkillermann.com/:spl
 /type/*                                       /:splat
 /articles/                                    /essays/
 /categories/technolophizing/work-dot-com      /categories/work-dot-com
+/topics/philosophizin                         /topics/public-thinking

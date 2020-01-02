@@ -19,7 +19,7 @@ categories:
   - Technolophizing
   - Work dot Com
 topics:
-  - Philosophizin
+  - Public Thinking
   - Wondering
 
 ---

@@ -8,7 +8,7 @@ ampforwp-amp-on-off:
   - default
 
 ---
-<p class="has-drop-cap">
+<p class="dropcap">
   First, a short prologue: email is an unconquerable beast, to whom I have conceded the fight. <a href="/road-away-from-email/">Awhile ago</a>, I even went so far as to put into place a series of elaborate steps to prevent me from <a href="/road-away-from-email/">ever reading another email</a>.
 </p>
 

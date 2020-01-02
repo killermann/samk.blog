@@ -17,7 +17,7 @@ categories:
 topics:
   - Cover Stories
   - Obstacles
-  - Philosophizin
+  - Public Thinking
   - (Un)Happiness
 
 ---

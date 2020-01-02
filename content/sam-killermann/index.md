@@ -8,7 +8,6 @@ date: 2014-04-08T16:52:51+00:00
 featured_image: /wp-content/uploads/2014/04/sam-killermann-on-stage-with-students.jpg
 ampforwp-amp-on-off:
   - default
-
 ---
 If you know me from the interwebs, it&#8217;s likely through one of my [social good projects][1], [my book][2], my [gender-y TED Talk][3], or something else I co-created via [hues](https://hues.xyz). But I wanted this site to stand as a remaining bastion of quasi-personal space where I can explore ideas and share things away from the limelight that has become most of my other sites. That said, below are a few disclosures about me.
 
@@ -22,7 +21,7 @@ Oh, you haven&#8217;t clicked? You just wanna learn about me here? Okay. I see. 
 
 _The following is based on my generic bio that I send to people when they hire me to do a thing and need to include a thing that tells people at the thing why I was asked to do the thing. For the most updated version, [go here][8]._
 
-<p class="has-drop-cap">
+<p class="dropcap">
   I am a comedian, author, and award-winning activist. For about a decade, I've traveled the world performing comedy shows and giving talks on themes of social justice, gender, and sexuality.
 </p>
 

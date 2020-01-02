@@ -9,7 +9,7 @@ featured_image: /wp-content/uploads/2018/12/flower-growing-in-hand-by-Tom-Ezzatk
 categories:
   - Better Humaning
 topics:
-  - Philosophizin
+  - Public Thinking
   - Work
 
 ---

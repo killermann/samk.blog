@@ -44,4 +44,4 @@ I was feeling incredibly grateful today, all day, huddled up in my blanket cocoo
   <iframe src="//www.youtube.com/embed/UtBsl3j0YRQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
- [1]: //today-is-perfect/ "Today is Perfect"
+ [1]: /today-is-perfect/ "Today is Perfect"

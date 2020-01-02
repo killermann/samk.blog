@@ -86,4 +86,4 @@ _Here&#8217;s the full image that I used for the header to this post. It&#8217;s
  [1]: https://twitter.com/Killermann/status/395265221704437760
  [2]: https://twitter.com/Killermann/status/395265250347323392
  [3]: https://twitter.com/Killermann/status/395265824404942849
- [4]: //wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann.png
+ [4]: /wp-content/uploads/2013/10/Human-Jack-o-Lantern-Sam-Killermann.png

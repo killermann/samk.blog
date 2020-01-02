@@ -13,7 +13,7 @@ categories:
 topics:
   - How-To
   - meta af
-  - Philosophizin
+  - Public Thinking
   - Reflecting
 
 ---

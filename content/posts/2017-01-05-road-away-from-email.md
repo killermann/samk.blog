@@ -16,7 +16,7 @@ categories:
 topics:
   - Challenge
   - Habits
-  - Philosophizin
+  - Public Thinking
   - Productivity
   - Work
   - (Un)Happiness

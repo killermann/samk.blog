@@ -31,4 +31,4 @@ I&#8217;m looking forward to getting my replacement computer / work station / cu
 
 sK
 
- [1]: //my-computer-died/ "My Computer Died, but that’s Good"
+ [1]: /my-computer-died/ "My Computer Died, but that’s Good"

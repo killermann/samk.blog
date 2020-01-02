@@ -17,7 +17,7 @@ categories:
 topics:
   - Belief
   - List
-  - Philosophizin
+  - Public Thinking
   - Religion
 
 ---

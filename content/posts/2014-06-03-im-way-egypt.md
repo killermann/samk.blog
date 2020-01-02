@@ -15,5 +15,5 @@ topics:
   - Egypt
   - Gratitude
   - (Un)Happiness
-  - Philosophizin
+  - Public Thinking
 ---

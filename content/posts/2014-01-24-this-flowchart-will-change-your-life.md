@@ -13,7 +13,7 @@ photo:
 categories:
   - Better Humaning
 topics:
-  - Philosophizin
+  - Public Thinking
   - (Un)Happiness
 format: image
 ---
