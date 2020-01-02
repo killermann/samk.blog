@@ -24,11 +24,12 @@
 				<p class="excerpt text-wrap" style="margin-left: 0">{{ .Params.excerpt }}</p>
 				{{ end }}
 			</div>
+			{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+			{{ if or ( .Params.featured_image) ($img) }}
 			<div class="post-thumbnail">
 				{{ if .Params.featured_image }}
 				<img loading="lazy" class="lazy-load" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAQAAABeK7cBAAAADUlEQVR42mP8X8/AAAAFgwGANbMDjQAAAABJRU5ErkJggg==" data-src="{{ .Params.featured_image }}" alt="" />
 				{{ else }}
-					{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
 					{{ with $img }}
 						{{ $big := $img.Resize "1400x" }}
 						{{ $small := $img.Resize "600x" }}
@@ -36,6 +37,7 @@
 					{{ end }}
 				{{ end }}
 			</div>
+			{{ end }}
 			{{ if .Params.link }}
 			<a class="absolute-link" rel="noopener noreferrer" target="_blank" href="{{ .Params.link }}"><span class="screen-reader-text">{{ .Title }}</span></a>
 			{{ else }}
