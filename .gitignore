@@ -3,3 +3,5 @@ drafts/
 node_modules/
 src/.DS_Store
 content/2020/.DS_Store
+.DS_Store
+content/posts/.DS_Store

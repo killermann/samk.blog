@@ -42,7 +42,7 @@ Now for the weird.
 
 Here are a few of the things I've noticed as I've been trying to create conversations about "social justice dogma" for the past couple of years:
 
-1. **Basically nobody shares SJD posts on social media.** None of the SJD posts I've published have gotten that 200 - 300 social shares I expect (but non-SJD posts published in the same timeframe still do).
+1. **Basically nobody shares SJD posts on social media.** None of the SJD posts I've published have gotten that 200 - 300 social shares I expect (but non-SJD posts published in the same time frame still do).
 2. **The people who do share the SJD posts, do so via email.** Like a lot of sites, IPM has little buttons that enable you to share what you're reading. One of them is an "email to a friend"-type button. That button gets very little usage in general, but on SJD posts it's the most popular option.
 3. **The traffic to SJD posts is slow at first, but steady and growing.** Uncorrelated from social media shares, the SJD posts get a lot of visits over time, bring consistent traffic to the site, and continue to get more popular over time.
 4. **I've gotten more emails about SJD than any other topic I write about.** And not just more per article (but that's also true: Every SJD thing I publish I get email replies to). More period. In the past year, more people have written in to reply to my SJD stuff, or give me ideas, share their story, or thank me for working on that project, than anything else I've created.
@@ -127,7 +127,7 @@ I still don't think I have all the answers regarding SJD, or the idea of moving 
 
 In the coming weeks, I'll be using [this blog](https://samk.blog) as a platform for just that. I'll be asking the questions about Social Justice Dogma that I think we need to start answering -- as a community, movement, and/or group of disparate people bound together on a path toward equity. 
 
-I'm doing this here because it's a better plae for [public thinking](/topics/public-thinking) than [It's Pronounced Metrosexual](https://www.itspronouncedmetrosexual.com). On IPM, I have a much larger reader base, I more often publish finished work where I'm sure I know what I want to say, and therefore it's a place where the risk of my own ideas being received and shared as gospel are higher than here.
+I'm doing this here because it's a better place for [public thinking](/topics/public-thinking) than [It's Pronounced Metrosexual](https://www.itspronouncedmetrosexual.com). On IPM, I have a much larger reader base, I more often publish finished work where I'm sure I know what I want to say, and therefore it's a place where the risk of my own ideas being received and shared as gospel are higher than here.
 
 With a big election this year, and the feeling that we're teetering on the cusp of either a tremendous cultural breakthrough or horrendous cultural backslide -- and seeing social justice, intersectional feminism, and all the dogmatic activism spreading like a virus within both playing a large role in that fate -- I'm filled with a sense of urgency to collect all of these thoughts and get them into the world.
 
