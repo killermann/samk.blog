@@ -46,12 +46,17 @@
 		{{ .Content }}
 	</section><!-- .entry-content -->
 	<footer class="entry-footer text-wrap">
-		{{ range .Params.categories }}
-		<span class="cat-links"><a href="/categories/{{ . | urlize }}">{{ . }}</a></span>
-		{{ end }}
-		{{ range .Params.topics }}
-		<span class="tags-links"><a href="/topics/{{ . | urlize }}">{{ . }}</a></span>
-		{{ end }}
+		<p>
+			{{ range .Params.categories }}
+			<span class="cat-links"><a href="/categories/{{ . | urlize }}">{{ . }}</a></span>
+			{{ end }}
+			{{ range .Params.topics }}
+			<span class="tags-links"><a href="/topics/{{ . | urlize }}">{{ . }}</a></span>
+			{{ end }}
+		</p>
+		{{- if .Params.discussionId }}
+		<a class="replies-open" href="#reply">Replies open &darr;</a>
+		{{ end -}}
 	</footer>
 </article>
 <div id="heart-sK">
