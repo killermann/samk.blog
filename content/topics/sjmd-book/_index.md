@@ -1,6 +1,6 @@
 ---
-title: Social Justice, Minus Dogma Book
-description: "testing"
+title: The Social Justice, Minus Dogma Book
+description: "Sam Killermann is publicly writing a book about Social Justice, Minus Dogma. Subscribe to follow along."
 ---
 
 I'm blogging my newest book! I created [a special mailing list for everyone who wants to follow along and participate](https://hues.ck.page/353dcc23a0). You can also just come back to this page periodically, or subscribe [via RSS](index.xml).

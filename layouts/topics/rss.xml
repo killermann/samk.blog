@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>The SJMD Book RSS Feed</title>
+    <title>{{ .Title }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Sam Killermann is publicly writing a book about Social Justice, Minus Dogma. Subscribe to follow along.</description>
+    <description>{{ .Description }}</description>
     <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
     <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
     <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
@@ -12,8 +12,7 @@
     {{ with .OutputFormats.Get "RSS" }}
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
-    {{ range first 10 (where site.Pages "Type" "post")  }}
-    {{ if not (in .URL "_index")}}
+    {{ range .Pages }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
@@ -24,7 +23,6 @@
       <media:content type="image/jpeg" medium="image" width="1200" height="735" url="{{ .Params.featured_image | safeHTML | absURL }}" />{{ end -}}
       <description>{{ .Content | html }}</description>
     </item>
-    {{ end }}
     {{ end }}
   </channel>
 </rss>
