@@ -24,17 +24,17 @@
       {{ if .Params.excerpt }}{{ .Params.excerpt | html }}{{ else }}{{ .Content | html }}{{ end }}
         {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
 			{{ if or ( .Params.featured_image) ($img) }}
-      <a href="{{ .Permalink }}" title="{{ .Title }}">
+      <p><a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ if .Params.featured_image }}
-          <img style="width: 100%; height: auto; margin: 1.5em auto;" src="{{ .Params.featured_image }}" alt="" />
+          <img style="width: 100%; height: auto; display: block;" src="{{ .Params.featured_image }}" alt="" />
         {{ else }}
         {{ with $img }}
           {{ $big := $img.Resize "1400x q100" }}
           {{ $small := $img.Resize "600x q100" }}
-            <img style="width: 100%; height: auto; margin: 1.5em auto;" srcset="{{ $small.Permalink }} 1x, {{ $big.Permalink }} 2x" alt="{{ $img.Title }}" />
+            <img style="width: 100%; height: auto; display: block;" srcset="{{ $small.Permalink }} 1x, {{ $big.Permalink }} 2x" alt="{{ $img.Title }}" />
         {{ end }}
 			{{ end }}
-      </a>
+      </a></p>
       {{ end }}
       </description>
     </item>
