@@ -31,7 +31,7 @@
         {{ with $img }}
           {{ $big := $img.Resize "1400x q100" }}
           {{ $small := $img.Resize "600x q100" }}
-            <img style="width: 100%; height: auto; margin: 1.5em auto;" srcset="{{ $small.RelPermalink }} 1x, {{ $big.RelPermalink }} 2x" alt="{{ $img.Title }}" />
+            <img style="width: 100%; height: auto; margin: 1.5em auto;" srcset="{{ $small.Permalink }} 1x, {{ $big.Permalink }} 2x" alt="{{ $img.Title }}" />
         {{ end }}
 			{{ end }}
       </a>
