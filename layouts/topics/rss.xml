@@ -21,8 +21,8 @@
       <guid>{{ .Permalink }}</guid>
       <dc:creator>Sam Killermann</dc:creator>
       <description>
-      {{ if .Params.excerpt }}{{ .Params.excerpt | html }}{{ else }}{{ .Content | html }}{{ end }}
-        {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+      {{ if .Params.excerpt }}<p>{{ .Params.excerpt }}</p>{{ else }}{{ .Content | html }}{{ end }}
+      {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
 			{{ if or ( .Params.featured_image) ($img) }}
       <p><a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ if .Params.featured_image }}
