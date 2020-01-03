@@ -29,9 +29,8 @@
           <img style="width: 100%; height: auto; display: block;" src="{{ .Params.featured_image }}" alt="" />
         {{ else }}
         {{ with $img }}
-          {{ $big := $img.Resize "1400x q100" }}
-          {{ $small := $img.Resize "600x q100" }}
-            <img style="width: 100%; height: auto; display: block;" srcset="{{ $small.Permalink }} 1x, {{ $big.Permalink }} 2x" alt="{{ $img.Title }}" />
+          {{ $med := $img.Resize "900x q100" }}
+          <img style="width: 100%; max-width: 720px; height: auto; display: block;" src="{{ $med.Permalink }}" alt="{{ $img.Title }}" />
         {{ end }}
 			{{ end }}
       </a></p>
