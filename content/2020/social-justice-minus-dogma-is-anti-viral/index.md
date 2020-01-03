@@ -12,6 +12,7 @@ topics:
 - Activism
 - Internet
 - Social Justice Dogma
+- SJMD Book
 ---
 
 I've been [working on the internet](/categories/work-dot-com) for about a decade now, but I hadn't encountered this before.
