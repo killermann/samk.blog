@@ -133,6 +133,8 @@ With a big election this year, and the feeling that we're teetering on the cusp 
 
 **So by writing and publishing a new post every day here for at least this month, I'll be [taking my own advice, and publicly blogging a book](/why-blog-to-book/) about Social Justice, Minus Dogma.** 
 
-If you want to follow along, you can [subscribe](/subscribe) to get every post as I publish it. I'd also love to hear what you think is going on [in the replies](#reply). My hope is that this is a big conversation, the beginning of the public conversation I've been struggling to start for two years.
+If you want to follow along, you can [subscribe](https://hues.ck.page/353dcc23a0) to get every post as I publish it (or a weekly digest). 
+
+I'd also love to hear what _you think_ is going on with all this SJD stuff [in the replies](#reply). My hope is that this is a big conversation -- the beginning of the public conversation I've been struggling to start for two years.
 
 Because while all my efforts to talk about Social Justice Dogma have so far been anti-viral, I also believe that talking about Social Justice Dogma _will be_ anti-viral. If that doesn't make sense now, it will soon.
