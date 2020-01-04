@@ -13,6 +13,21 @@
 	margin-right:auto;
 	font-family: $serif;
 
+	h2 {
+		font-weight: 800;
+		margin-top: 1em;
+
+		// &:before {
+		// 	display: block;
+		// 	content: '';
+		// 	width: 2em;
+		// 	height: .2em;
+		// 	border-radius: .05em;
+		// 	@extend .chameleon-bg;
+		// 	margin-bottom: 1em;
+		// }
+	}
+
 	.alignleft, img.alignleft {
 		margin-right: 4vw;
 		margin-left:-4vw;
