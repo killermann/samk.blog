@@ -5,7 +5,6 @@ excerpt: Nuance is the enemy. Questions are a gateway drug. You must hate tacos.
 author: Sam Killermann
 type: post
 date: 2020-01-03T17:38:00+06:00
-draft: true
 url: /reacting-to-social-justice-pushback
 discussionId: reacting-to-social-justice-pushback
 categories:
@@ -17,7 +16,7 @@ topics:
 - SJMD Book
 ---
 
-Let's say you're going out to dinner with some friends. Everyone is tossing out ideas for where to go, and you suggest that new taco food truck that just opened up.
+Imagine you're going out to dinner with some friends. Everyone sharing ideas for where to go, and you suggest that new taco food truck that just opened up.
 
 One of your friends replies, "I don't think that'll work. Are you sure they're open? I'm pretty sure they're closed today."
 
