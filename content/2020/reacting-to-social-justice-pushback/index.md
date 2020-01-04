@@ -169,19 +169,23 @@ These, I should say now, in case it wasn't assume, aren't the beliefs of all (or
 
 We're told that if someone questions something social justice-y, they're questioning the goals of social justice. Or if they say that some stance or belief being laid down by authorities within the social justice movement is too absolute, and begs for nuance, they're implicitly supporting the oppressive system that belief purports to dismantle.
 
-## Pushing Back Against the Pushback to the Pushback
-
 Here's the thing, y'all: that's true some of the time, sure; which means it's also _not_ true some of the time.
 
-Sometimes people are questioning social justice to be antagonistic, subversive, dismissive, or worse. True.
+## Pushing Back Against the Pushback to the Pushback
 
-And sometimes people are questioning social justice stuff because they believe in the goals and want to better understand their role in relation to them, or have sure footing for conversations with other people, or because they don't understand what's being asked of them and want to be able to show up in authentic ways.
+Sometimes people are questioning social justice ideas to be antagonistic, subversive, dismissive, or worse. True.
+
+And sometimes people are questioning social justice ideas because they believe in the goals and want to better understand their role in relation to them, or have sure footing for conversations with other people, or because they don't understand what's being asked of them and want to be able to show up in authentic ways.
 
 Sometimes people push for nuance because they're uncomfortable with the extreme of a position and want to bargain it down, or complicate it to oblivion, or slippery-slope it into nothing-ness. True.
 
 And sometimes people push for nuance because that's the most honest portrayal of a situation, or it makes room for their personal experience (or the lived experience of a loved one), or because only the Sith deal in absolutes (sorry not sorry).
 
-We can't keep collapsing all questioning and pushing for nuance into "this person doesn't support our goals" or "this person is part of the problem." For so many reasons, we can't. We can't because it's not true. We can't because it's not working. And we can't because _we can't_ -- we just don't have the bandwidth, energy, or _life-force_ to continue treating potential allies as disposable targets.
+We can't keep collapsing all questioning and pushing for nuance into "this person doesn't support our goals" or "this person is part of the problem." For so many reasons, we can't. We can't because it's often not true. We can't because it's not working. And we can't because _we can't_ -- we just don't have the bandwidth, energy, or _life-force_ to continue treating potential allies as disposable targets.
+
+And I don't think most of us want to. 
+
+We just do it because it feels like the only thing _we're allowed to do_. We shut people down when they ask questions, and question people when they push for nuance, because it's what we know we're supposed to do. It's what we know we'll be rewarded for, patted on the back for, or will get us hearts and thumbs up and retweets on social media.
 
 Here's what I propose instead:
 
