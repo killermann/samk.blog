@@ -16,7 +16,7 @@ topics:
 - SJMD Book
 ---
 
-Imagine you're going out to dinner with some friends. Everyone is sharing ideas for where to go, and you suggest that new taco food truck that just opened up.
+Imagine you're going out to dinner with some friends. Everyone is sharing ideas for where to go, and you suggest that new taco truck that just opened up.
 
 One of your friends replies, "I don't think that'll work. Are they open? I'm pretty sure they're closed today."
 
@@ -24,14 +24,14 @@ How do you react?
 
 Let me venture a few guesses for how you _don't_ react. I'd be willing to bet all the tacos in Austin (i.e., give up roughly 1/3 of my nutritional sustenance) that you don't say:
 
-1. "I guess you don't want to go to dinner after all!"
-2. "So... you hate tacos?"
-3. "You don't get to weigh in on whether or not we have tacos -- you're white."
+1. "I guess you don't want to go to dinner after all!" _or_
+2. "So... you hate tacos?" _or_
+3. "You don't get to weigh in on whether or not we have tacos -- you're white." _or_
 4. "Lol you believe they're closed? You've clearly been brainwashed by the burger chain."
 
-Hopefully, those reactions are sufficiently ridiculous that you can't imagine yourself -- or any other person who has at least one _frijole_ of emotional intelligence -- saying any of them.
+Hopefully, those reactions are sufficiently ridiculous that you can't imagine yourself -- or any other person who has at least one _frijole_ of emotional intelligence -- saying any of them. It would be absurd.
 
-Now, if any one of those four _is_ how you'd typically respond in that situation, the rest of this post is going to be really frustrating for you. Be warned. (I'm also sorry for everyone in your life.)
+That said, if any one of those four _is_ how you'd typically respond in that situation, the rest of this post is going to be really frustrating for you. Consider yourself warned. (I'm also sorry for everyone involved in your dining life.)
 
 And just so we're all on the same page, before I start connecting dots between taco trucks and Social Justice Dogma (SJD) -- _betcha you saw that coming_ -- I'm going to briefly explain what is ridiculous about each of those replies.
 
