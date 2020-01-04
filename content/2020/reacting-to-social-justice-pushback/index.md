@@ -191,7 +191,7 @@ Here's what I propose instead:
 
 **We invite questioning and calls for nuance.** Because working to answer the questions and considering all the different angles and shades of gray will, in the end, strengthen our efforts toward living social justice, and help us better understand the struggles we're engaged in.
 
-**We recognize that people who are willing to devote time and energy to pushing back are integral to accomplishing the goals of social justice.** Without people to double check our math, there's a good chance we're making mistakes.
+**We recognize that people who are willing to devote time and energy to pushing back are integral to accomplishing the goals of social justice.** Without people to double check our math, there's a good chance we're making mistakes. If we truly believe in the goals of social justice, and think we're advocating for steps toward those goals, it's a staggering act of hubris to think we don't need as much help as we can get.
 
 **We move from dismissing, castigating, or making pariahs of people who pushback, and instead create norms of gratitude and appreciation.** When people are incorrect (not because of who they are, or because they dared question the concept), then we can move on. But when people ask questions we don't have good answers for, or beg for nuance in ways we've been woefully absolute, we should appreciate that energy.
 
