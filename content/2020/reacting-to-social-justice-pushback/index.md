@@ -195,4 +195,8 @@ Here's what I propose instead:
 
 **We move from dismissing, castigating, or making pariahs of people who pushback, and instead create norms of gratitude and appreciation.** When people are incorrect (not because of who they are, or because they dared question the concept), then we can move on. But when people ask questions we don't have good answers for, or beg for nuance in ways we've been woefully absolute, we should appreciate that energy.
 
-Or, to put it all another way, what I'm proposing is that when our friend says the taco truck is closed, our reaction is to google it. And if it's closed, we thank them for the heads up, then find another place to eat.
+Or, to put it all another way, what I'm proposing is that when our friend says the taco truck is closed, our reaction is to google it. 
+
+And if it's closed, we thank them for the heads up, then find another place to eat.
+
+If it's not closed, we eat the tacos with our friend. They're not the enemy. They still deserve tacos. It's that evil burger chain we need to look out for.
