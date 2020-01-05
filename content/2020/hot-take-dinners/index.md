@@ -1,6 +1,6 @@
 ---
 title: Organize a Hot Take Dinner
-excerpt: Perfect for when everyone feels they have to have an opinion about something, and you're also hungry.
+excerpt: Perfect for when everyone feels like they have to have an opinion about something, and you're also hungry.
 author: Sam Killermann
 type: post
 date: 2020-01-04T14:38:00+06:00
@@ -70,6 +70,6 @@ My friend who initially came up with the idea texted me this yesterday:
 
 That's just peachy!
 
-That all said, I do envy the dinner guests who got to discuss the issues above. And believe that anything we can do to create community, in-person, making eye contact and all that good stuff, is something we all benefit from, and is ultimately good for social justice. Thank you for coming to my TED Talk.
+With all that said, I do envy the dinner guests who got to discuss the issues above. And believe that anything we can do to create community, in-person, making eye contact and all that good stuff, is something we all benefit from, and is ultimately good for social justice. Thank you for coming to my TED Talk.
 
-Okey doke -- I think I've shared more than enough to get you started. Reply back if you need any more input from me. Now, go organize a "Hot Take Dinner" and let me know how it goes!
+I think I've shared more than enough to get you started. Reply back if you need any more input from me. Now, go organize a "Hot Take Dinner" and let me know how it goes!
