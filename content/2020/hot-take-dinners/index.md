@@ -9,9 +9,10 @@ discussionId: hot-take-dinners
 categories:
 - Better Humaning
 topics: 
-- Activism
-- Social Justice Dogma
 - SJMD Book
+- How-To
+- Activism
+- Public Thinking
 ---
 
 One of my friends came up with the idea of a "Hot Take Dinner" a few years ago. Since then, I've told lots of other people about it, and they've organized their own.
