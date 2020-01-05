@@ -1,6 +1,5 @@
 ---
 title: How We (Over-) React to Pushback in Social Justice Contexts
-description: 
 excerpt: Nuance is the enemy. Questions are a gateway drug. You must hate tacos.
 author: Sam Killermann
 type: post
