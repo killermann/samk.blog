@@ -76,7 +76,7 @@ If you stick around, seeing that happen dozens of times, living with the backgro
 
 We don't think of it as bad. We think of it necessary. And powerful. And meaningful. And every time this happens our relationships deepen a little more.
 
-## Dogma is man's best friend.
+## Dogma is (hu-)man's best friend.
 
 There's more to the list, but dogma being easy, reassuring, connected to things we love, and a catalyst for strong relationships is plenty of carrot. Granted, the stick is always hovering close behind.
 
