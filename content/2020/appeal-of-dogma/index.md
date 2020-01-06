@@ -21,7 +21,7 @@ Some of what I'm about to say might be easily misread as sarcasm, irony, or even
 
 I genuinely believe that dogma has a lot of appeal, and I sympathize with people who support and abide by the social justice dogma. I get it. I really do.
 
-Before I explain more, like every middle school teacher-assigned essay, let's start with [the definition](https://www.lexico.com/en/definition/dogma) of the word:
+Before I explain more, like every middle school kid writing their first big essay, let's start with [the definition](https://www.lexico.com/en/definition/dogma) of the subject:
 
 > **a dogma** is a principle or set of principles laid down by an authority as incontrovertibly true.
 
