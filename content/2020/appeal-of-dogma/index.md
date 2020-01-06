@@ -13,7 +13,6 @@ topics:
 - Social Justice Dogma
 - Activism
 - Ambiguity
-- Public Thinking
 ---
 
 In all my talking and writing about [social justice dogma](https://www.itspronouncedmetrosexual.com/tags/social-justice-dogma/), I don't give a lot of attention to "Why dogma?" I want to address that now.
