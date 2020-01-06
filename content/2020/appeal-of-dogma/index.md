@@ -36,7 +36,7 @@ Do this, don't do that. That's wrong, this is right. Don't challenge authority, 
 
 How great is that?! There are so many moments in my life when I wish things were made that simple, but are instead messy and complicated and grey and uncertain.
 
-And when we're talking about social justice, easy is hard to come by.
+And when we're talking about social justice, easy is hard to come by. Social justice is rife with cognitive complexity, ambiguity, relativism, and lots of other fancy ways to say "tricky." The simplicity offered by dogma can feel like a massive relief.
 
 ## 2. Dogma is reassuring.
 
@@ -44,9 +44,11 @@ Building on the ease, believing in and abiding by a dogma is also reassuring. Yo
 
 Even when the rules aren't easy to follow, or you feel nervous that you might be doing things wrong, you can find comfort in the rules themselves, the plan.
 
-Remember when you were a kid and you thought your parents had everything in life figured out? Following a dogma provides a similar reassurance.
+Remember when you were a kid and you thought adults in your life knew what they were doing, had things figured out, and weren't totally winging it? Dogma presents itself in a similar way: "Here are all the answers, the correct ways to be, and trust us -- we're an expert."
 
-So many of us aren't even sure that the goals of social justice are accomplishable, and we'd often be at a loss for what steps we can take toward that goal -- against the tide of oppression and malaise and indifference. But a dogma says, "Worry not. This is the path."
+So many of us aren't even sure that the goals of social justice are accomplishable, and we'd often be at a loss for what steps we can take toward that goal -- against the tide of oppression and malaise and indifference. We know we need to do something, but it's hard to know the thing you're doing is the _right_ something. 
+
+But a dogma says, "Worry not. This is the path."
 
 ## 3. Dogma is wrapped around good things.
 
@@ -62,7 +64,7 @@ If you think the only way to access a thing you care about is through dogma, the
 
 ## 4. Dogma creates strong bonds.
 
-If you've never heard the phrase ["trauama bonding,"](https://en.wikipedia.org/wiki/Traumatic_bonding) this is going to likely seem more intense than I mean it to. 
+If you've never heard the phrase ["trauma bonding,"](https://en.wikipedia.org/wiki/Traumatic_bonding) this is going to likely seem more intense than I mean it to. 
 
 In the same way that someone can form an intense relationship with someone who is abusive to them -- not in spite of the abuse, but _because_ of it -- the enforcement of dogma can be a catalyst to strong relationship.
 
