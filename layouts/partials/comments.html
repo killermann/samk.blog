@@ -28,8 +28,13 @@
     --secondary-text-color: var(--text-color);
     --primary-bg-color: var(--bg-faint);
   }
-
   </style>
+  <script>
+  window.customLocale = {
+    anonymousCommentHeader: 'Enter your details to comment',
+    socialCommentHeader: 'Enter your details or log in with social media to comment',
+  }
+  </script>
   <div class="text-wrap comments-intro">
     <h2>What do you think? 🤔</h2>
     <p>I opened up replies on this post because I'd love to hear your thoughts. I'm <a href="https://twitter.com/killermann" target="_blank" rel="noopener noreferrer">@Killermann on Twitter</a> if you'd rather talk there.</p>
@@ -37,11 +42,11 @@
   <div class="just-comments sK-theme wrap"
       data-pageid="{{ printf $path }}"
       data-allowguests="true"
+      data-customlocale="customLocale"
       data-disableseo="true"
       data-recaptcha="true"
       data-enableemailnotifications="true"
       data-hidecommentheader="true"
-      data-hideattribution="true"
       data-hidenocommentstext="true"
       data-apikey="4b913576-1c89-4160-b218-e664fb65f187">
   </div>
