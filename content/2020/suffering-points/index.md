@@ -186,7 +186,7 @@ To that I will say _if_ we want to continue keeping score of suffering points, I
   2. **Points are allocated based on an individual's experience.** How they're experiencing the suffering, their previous exposure, and their context are more germane than other people's like them, or ours.
   3. **We resist comparing one person's (or group's) suffering to someone else's.** Because we know that the math there is hard to do, and there's a good chance we're projecting as much as we are assessing.
   4. **When we do make comparisons between people's (or groups') sufferings, we do so with a big ol' mental asterisk floating above,** noting that there's a good chance we're wrong, we're painting with too broad a brush, or we're actively (even if accidentally) erasing or minimizing one party's suffering.
-  5. **And we acknowledge this isn't like pie.** Acknowledging one person's suffering doesn't take a slice away from someone else. There's plenty of suffering to go around. Everyone can have a whole pie of suffering and we'll still have leftovers! (Should I pivot careers into motivational speaking?)
+  5. **And we acknowledge this isn't "like pie."** Acknowledging one person's suffering doesn't take a slice away from someone else. There's plenty of suffering to go around. Everyone can have a whole pie of suffering and we'll still have leftovers! (Should I pivot careers into motivational speaking?)
 
 ## What's suffering got to do with it?
 
