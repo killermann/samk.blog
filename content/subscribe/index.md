@@ -24,7 +24,7 @@ Looking to get the doctor-recommended dose of my blog? _4 out of 5 dentists have
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer">
 </div>
 
-[**Be my employer**][3], and get the TMI updates, backstories, access to polls about what I&#8217;ll be working on, and the ability to provide me direction for the future, unless I quit, or you fire me. _Pay whatever you want/can/think I&#8217;m worth_ (Minimum wage laws haven&#8217;t caught up to work dot com).
+[**Be my patron**][3], and get the TMI updates, backstories, access to polls when I ask questions about things I'm working on, and the ability to provide me direction for the future. _Pay whatever you want/can/think I&#8217;m worth_ (Minimum wage laws haven&#8217;t caught up to work dot com).
 
 <a class="button" rel="noreferrer noopener" aria-label="Join My List (opens in a new tab)" href="https://www.patreon.com/join/killermann?" target="_blank">Become Patron</a>
 
