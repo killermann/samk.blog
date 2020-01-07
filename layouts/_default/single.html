@@ -26,8 +26,8 @@
 			{{ else }}
 				{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
 					{{ with $img }}
-						{{ $big := $img.Resize "1400x q100" }}
-						{{ $small := $img.Resize "600x q100" }}
+						{{ $big := $img.Resize "1400x" }}
+						{{ $small := $img.Resize "600x" }}
 							<img srcset="{{ $small.RelPermalink }} 1x, {{ $big.RelPermalink }} 2x" alt="{{ $img.Title }}" />
 					{{ end }}
 			{{ end }}

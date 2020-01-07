@@ -75,10 +75,12 @@ If you stick around, seeing that happen dozens of times, living with the backgro
 
 We don't think of it as bad. We think of it necessary. And powerful. And meaningful. And every time this happens our relationships deepen a little more.
 
-## Dogma is (hu-)man's best friend.
+## Dogmas are [hu]man's best friend.
 
 There's more to the list, but dogma being easy, reassuring, connected to things we love, and a catalyst for strong relationships is plenty of carrot. Granted, the stick is always hovering close behind.
 
 It's no surprise that lot of affinity groups give way to dogma. And it wouldn't be helpful, or honest, for us to ignore this appeal. Indeed, if we're ever to be successful in moving beyond dogma in activism, we need to be able to create alternatives that are just as appealing.
+
+In case it's not obvious: I'm _not_ advocating for dogma here. In the end, despite their appeals, dogmatic belief systems provide more problems than solutions. I'll be making that case, and suggesting alternative ways we can organize (around) our beliefs, throughout this book.
 
 And maybe we can leave out the stick.
