@@ -26,8 +26,8 @@
 			{{ else }}
 				{{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
 					{{ with $img }}
-						{{ $big := $img.Resize "1400x q100" }}
-						{{ $small := $img.Resize "600x q100" }}
+						{{ $big := $img.Resize "1400x 	" }}
+						{{ $small := $img.Resize "600x 	" }}
 							<img srcset="{{ $small.RelPermalink }} 1x, {{ $big.RelPermalink }} 2x" alt="{{ $img.Title }}" />
 					{{ end }}
 			{{ end }}
@@ -126,30 +126,6 @@
 </section>
 {{ end }}
 {{- if .Params.discussionId }}
-<section id="reply" class="pad">
-<style type="text/css">
-#reply h2 {
-	text-align: center;
-	margin-bottom: .5em;
-	font-size: 1.8em;
-	font-weight: 900;
-}
-.comments-intro {
-	text-align: center;
-}
-#ed-editor-wrapper {
-	z-index: 9999;
-}
-</style>
-<div class="text-wrap comments-intro">
-	<h2>What do you think? 🤔</h2>
-	<p>I opened up replies on this post because I'd love to hear your thoughts. I'm @Killermann here (as well as <a href="https://twitter.com/killermann" target="_blank" rel="noopener noreferrer">on Twitter</a>)</p>
-</div>
-	<script>talkyardServerUrl='{{ .Site.Params.talkyardServerUrl }}';</script>
-<script async defer src="{{ .Site.Params.talkyardScriptUrl }}"></script>
-<div class="talkyard-comments text-wrap" data-discussion-id="{{ .Params.discussionId }}" style="margin-top: 45px;	border-radius: 14px; padding: 10px; background: white;">
-<noscript>Please enable Javascript to view comments.</noscript>
-</div>
-</section>
+	{{ partial "comments" . }}
 {{ end -}}
 {{ end }}

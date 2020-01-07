@@ -20,24 +20,24 @@ input[type="submit"] {
 	@extend .chameleon-bg;
 	text-align:center;
 	border:none;
-	color:#000 !important;
+	color:#000;
 
 	strong {
 		font-size:1.2em;
 		line-height:1;
-		color:rgba(0,0,0,.95) !important;
+		color:rgba(0,0,0,.95);
 	}
 
-	span {
-		font-size:.7em;
-		letter-spacing:0;
-		display:block;
-		line-height:1;
-		margin-top:5px;
-		font-weight:400;
-		font-family:$serif;
-		color:#000;
-	}
+	// span {
+	// 	font-size:.7em;
+	// 	letter-spacing:0;
+	// 	display:block;
+	// 	line-height:1;
+	// 	margin-top:5px;
+	// 	font-weight:400;
+	// 	font-family:$serif;
+	// 	color:#000;
+	// }
 
 	&:hover {
 		transform:translatey(-1px);

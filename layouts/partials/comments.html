@@ -1,0 +1,77 @@
+<!-- Just Comments implementation -->
+{{- $url := urls.Parse .Site.BaseURL -}}
+{{- $host := index (split $url.Host ":") 0 -}}
+{{- $path := default .RelPermalink .Params.discussionId }}
+<section id="reply" class="pad">
+  <style type="text/css">
+  #reply h2 {
+    text-align: center;
+    margin-bottom: .5em;
+    font-size: 1.8em;
+    font-weight: 900;
+  }
+  .comments-intro {
+    text-align: center;
+  }
+  #ed-editor-wrapper {
+    z-index: 9999;
+  }
+
+  .just-comments > div {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .just-comments.sK-theme {
+    --primary-color: var(--text-color);
+    --primary-text-color: var(--text-color);
+    --secondary-text-color: var(--text-color);
+    --primary-bg-color: var(--bg-faint);
+  }
+
+  </style>
+  <div class="text-wrap comments-intro">
+    <h2>What do you think? 🤔</h2>
+    <p>I opened up replies on this post because I'd love to hear your thoughts. I'm <a href="https://twitter.com/killermann" target="_blank" rel="noopener noreferrer">@Killermann on Twitter</a> if you'd rather talk there.</p>
+  </div>
+  <div class="just-comments sK-theme wrap"
+      data-pageid="{{ printf $path }}"
+      data-allowguests="true"
+      data-disableseo="true"
+      data-recaptcha="true"
+      data-enableemailnotifications="true"
+      data-hidecommentheader="true"
+      data-hideattribution="true"
+      data-hidenocommentstext="true"
+      data-apikey="4b913576-1c89-4160-b218-e664fb65f187">
+  </div>
+  <script async src="https://just-comments.com/w2.js"></script>
+</section>
+<!-- / Just Comments -->
+<!-- Talkyard Implementation -->
+<!-- <section id="reply" class="pad">
+  <style type="text/css">
+  #reply h2 {
+    text-align: center;
+    margin-bottom: .5em;
+    font-size: 1.8em;
+    font-weight: 900;
+  }
+  .comments-intro {
+    text-align: center;
+  }
+  #ed-editor-wrapper {
+    z-index: 9999;
+  }
+  </style>
+  <div class="text-wrap comments-intro">
+    <h2>What do you think? 🤔</h2>
+    <p>I opened up replies on this post because I'd love to hear your thoughts. I'm @Killermann here (as well as <a href="https://twitter.com/killermann" target="_blank" rel="noopener noreferrer">on Twitter</a>)</p>
+  </div>
+    <script>talkyardServerUrl='{{ .Site.Params.talkyardServerUrl }}';</script>
+  <script async defer src="{{ .Site.Params.talkyardScriptUrl }}"></script>
+  <div class="talkyard-comments text-wrap" data-discussion-id="{{ .Params.discussionId }}" style="margin-top: 45px;	border-radius: 14px; padding: 10px; background: white;">
+  <noscript>Please enable Javascript to view comments.</noscript>
+  </div>
+  </section> -->
+<!-- / Talkyard -->
