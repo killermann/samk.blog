@@ -1,5 +1,6 @@
 ---
 title: Suffering Points
+excerpt: The ways we compare suffering for social justice make me feel like I dropped my ice cream on the sidewalk.
 author: Sam Killermann
 type: post
 date: 2020-01-06T18:02:02-06:00
