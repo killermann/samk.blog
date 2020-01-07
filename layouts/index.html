@@ -14,6 +14,19 @@
 	<p class="home-intro wrap"><span class="chameleon-color">Right now,</span> I'm in the process of publicly writing <a href="/topics/sjmd-book" title="Social Justice, Minus Dogma Book Entries">a book about dogmatic activism</a>, with a new post every day (scroll down a little to see today's entry). You can get <a href="https://bit.ly/sjmdbook" target="_blank" rel="noopener noreferrer">email updates</a> on just that, if you'd like.</p>
 	<p class="home-intro wrap" style="margin-bottom: 0;">I'm happy you're here. <a id="hide-welcome-message" href="" style="border: none; font-weight: 300; display: inline-block; font-size: .6em; padding: .2em;">Hide this message 🙈</a></p>
 </header>
+<script>
+function hideWelcomeMessage() {
+    localStorage.setItem('hideWelcome','true');
+}
+var hideWelcomeButton = document.getElementById('hide-welcome-message');
+
+if (hideWelcomeButton) {
+	hideWelcomeButton.addEventListener('click', hideWelcomeMessage);  
+}
+if (localStorage.getItem("hideWelcome")!=="true") {
+    document.getElementById('home-welcome').classList.remove('hidden');
+}
+</script>
 <section class="section-main">
 	<div class="loop">
 		{{ range first 10 (where site.Pages "Type" "post" ) }}

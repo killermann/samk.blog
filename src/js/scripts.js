@@ -80,14 +80,3 @@ if(localStorage.getItem("colorScheme")==="night") {
     document.getElementById("day-mode").classList.add('is-active');
     document.getElementById("night-mode").classList.remove('is-active');
 }
-
-function hideWelcomeMessage() {
-    localStorage.setItem('hideWelcome','true');
-}
-
-document.getElementById('hide-welcome-message').addEventListener('click', hideWelcomeMessage);  
-
-if(localStorage.getItem("hideWelcome")==="true") {
-} else {
-    document.getElementById('home-welcome').classList.remove('hidden');
-}
