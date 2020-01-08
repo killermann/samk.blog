@@ -4,7 +4,7 @@ author: Sam Killermann
 type: post
 date: 2019-05-13T18:05:36+00:00
 excerpt: "What's on the menu today?"
-url: /rage-du-jour/
+url: /rage-du-jour
 featured_image: /wp-content/uploads/2019/05/rage-du-jour.jpg
 categories:
   - Technolophizing

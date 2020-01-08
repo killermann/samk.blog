@@ -34,7 +34,7 @@
 			{{ end -}}
       </a></p>{{ end }}{{ `]]>` | safeHTML }}
       </description>
-      <content:encoded>{{ `<![CDATA[` | safeHTML }}{{ .Content | safeHTML }}{{ `]]>` | safeHTML }}</content:encoded>
+      <content:encoded>{{ `<![CDATA[` | safeHTML }}{{ .Content | html }}{{ `]]>` | safeHTML }}</content:encoded>
     </item>
     {{ end }}
   </channel>

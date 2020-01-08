@@ -19,7 +19,7 @@ One of my friends came up with the idea of a "Hot Take Dinner" a few years ago. 
 
 The basic idea is that you get a few people together to discuss a hot button topic that is currently popping up in lots of social justice conversations.
 
-It could be a [rage du jour](/rage-du-jour/) issue, or something that has been around awhile. What's important is that it's a subject that everyone feels like they're supposed to have a hard stance about -- their "take."
+It could be a [rage du jour](/rage-du-jour) issue, or something that has been around awhile. What's important is that it's a subject that everyone feels like they're supposed to have a hard stance about -- their "take."
 
 These conversations are not going to be easy, and that's part of the point. They're settings for people to try explaining difficult positions, to cultivate [radical empathy](https://www.ted.com/talks/sam_richards_a_radical_experiment_in_empathy?language=en) others' positions, and to get to the bottom of something that is being virally discussed in an otherwise superficial, one-dimensional, one.
 
