@@ -88,6 +88,7 @@ Colleagues of mine, who do similar work to me and travel around having similar c
 - A hiring manager didn't feel like they could interview a trans person and then not hire them
 
 And I started noticing other examples of things I'd hear that weren't about "literal transphobia," but I realized later might be connected:
+
 - A teacher told me the male faculty in her school no longer felt safe coaching girls teams
 - A (White) friend told me her (POC) girlfriend was abusive but she was afraid to leave her
 
@@ -113,7 +114,7 @@ Sometimes the person who becomes the target for the tomatoes is conservative, tr
 
 And other times the person is progressive, liberal, social-justice-minded, and supportive of liberation movements.
 
-That part usually doesn't matter, at least from our perspective as outsider's looking on (or one of the people throwing the tomatoes). We don't care what their beliefs are, or their intentions.
+That part usually doesn't matter, at least from our perspective as outsiders looking in (or one of the people throwing the tomatoes). We don't care what their beliefs are, or their intentions.
 
 The outcomes are the same. Someone gets fired for a (bad) tweet. Or put on blast for wearing a (bad) shirt. Publicly protested for saying the wrong thing. Boycotted for asking the wrong question. Canceled for sending an email with a bad idea. And so on.
 
