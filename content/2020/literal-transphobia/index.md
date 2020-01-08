@@ -206,7 +206,7 @@ But we have learned those rules, not pushed back against the dogma (For good rea
 
 So be it.
 
-## When a Reasonable Outcome is Fear, Re-assess
+## When a Reasonable Outcome is Fear, Reassess
 
 Fear is regularly weaponized by opponents of social justice. 
 
