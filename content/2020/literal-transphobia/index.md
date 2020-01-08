@@ -145,7 +145,7 @@ And not just that they "might," but, based on the examples it felt like they wer
 
 And when I've talked to people who are living with this particular fear, literal transphobia, it feels like anything but irrational. And I can't tell them otherwise.
 
-Now, before we move on, I want to take a step back to say something: **I'm not blaming the transgender person** (or any other person in these people's lives who holds a marginalized identity and that's led to them being afraid of being publicly dragged). In some of the examples I've heard, the trans person is being mean, or cruel, or an asshole, yes -- but hey, sometimes people are assholes. Being an asshole knows no boundary of gender (or sexuality, race, etc.).
+Now, before we move on, I want to take a step back to say important: **I'm not blaming the transgender person** (or any other person in these people's lives who holds a marginalized identity and that's led to someone else being afraid of being publicly dragged). In some of the examples I've heard, the trans person is being mean, or cruel, or an asshole, yes -- but hey, sometimes people are assholes. Being an asshole knows no boundary of gender (or sexuality, race, etc.).
 
 In every case, I don't think the transgender person is _at fault_ for the fear. So who is?
 
