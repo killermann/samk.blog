@@ -1,6 +1,6 @@
 ---
 title: Literal Transphobia
-excerpt: This isn't the kind of transphobia we talk about. And its source isn't Fox News.
+excerpt: This isn't the kind of transphobia we publicly talk about. And its source isn't Fox News.
 author: Sam Killermann
 type: post
 date: 2020-01-07T16:02:02-06:00
