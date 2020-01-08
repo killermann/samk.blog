@@ -57,7 +57,7 @@ And before long, it was most of what I was hearing about. Where before, people w
 
 Lots of someones started talking to me about literal transphobia.
 
-I'm not sure what else to call it. And in a way it feels like we've kind of gone full circle, because the thing I kept hearing about was people _actually_ and _literally_ being afraid of transgender people (or LGBPQ+ people, or sometimes women, people of color, and other marginalized groups). Not in general or the abstract (i.e., they weren't afraid of "trans people" as a whole), but specific people in their lives (_This_ transgender person. Bob. I'm afraid of Bob.).
+I'm not sure what else to call it. And in a way it feels like we've kind of gone full circle, because the thing I kept hearing about was people _actually_ and _literally_ being afraid because of transgender people (or LGBPQ+ people, or sometimes women, people of color, and other marginalized groups). Not in general or the abstract (i.e., they weren't afraid of "trans people" as a whole), but specific people in their lives (_This_ transgender person. Bob. I'm afraid of Bob.).
 
 And at first I thought it was silly. _Why would you be afraid of Bob? I bet Bob's great. I bet you're the problem._ 
 
