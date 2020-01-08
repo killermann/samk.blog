@@ -125,7 +125,7 @@ One of my friends calls it "the cannibals," but they don't follow any of the sto
 
 In any case, whether you read every issue of _Cancel Culture Weekly_, get mad about the [rage du jour](/rage-du-jour) yourself, you try to avoid hearing about this stuff altogether, or are somewhere betwixt the three: 
 
-**Everything I just highlighted is what people are afraid of.**
+**Everything I just highlighted is what people are afraid of.** They're not afraid of the trans people in their lives (even if that's how they make sense of it); they're afraid of what happens if things go wrong in their relationship.
 
 The people I've been talking to, anyway. The ones who are sharing their examples of literal transphobia.
 
