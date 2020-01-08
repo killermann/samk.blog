@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{ .Title }}</title>
     <link>{{ .Permalink }}</link>
@@ -20,22 +20,21 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <dc:creator>Sam Killermann</dc:creator>
-      <description>
-      {{ if .Params.excerpt }}<p>{{ .Params.excerpt }}</p>{{ else }}{{ .Content | html }}{{ end }}
-      {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
-			{{ if or ( .Params.featured_image) ($img) }}
+      <description>{{ `<![CDATA[` | safeHTML }}<p>{{ if .Params.excerpt }}{{ .Params.excerpt | safeHTML }}{{ else }}{{ .Summary | html }}{{ end }}</p>
+      {{- $img := (.Resources.ByType "image").GetMatch "*featured*" -}}
+			{{- if or ( .Params.featured_image) ($img) }}
       <p><a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ if .Params.featured_image }}
-          <img style="width: 100%; height: auto; display: block;" src="{{ .Params.featured_image }}" alt="" />
+        <img style="width: 100%; height: auto; display: block;" src="{{ .Params.featured_image }}" alt="" />
         {{ else }}
         {{ with $img }}
-          {{ $med := $img.Resize "900x q100" }}
-          <img style="width: 100%; max-width: 720px; height: auto; display: block;" src="{{ $med.Permalink }}" alt="{{ $img.Title }}" />
-        {{ end }}
-			{{ end }}
-      </a></p>
-      {{ end }}
+          {{ $large := $img.Resize "1400x" }}
+          <img style="width: 100%; max-width: 720px; height: auto; display: block;" src="{{ $large.Permalink }}" alt="{{ $img.Title }}" />
+          {{ end }}
+			{{ end -}}
+      </a></p>{{ end }}{{ `]]>` | safeHTML }}
       </description>
+      <content:encoded>{{ `<![CDATA[` | safeHTML }}{{ .Content | safeHTML }}{{ `]]>` | safeHTML }}</content:encoded>
     </item>
     {{ end }}
   </channel>
