@@ -88,6 +88,7 @@ Colleagues of mine, who do similar work to me and travel around having similar c
 - A hiring manager didn't feel like they could interview a trans person and then not hire them
 
 And I started noticing other examples of things I'd hear that weren't about "literal transphobia," but I realized later might be connected:
+
 - A teacher told me the male faculty in her school no longer felt safe coaching girls teams
 - A (White) friend told me her (POC) girlfriend was abusive but she was afraid to leave her
 
