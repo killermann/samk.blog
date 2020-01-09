@@ -29,11 +29,11 @@ Many have entered a conversation about publishing a book with me, few make it pa
 
 ### #1: The book has to be uncopyrighted.
 
-I mean exactly what it sounds like I mean: the manuscript, my contribution to the project, cannot have a copyright restricting it, or protected as intellectual property. Instead, I need to [uncopyright](https://uncopyright.org) it (I'm also okay with an unrestricted [Creative Commons](https://creativecommons.org/share-your-work/) license, like CC-0 or CC-by).
+I mean exactly what it sounds like I mean: the manuscript, my contribution to the project, cannot have a copyright restricting it, or be protected as intellectual property. Instead, I need to [uncopyright](https://uncopyright.org) it (I'm also okay with an unrestricted [Creative Commons](https://creativecommons.org/share-your-work/) license, like CC-0 or CC-by).
 
 This way it will be gifted to the commons, freely accessible for others to use in their curricula, teaching, organizing, writing, or whatever they'd otherwise license it for.
 
-_Wait -- where are you going? I have another request, one that is even more unfeasible -- or so I've repeatedly been told in a mix of tones. Why walk out on me when you could read this and run away instead?_
+_Wait -- where are you going? I have another request, one that is even more unfeasible -- or so I've repeatedly been told in a mix of tones. Why walk out on me when you could read this next part and run away instead?_
 
 ### #2: The book must be accessible without a paywall.
 
