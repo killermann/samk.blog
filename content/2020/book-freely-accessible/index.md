@@ -19,7 +19,7 @@ topics:
 
 A handful of times I've been approached by Acquisitions Editors offering me book deals. Every time I'm as surprised and flattered as I was the first time it happened. But every time it happens, I'm increasingly hit with another emotion as well: anxiety.
 
-I'm anxious because I feel like I can see the future: we're going to talk about the topic, probably hit it off because they'll be super interesting well-read person who _gets it_, so I'll be excited to write a book on the topic they pitched, then I'll explain my two big deal-breakers, and then the conversation becomes a bummer. 
+I'm anxious because I feel like I can see the future: we're going to talk about the topic; we'll probably hit it off because they'll be a super interesting well-read person who _gets it_; so I'll be excited to write a book on the topic they pitched; then I'll explain my two big deal-breakers; at which point the conversation becomes a bummer. 
 
 Let me share the two deal-breakers first, then I'll walk you through the bummer.
 
