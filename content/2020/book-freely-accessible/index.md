@@ -14,6 +14,7 @@ topics:
 - Capitalism
 - Gift Economy
 - Rant
+- meta af
 ---
 
 A handful of times I've been approached by Acquisitions Editors offering me book deals. Every time I'm as surprised and flattered as I was the first time it happened. But every time it happens, I'm increasingly hit with another emotion as well: anxiety.
