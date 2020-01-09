@@ -1,5 +1,5 @@
 ---
-title: This Book Will Be Freely Accessible, or It Will Not Be a Book
+title: This Book Will Be Freely Accessible, or It Won't Be a Book
 excerpt: A primer on my common publishing deal-breakers, and why I can't do it any other way – at least not within the ethics of social justice.
 author: Sam Killermann
 type: post
