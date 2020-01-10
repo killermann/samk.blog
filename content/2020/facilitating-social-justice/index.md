@@ -14,13 +14,13 @@ topics:
 - Facilitation
 ---
 
-In our book, [Unlocking the Magic of Facilitation](http://www.facilitationmagic.com), we use one of the chapters to try to disentangle a few ways educators commonly engage groups in learning: lecturing, teaching, and facilitation.
+In our book, [Unlocking the Magic of Facilitation](http://www.facilitationmagic.com), [Meg Bolger](https://megbolger.com) and I use one of the chapters to try to disentangle a few ways educators commonly engage groups in learning: lecturing, teaching, and facilitation.
 
 In our colloquial usage, as verbs, these three words are often used interchangeably. Sometimes we say "teaching" when we're really "lecturing." Or "facilitating" to mean "teaching." And we often end up "lecturing" amidst any "teaching" or "facilitating."
 
 As nouns, they are a _bit_ more rigid in their usage. We have clearer ideas of the archetypes of what a "lecturer," "teacher," and "facilitator" look like in our mind. The methods they use. Even their tone. But those archetypes are still not absolute. Teachers lecture. Lecturers facilitate. Facilitators teach.
 
-But in writing the book, [Meg Bolger](https://megbolger.com) and I saw merit in distinguishing between these words. In honing in on, and even augmenting, the distinct features that comes with each of those methods. 
+But in writing the book, Meg and I saw merit in distinguishing between these words. In honing in on, and even augmenting, the distinct features exemplified by each of those methods. 
 
 Learning can happen via all three (when they're done effectively, and no learning can happen when they're not). **What's unique about the _ways_ learning happens, when you compare and contrast them?**
 
@@ -34,7 +34,7 @@ And the fun part was that people didn't need much coaching when it came to figur
 
 But the latent function we discovered, really by accident, has felt even more important for me over the years, and it's what I'm going to write about here.
 
-Namely, we discovered how uniquely suited facilitation is for social justice, or any effort that we hope will advance the goals of social justice. And I can sum up what I mean in one simple graph.
+Namely, we discovered how uniquely well-suited facilitation is for social justice, or any effort that we hope will advance the goals of social justice. And I can sum up what I mean in one simple graph.
 
 ## Graphing Lecturing, Teaching, and Facilitating
 
@@ -77,11 +77,11 @@ For what it's worth, _I_ totally agree.
 
 As a social justice educator, I've always been most drawn to facilitation as my method for engaging groups. It's because of this that I'd often push for smaller groups when I was invited to do workshops at conferences (instead of asking for the big room, or seeing that as better, which is usually how workshop presenters value things). But I wouldn't let group size limit me.
 
-I'd even go so far as to facilitate groups of 5,000+ when I was invited to speak in large auditoriums. This required a lot of creativity, and depending on the gig, energy spent fielding pushback from a frustrated A/V crew, but it all seemed worth the effort to me.
+I'd even go so far as to facilitate groups of 5,000+ when I was invited to speak in large auditoriums. This required extra creativity, and depending on the gig, energy spent on back-and-forths with a frustrated A/V crew, but it all seemed worth the effort to me.
 
-Every moment of facilitation I could add to something that otherwise would have been a lecture _felt_ like the right approach. I just didn't have the above language to explain it. 
+Every bit of facilitation I could add to something that otherwise would have been a lecture _felt_ like the right approach. I didn't have the above language to explain it, but I still knew it. 
 
-I just knew that the best moments of social justice education I had participated in _always_ happened during facilitation. Those moments when you'd "see the lightbulb turn on" in someone's eyes, or break through a barrier and discover a new place you hadn't seen before, or a different way of viewing something you'd seen a million times.
+I knew that the best moments of social justice education I had participated in _always_ happened during facilitation. Those moments when you'd "see the lightbulb turn on" in someone's eyes, or break through a barrier and discover a new place you hadn't seen before, or a different way of viewing something you'd seen a million times.
 
 ## It's "Do As I Do"
 
