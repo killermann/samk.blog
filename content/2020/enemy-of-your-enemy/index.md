@@ -142,7 +142,7 @@ When that happens, someone in your former camp -- in a weird twist of allegiance
 
 Hopefully it wasn't too annoying, but I repeatedly used quotes when I referred to "enemies," above, and I was doing that for two reasons: 
 
-1. Our framing of people who disagree with us as enemies is a construction of language. It's not necessarily true, nor does it _have_ to be if it currently is. It's up to us to make that, or unmake it, and we vote for our side every time we speak it into being.
+1. Our framing of people who disagree with us as enemies is a construction of language. It's not necessarily true that they're our enemies, nor does it _have_ to be if it currently is. It's up to us to make that, or unmake it, and we vote for our side every time we speak, and use that framing.
 2. As you likely realized, the enemy-enemy relationships established by the "enemy of my enemy is my friend" heuristic are actually not typical enemy relationships at all. They're instead quite symbiotic, relying on the other to survive, where the roles of enemy and friend are fluid, interdependent, and even transferrable.
 
 I would love for us, within the social justice movement, to move beyond the framework of "enemies." I think it is likely more harmful than useful, creating more problems than solutions. If social justice really is equity for all, then there is no room for enemies -- unless we're here to serve our "enemies."
