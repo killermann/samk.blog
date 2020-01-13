@@ -236,7 +236,7 @@ This might work, and it might be the best path toward living social justice. May
 
 At the same time, because of it's abstraction, and the additional steps required to bring this to fruition, it's also fraught. It requires individual people to do good things, be good actors, act in pre-supposed ways because of their group memberships.
 
-It also requires us to do some tricky measuring of "progress," or success of the implementation of our theory. Is it a win for social justice if it's women CEOs who profit from the bombing of Brown people in the Middle East? If so, consider social justice closer to being achieved, because the [4 out of 5 of the biggest U.S. defense contractors already have women as CEOs](https://abcnews.go.com/Politics/top-us-defense-firms-led-women/story?id=56564622).  
+It also requires us to do some tricky measuring of "progress," or success of the implementation of our theory. Is it a win for social justice if it's women CEOs who profit from the bombing of Brown people in the Middle East? If so, consider social justice closer to being achieved, because [4 out of 5 of the biggest U.S. defense contractors already have women as CEOs](https://abcnews.go.com/Politics/top-us-defense-firms-led-women/story?id=56564622).  
 
 We might continue pursuing this theory and achieve success. 
 
