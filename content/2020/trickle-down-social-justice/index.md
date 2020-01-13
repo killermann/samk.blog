@@ -190,7 +190,7 @@ But the result has been the opposite of what the theory says will happen: in the
 
 <p class="dropcap">Even if we're right in theory, and had a ton of evidence to back up our theory, that doesn't mean the implementation will deliver the results we're hoping for. And when it comes to implementing Trickle-down Social Justice, to putting that theory into practice, there are a few outstanding boxes we need to be able to check.</p>
 
-Don't worry -- I'm not going to ask the _gotcha_ questions I've been asked countless times, and turn you into a Mechanical Turk of annoying question problem-solving. "How many Black presidents do we need for racial justice?" "Do we need every CEO to be female for retributive gender justice?" And etc. 
+Don't worry -- I'm not going to ask the _gotcha_ questions I've been asked countless times, and turn you into a _Mechanical Turk_ of annoying question problem-solving. "How many Black presidents do we need for racial justice?" "Do we need every CEO to be female for retributive gender justice?" And etc. 
 
 I don't even think we really need answers to those questions. I stand by my sentiment of "let's kick that can down the road," but now with a new fervor. 
 
