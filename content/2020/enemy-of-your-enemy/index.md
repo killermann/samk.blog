@@ -145,11 +145,13 @@ Hopefully it wasn't too annoying, but I repeatedly used quotes when I referred t
 1. Our framing of people who disagree with us as enemies is a construction of language. It's not necessarily true that they're our enemies, nor does it _have_ to be if it currently is. It's up to us to make that, or unmake it, and we vote for our side every time we speak, and use that framing.
 2. As you likely realized, the enemy-enemy relationships established by the "enemy of my enemy is my friend" heuristic are actually not typical enemy relationships at all. They're instead quite symbiotic, relying on the other to survive, where the roles of enemy and friend are fluid, interdependent, and even transferrable.
 
-I would love for us, within the social justice movement, to move beyond the framework of "enemies." I think it is likely more harmful than useful, creating more problems than solutions. If social justice really is equity for all, then there is no room for enemies -- unless we're here to serve our "enemies."
+I would love for us, within the social justice movement, to move beyond the framework of "enemies." Enemies are a quick way to create friendships and alliances (as we covered in the [Appeal of Dogma](4-dogma-creates-intense-bonds)), but not without costs.
+
+Organizing our efforts within a framework of "Enemies" is likely more harmful than useful, creating as many problems as solutions. If social justice really is equity for all, then there is no room for enemies -- unless we're here to serve our "enemies."
 
 But I don't think we even need to move beyond that framework broadly, to see the unique pitfalls to this "enemy of my enemy" heuristic. It's a non-starter, it's commandeering our course, and if we let it motivate us it's likely to backfire.
 
-You might be thinking that I'm arguing here, now, for removing the simplified heuristic altogether. That I'm saying you should fully investigate every position (to it's absolute source, crunching all the research and data long the way) or person (all of their past actions, beliefs, attitudes, etc.) before aligning yourself with them or not. 
+You might be thinking that I'm arguing here, now, for removing the use of a simplified heuristic altogether. That I'm saying you should fully investigate every position (to it's absolute source, crunching all the research and data long the way) or person (all of their past actions, beliefs, attitudes, etc.) before aligning yourself with them or not. 
 
 That's not what I'm saying. That idea might be appealing, or feel like a solution, but it's not. Even if we had the inclination and energy and interest to do so, that wouldn't work.
 
@@ -159,7 +161,9 @@ The lesson here: If you want a toaster, you're better off taking a shortcut than
 
 Rely on a the massive, interconnected global network of suppliers, manufacturers, and distributors that you know nothing about, and make your decision based on a couple of data points that you care about (e.g., like price and size).
 
-I'm not saying we should all build our own toasters. I'm saying the heuristic of "enemy of my enemy" is broken, easily hijacked, and more likely to create a codependent spiral toward doom than it is to give us social justice.
+I'm not saying we should all build our own toasters. 
+
+I'm saying the heuristic of "enemy of my enemy" is broken, easily hijacked, and more likely to create a codependent spiral toward doom than it is to give us social justice.
 
 We can't crunch all the data. We absolutely need simpler heuristics. We just need ones that work. Not because they generate a lot of energy (because we're clearly doing that, melting ourselves in the process), but because we notice that we're accomplishing our goals as a result of them. We're making toast. 
 
