@@ -61,17 +61,27 @@ We don't often connect "dogma" to things people don't care about, dislike, or ar
 
 If you think the only way to access a thing you care about is through dogma, then dogma it is.
 
-## 4. Dogma creates strong bonds.
+## 4. Dogma creates intense bonds.
+
+In her book "Braving the Wilderness," Brené Brown writes about the idea of "common enemy intimacy":
+
+> "I don't really know you, nor am I invested in our relationship, but I do like that we hate the same people and have contempt for the same ideas."
+
+Dogmatic belief systems are a guaranteed ticket to common enemy intimacy. Brené goes on to explain that "If the bond we share with others is simply that we hate the same people, the intimacy we experience is often intense, immediately gratifying, and an easy way to discharge outrage and pain."
+
+The social justice dogma has no shortage of that: intense, immediately-gratifying bonds formed by the shared hatred of the other. 
+
+And there's another way that dogma can create bonds, not just amongst its adherents, but between them and the belief system itself.
 
 If you've never heard the phrase ["trauma bonding,"](https://en.wikipedia.org/wiki/Traumatic_bonding) this is going to likely seem more intense than I mean it to. 
 
-In the same way that someone can form an intense relationship with someone who is abusive to them -- not in spite of the abuse, but _because_ of it -- the enforcement of dogma can be a catalyst to strong relationship.
+In the same way that someone can form an intense relationship with someone who is abusive to them -- not in spite of the abuse, but _because_ of it -- the enforcement of dogma can be a catalyst to strong relationships.
 
 In social justice spaces, people see what happens when others don't toe the line of dogma. And many people aren't just bystanders, but actively playing a role in enforcing the dogma. They join in on the correcting, the punishing. 
 
-When people aren't currently being dragged, there's a sense of fear that one might be. You're just one misstep, one problematic phrase, away from being next.
+When people aren't currently being dragged, there's a sense of fear that one might be. You're just one misstep, one problematic phrase, away from being next. _From becoming the common enemy of the members of your own group._
 
-If you stick around, seeing that happen dozens of times, living with the background noise of fear, you make sense of this by saying, "This must be important. These people are important to me. Otherwise why would I be here?" 
+If you stick around, seeing that happen dozens of times, living with the background noise of fear, you make sense of your continued involvement by saying, "This must be important. These people are important to me. Otherwise why would I be here?" 
 
 We don't think of it as bad. We think of it necessary. And powerful. And meaningful. And every time this happens our relationships deepen a little more.
 
@@ -81,6 +91,10 @@ There's more to the list, but dogma being easy, reassuring, connected to things 
 
 It's no surprise that lot of affinity groups give way to dogma. And it wouldn't be helpful, or honest, for us to ignore this appeal. Indeed, if we're ever to be successful in moving beyond dogma in activism, we need to be able to create alternatives that are just as appealing.
 
-In case it's not obvious: I'm _not_ advocating for dogma here. In the end, despite their appeals, dogmatic belief systems provide more problems than solutions. I'll be making that case, and suggesting alternative ways we can organize (around) our beliefs, throughout this book.
+In case it's not obvious: I'm _not_ advocating for dogma here. In her writing on common enemy intimacy, Brené continues the above passage as follows (emphasis mine):
+
+> "It is not, however, fuel for _real_ connection. It's fuel that runs hot, burns fast, and leaves a trail of polluted emotion."
+
+In the end, despite their appeals, dogmatic belief systems provide more problems than solutions. I'll be making that case, and suggesting alternative ways we can organize (around) our beliefs, throughout this book.
 
 And maybe we can leave out the stick.
