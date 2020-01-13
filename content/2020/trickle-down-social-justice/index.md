@@ -16,7 +16,7 @@ topics:
 
 I can't think of a popularly-understood economic theory that's been more thoroughly debunked than "Trickle-down." The idea that's now infamously connected to Reagan is as likely to generate a laugh as it is a serious economic debate.
 
-It's not that it's theoretically flawed. We have the numbers now to know it doesn't work. We've seen the effects of repeated tax cuts on the wealthy in the past several decades, and have basked in the arid drought of anything trickling down.
+It's not that it's theoretically flawed. We just have the numbers now to know it doesn't work. We've seen the effects of repeated tax cuts on the wealthy in the past several decades, and have basked in the arid drought of anything trickling down.
 
 Here's a chart from the Congressional Budget Office to _show_ my _tell_:
 
@@ -236,18 +236,26 @@ This might work, and it might be the best path toward living social justice. May
 
 At the same time, because of it's abstraction, and the additional steps required to bring this to fruition, it's also fraught. It requires individual people to do good things, be good actors, act in pre-supposed ways because of their group memberships.
 
-It also requires us to do some tricky measuring of "progress," or success of the implementation of our theory. Is it a win for social justice if it's women CEOs who profit from the bombing of Brown people in the Middle East? If so, consider social justice closer to being achieved, because [4 out of 5 of the biggest U.S. defense contractors already have women as CEOs](https://abcnews.go.com/Politics/top-us-defense-firms-led-women/story?id=56564622).  
+It also requires us to do some tricky measuring of "progress," or success of the implementation of our theory. Does having marginalized people in charge of the system still count as progress if the system itself continues along its destructive, unjust path?
 
-We might continue pursuing this theory and achieve success. 
+For example, is it a win for social justice if it's women CEOs who profit from the bombing of Brown people in the Middle East? If so, consider social justice closer to being achieved, because [4 out of 5 of the biggest U.S. defense contractors already have women as CEOs](https://abcnews.go.com/Politics/top-us-defense-firms-led-women/story?id=56564622).  
 
-And we might continue these efforts and find ourselves, like with Trickle-down Economics, 40 years later with an even wider gap in equity, but a few elite "marginalized" people at the helm of most of the world's major governments and corporations.
+It's possible that we might continue pursuing this theory and achieve success. That we just need _more_, more marginalized people in more roles of power.
 
-Instead, or even simultaneously, we could focus on something else. 
+And it's also possible that we might continue these efforts and find ourselves, like with Trickle-down Economics, 40 years later with an even wider gap in equity, but a few elite "marginalized" people at the helm of most of the world's major governments and corporations.
+
+In that dystopian future, we might even still have advocates of Trickle-down Social Justice telling us it will work. "Just grant a _few more_ elite roles to marginalized people, the power will trickle down -- trust us!" The same way that today, despite all the financial data we have, and the reality of an ever-widening wealth gap, Trickle-down Economics still has proponents.
+
+Instead of -- or even better: simultaneously! -- we could focus on something else. 
 
 We could identify each individual benefit we hope will trickle down, the ways we hope that having a marginalized person in a position of power will benefit other marginalized people, and work as a community to guarantee those benefits to everyone regardless of who is in power.
 
-What is it that we hope will change, when the right people are in power? We can skip the middle step, and start advocating for that now. 
+What is it that we hope will change, when the right people are in power? We can skip the middle step, and start advocating for that now.
 
-We can organize to systemically grant power to the marginalized, and the many, regardless of who is in charge. Guaranteeing what we view now as the benefits of power to everyone, especially the formerly powerless. 
+If the system is creating barriers to justice, preventing people from being healthy, understood, educated, or safe, then changing (or replacing) the system itself is the goal. The strategy of replacing who is in charge might work, but reforming (or abolishing) the system directly skips an iffy step.
+
+For example, private prisons disproportionately incarcerate and profit from the imprisonment of Black men. Do we organize to make the CEO of a private prison corporation a Black man and changes course? Or do we work to make it illegal to profit from the imprisonment of humans and outlaw private prisons?
+
+We can organize to systemically dismantle barriers to justice and grant power to the marginalized, and the many, regardless of who is in charge. Guaranteeing what we view now as the benefits of power to everyone, especially the formerly powerless. 
 
 To do this, we'll have to structurally diminish the power of the elite and spread it among the people. But hey -- maybe some will trickle up.
