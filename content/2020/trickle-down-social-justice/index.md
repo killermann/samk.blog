@@ -154,7 +154,7 @@ But there's a problem we haven't yet addressed, one that has come up reliably in
 
 ***
 
-<p class="dropcap">When you're testing a theory, you're limited by the boundaries <em>of</em> that theory. This isn't a problem, usually; quite the opposite, it's a positive constraint. Without some boundaries, every question you ask would bleed into every other question you could possible ask.
+<p class="dropcap">When you're testing a theory, you're limited by the boundaries <em>of</em> that theory. This isn't a problem, usually; quite the opposite, it's a positive constraint. Without some boundaries, every question you ask would bleed into every other question you could possible ask.</p>
 
 To take a hilariously extreme version of this, when we ask, "Does a marginalized person holding power in an organization benefit other people of their marginalized group?" we don't have to concern ourselves with the organs of that person's body, the cells that make up those organs, the atoms that make up the cells, or the quarks within those atoms. 
 
