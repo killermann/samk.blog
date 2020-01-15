@@ -198,9 +198,13 @@ When we see it in someone's eyes, or hear it verbalized, knowing what someone wa
 
 Or we don't. We shut ourselves off to it. We're cynical about what they were meaning, or what they were trying to say, or how they wanted us to feel, and we turn a cold shoulder. But every time we do I suspect that, on some level, we feel the chill as well. In disconnecting ourselves from them, and what they're feeling, we disconnect from that feeling in ourselves.
 
-In Social Justice Land, our cynicism about intentions has had some unintended consequences. In the beginning of this essay, I shared the two big rationales for why we are so hard on intentions (one, that it focuses our attention on the intentions instead of the impact; and two, that it centers the conversation on the wrong person's feelings).
+To put all that another way, saying "I don't care what you meant," requires you either [1] **to not actually care** (which is hard, I think, requires practice, might not feel that great, and can easily lead to cutting off other ways you care about that person); or [2] **to care, but to say you don't** (which definitely doesn't feel great, and creates cognitive dissonance).
 
-Those goals, while admirable for a lot of reasons, have been translated into a few dogmatic tendenciess that I don't think serve our overall goals. They are the exceptions of ways we uphold the importance of intentions within activism, even if this isn't exactly a helpful upholding.
+In Social Justice Land, our cynicism about intentions might be leading to some unintended consequences. 
+
+In the beginning of this essay, I shared the two big rationales for why we are so hard on intentions (one, that it focuses our attention on the intentions instead of the impact; and two, that it centers the conversation on the wrong person's feelings).
+
+Those goals, while admirable for a lot of reasons, have been translated into a few dogmatic tendencies that I don't think serve our overall goals. They are the exceptions of ways we uphold the importance of intentions within activism, even if this isn't exactly a helpful upholding.
 
 For one, we've gone beyond simply telling people their good intentions _don't matter_, to telling them they have malicious intentions that are different from the ones they say they have. I've referred to this as ["mind-reading oppressors," a tenet of SJD](https://www.itspronouncedmetrosexual.com/2018/06/unhelpful-tenets-social-justice-dogma/#we-know-your-intention-you-don-8217-t-mind-reading-oppressors). The short version is that we'll imbue someone with biased or oppressive intentions as explanations for their behavior that they say isn't motivated by that.
 
