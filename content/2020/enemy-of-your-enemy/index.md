@@ -46,13 +46,22 @@ I believe all those things are true about it, but I don’t believe it because a
 
 This phenomenon carries further than the sentiment being expressed. It's not limited to people saying, “If they hate you you’re doing something right.” People have effectively leveraged this into crowdfunding campaigns, fundraising in general, fame and platform-building, and have created entire careers, seemingly, just by being hated by the right people.
 
-Further, it's important to note that this heuristic is deployed across parties and movements and ideologies. It’s just a thing social justice people (or the dogma within it), or progressives, or liberals do. Indeed, it’s something many conservatives, particularly the more modern, young, or tech-savvy ones, have perfected. There’s a booming industry of “owning the libs” — in products and entertainment and “news” — and business is good. And this isn’t even a secret.
+And I see "enemy of your enemy" everywhere I go in Social Justice Land.
+
+On social media, people wear attacks from the other side as badges of pride. As proof that they deserve a seat at the table. That you should listen to them, and that they're "one of us." 
+
+I just opened Facebook, and the first post I saw, from a social-justice-supporting friend of mine, was a meme from the page "Hate Liberals? Bite me." After that, I opened Twitter and clicked through to the bios of three of the most recent tweets that people retweeted into [my Twitter feed](https://twitter.com/killermann). One person's included the phrase "most hated writer at...", one included a slur in quotes they (I assume) get called by their homophobic detractors, and one simply said, "Hated by Fox News and the right wing."
+
+Further, it's important to note that this heuristic is deployed across parties and movements and ideologies. It’s not just a thing [social justice people](https://www.itspronouncedmetrosexual.com/2018/03/taxonomy-social-justice-people/) (or [the dogma within the movement](https://www.itspronouncedmetrosexual.com/tags/social-justice-dogma/)), or progressives, or liberals do. 
+
+It’s actually something many conservatives, particularly the more modern, young, or tech-savvy ones, have perfected. There’s a booming industry of “owning the libs” — in apparel and products and entertainment and “news” — and business is good. And this isn’t even a secret.
 
 Of his ability to effectively exploit his followers' hatred of “social justice warriors,” Jordan Peterson said:  
-  
 > “I’ve figured out how to monetize social justice warriors. I’m driving the social justice activists in Canada mad because, if they let me speak, then I get to speak. And then more people support me on Patreon. It’s like, “god damn capitalist, he’s making more money off of this ideological warfare. Let’s go protest him.” So they protest me. And that goes up on YouTube. And my Patreon account goes _way_ up.”
 
-Publicly. He said this _publicly_. In an interview his followers (i.e., Patreon funders) were meant to be watching, not caught on a hot mic. You’d think this would irk his fanbase, to know he’s knowingly reduced them to an algorithm of “enemy of enemy is friend I give money to,” but instead this was cause for celebration.
+Publicly. He said this _publicly_. In an interview his followers (i.e., Patreon funders) were meant to be watching, not caught on a hot mic. 
+
+You’d think this would irk his fanbase, to know he’s knowingly reduced them to an algorithm of “enemy of enemy is friend I give money to,” but instead this was cause for celebration.
 
 ### The First Problem: Non-starter
 
@@ -100,7 +109,9 @@ Meanwhile, I’ve seen tons of people follow the formula above and create overni
 
 And you don't even have to do it on purpose.
 
-A lot of the most trendy "enemy of my enemy" stuff isn't planned — and likely couldn’t have been. Someone makes a thing. Shares it into the world. Then it just happens. Like a tsunami without warning. After that, it’s up to the creator to ride the wave. Surf or sit out. That’s the only say they have in the matter. And a lot of people choose to ride that wave for years — fueled and funded by the the friendship of enemy’s enemies for month after month — even if they never end up being able to create another one. Maybe because they _know_ they won’t be able to create another one.
+A lot of the most trendy "enemy of my enemy" stuff isn't planned — and likely couldn’t have been. Someone makes a thing. Shares it into the world. Then it just happens. Like a tsunami without warning. After that, it’s up to the creator to ride the wave. Surf or sit out. That’s the only say they have in the matter. 
+
+And a lot of people choose to ride that wave for years — fueled and funded by the the friendship of enemy’s enemies for month after month — even if they never end up being able to create another wave. Maybe because they _know_ they won’t be able to create another one.
 
 But it would be understandable if someone thought that was their best bet. 
 
@@ -112,7 +123,7 @@ The things you like, support, or want to create are susceptible to being dictate
 
 And as soon as that happens, you’re no longer as worried about where you’re going, as you are about going _somewhere_.
   
-Even if that somewhere you're going happens to be a path charted by your “enemies.” And in that moment you realize they weren’t you enemies at all, because if you’re basing your actions off of them, and your flight path is dictated by their reactions to your work, they’re not enemies at all. They’re your allies, and the people you were your “allies” are just the fuel.
+Even if that somewhere you're going happens to be a path charted by your “enemies.” And in that moment you realize they weren’t you enemies at all, because if you’re basing your actions off of them, your fuel is their negative energy (the more they hate you, the further you go), and your flight path is dictated by their reactions to your work, "enemy" is the wrong word to describe them. _They're_ your true allies -- your copilots -- and the people you were calling your “allies” are just customers buying tickets to ride the plane.
 
 ### The Third Problem: Backfire
 
@@ -163,7 +174,7 @@ Rely on a the massive, interconnected global network of suppliers, manufacturers
 
 I'm not saying we should all build our own toasters. 
 
-I'm saying the heuristic of "enemy of my enemy" is broken, easily hijacked, and more likely to create a codependent spiral toward doom than it is to give us social justice.
+**I'm saying the heuristic of "enemy of my enemy" is broken, easily hijacked, and more likely to create a codependent spiral toward doom than it is to give us social justice.**
 
 We can't crunch all the data. We absolutely need simpler heuristics. We just need ones that work. Not because they generate a lot of energy (because we're clearly doing that, melting ourselves in the process), but because we notice that we're accomplishing our goals as a result of them. We're making toast. 
 
