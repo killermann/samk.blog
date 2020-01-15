@@ -84,7 +84,9 @@ We weren't telling people something new, or pushing back against a harmful socie
 
 We were just telling people something society had already told them, blowing into a sail that was already full of a hurricane gust of wind.
 
-People are naturally suspicious of good intentions. We don't need any help on that front. If someone says they mean well, it's more likely to raise the hairs on the back of our neck than to give us a warm reassurance in our chest.
+People are _naturally_ suspicious of good intentions. It's something ingrained in us from society. We don't need any encouragement on that front. 
+
+If someone says they mean well, it's more likely to raise the hairs on the back of our neck than to give us a warm reassurance in our chest.
 
 "Hell isn't merely paved with good intentions; it's walled and roofed with them. Yes, and furnished too." (Aldous Huxley)
 
@@ -116,7 +118,9 @@ Or, to ditch the metaphor, it's another layer of cognitive complexity. It takes 
 
 Ditching intentions altogether, and having a really clear black and white restriction against them, irons out that wrinkle. It gives us permission to silence someone (often someone speaking from a majoritized voice), and allows us to easily pick sides -- the side of the aggrieved, and, in the cases of social justice, the marginalized.
 
-And not standing clearly and unequivocally on the side of the marginalized person in social justice -- and within social justice dogma more specifically -- is dangerous footing.
+It takes one more complicated thing, in an already complicated series of things, and makes it easy.
+
+Because not standing clearly and unequivocally on the side of the marginalized person in social justice -- and within social justice dogma more specifically -- is dangerous footing.
 
 ## When Intentions Obviously Matter
 
