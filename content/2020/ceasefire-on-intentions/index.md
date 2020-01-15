@@ -54,9 +54,9 @@ But a lot of the other reasons are, deep down, rooted in the above two. And thos
 
 ## The Outcome
 
-Whether this was our intention or not (see what I'm doing here?), the outcome of us categorically dismissing the important of intentions has been a surprise to me. 
+Whether they were our intention or not (see what I'm doing here?), many of the outcomes of us categorically dismissing the importance of intentions have come as a surprise to me. 
 
-For one, it really, really caught on. 
+For one, this idea really, _really_ caught on. 
 
 10 years ago, in a training, it was more likely than not that I was the only person who would have been deploying the "your intentions don't matter, your impact does." (Or other similar ones that all meant the same thing.) 
 
