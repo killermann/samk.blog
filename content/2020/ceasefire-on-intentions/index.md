@@ -151,6 +151,20 @@ If someone was intentionally being racist (i.e., they were saying something or d
 
 The only way we can respond differently, and know what next steps are appropriate, is if we know the person's intentions.
 
+### When it Makes Sense to "Punish"
+
+I'm using "punish" here in a really broad way. I'm not advocating any type of a punishment, or even the mertis of punishment in general. For all instances of harm in social justice spaces, I think our best path forward is [restorative justice](http://restorativejustice.org/restorative-justice/about-restorative-justice/tutorial-intro-to-restorative-justice/lesson-1-what-is-restorative-justice/#sthash.H16Q3qY0.dpbs).
+
+But, colloquially, we could call that a form of punishment. And what I'm saying here our feeling the need to enact any form of "justice" in response to a harm caused, should consider the intentions of the person who caused the harm.
+
+In the above hammer example, responding with some form of punishment makes sense. Not only did the harm happen, but it was intended. So depending on your parenting toolkit, "time outs" or "groundings" or whatever would make sense to be applied.
+
+But if it truly _was_ an accident, #1 above, grounding the kid because his hammer slipped doesn't make sense, right? Cutting off his Wi-Fi certainly wouldn't make sense, because WiFi hadn't been invented yet. Something altogether different is in order in that case (maybe a conversation about tool safety).
+
+Of course, we should _always_ tend to the person hurt. That's not what I'm questioning here, or suggesting we reconsider.
+
+But whether or not we need to tend to the person who did the hurting -- how we do so -- is a decision that must consider their intentions, or we're ignoring something integral to the harm that was done (and the likelihood that harm will take place again in the future).
+
 ### Benevolence to Maliciousness as a Scale for Responding
 
 Consider an intentions scale of 0 to 10, with 0 being "Purely Benevolent", and 10 being "Insidiously Malicious." 
