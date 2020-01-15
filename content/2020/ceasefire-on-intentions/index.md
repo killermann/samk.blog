@@ -167,7 +167,7 @@ But whether or not we need to tend to the person who did the hurting -- how we d
 
 ### Benevolence to Maliciousness as a Scale for Responding
 
-Consider an intentions scale of 0 to 10, with 0 being "Purely Benevolent", and 10 being "Insidiously Malicious." 
+Consider an Intentions Scale of 0 to 10, with 0 being "Purely Benevolent", and 10 being "Insidiously Malicious." 
 
 If someone says or does something that we'd chalk up as being enacting oppression, or problematic, where they stand on that scale should influence how we respond. Based on this scale, we can factor in all sorts of things:
 
@@ -180,13 +180,13 @@ And this is true regardless of the outcome. Indeed, the outcome could be the exa
 
 For example, let's say you're leading a training on gender justice and someone says, "Pronouns don't matter," and that leads to a non-binary person in the room feeling targeted and alienated.
 
-If you investigate the intentions, they might explain, "Oh no, I'm sorry. I didn't mean it _that way_. I meant 'pronouns don't matter... to me!' I'll happily use any neopronouns or whatever pronouns someone prefers. It's not something I personally care about." In which case, you can tend to the feelings of the person who felt targeted, and likely move on from there. 
+If you investigate the intentions, they might explain that they were a 1 on the scale: "Oh no, I'm sorry. I didn't mean it _that way_. I meant 'pronouns don't matter... to me!' I'll happily use any neopronouns or whatever pronouns someone prefers. It's not something I personally care about, and I'm here to support people in whatever way they wish." In which case, you can tend to the feelings of the person who felt targeted, and likely move on from there. 
 
-However, if you dig in and find out the person meant "Pronouns don't matter. There are bigger problems we should focus on." In that case, you _clearly_ have a different situation on your hands. 
+However, if you dig in and find out the person was somewhere near a 5, and they meant "Pronouns don't matter... because there are bigger problems we should focus on." In that case, you _clearly_ have a different situation on your hands. 
 
-If you respond the same way you did in the above example, or if you respond to the above person how you'd respond to this person, you're ignoring pertinent details.
+If you respond the same way you did in the above example where someone was 1 on the scale, you're ignoring pertinent details. Details that inform the likelihood that this harm will be caused again, for example.
 
-And if you ask them what they meant, and they say, "Pronouns don't matter, and anyone who says they do is an SJW cuck," well, we're in different territory altogether, and you might be reading my email inbox.
+And if you ask them what they meant, and they say, "Pronouns don't matter, and anyone who says they do is a lying SJW cuck," well, we're in different territory altogether, and you might be reading my email inbox.
 
 ## Intentions Obviously Matter
 
