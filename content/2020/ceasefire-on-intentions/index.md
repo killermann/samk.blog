@@ -43,14 +43,16 @@ This essay is me beginning the process of weeding all of those things out of my 
 
 Why share this at all? Two reasons: one, I want you to know that my current feelings on this subject have evolved over a decade, and I didn't come to this lightly; two, I don't need any of you stumbling upon my past work and casting me in your play of [Hypocrisy Theatre](https://www.itspronouncedmetrosexual.com/2019/01/hypocrisy-theatre/). 
 
-Before I get into how I feel now, let me briefly walk you through how I felt about intentions before (and how a lot, most, and maybe _almost all_ social justice people feel currently):
+Before I get into how I feel now, let me briefly walk you through how I felt about intentions before (and how a lot, most, and maybe _almost all_ social justice people feel currently). 
 
-1. **Focusing on someone's positive intentions distracts us from the negative impact.** Even if someone didn't _mean to_ hurt someone else, use a phrase that reified oppression (or marginalization, or domination), they did. That happened. Acknowledging the impact or effect was what was most important.
-2.  **It centers the conversation on the wrong person's feelings.** Often, when intentions would come up (and we'd put them down), it was when a person said or did something that negatively impacted a marginalized person in relation to whom the speaker/doer held a dominant group identity (e.g., a White person saying/doing something that hurt People of Color). Any space we gave to that person's intentions would prioritize their feelings, instead of the hurt person's, which recreated the societal power inequity (i.e., we're marginalizing the marginalized person, and centering the centered person).
+Here's why we, in the social justice movement, are so anti-intentions:
+
+1. **Focusing on someone's positive intentions distracts us from the negative impact.** Even if someone didn't _mean to_ hurt someone else, use a phrase that reified oppression (or marginalization, or domination), they did. That happened. And acknowledging the harmful impact or effect is what is important, not whether or not they were trying to cause harm.
+2.  **It centers the conversation on the wrong person's feelings.** Often, when intentions come up (and we put them down), it's when a person says or does something that negatively impacts a marginalized person in relation to whom the speaker/doer holds a dominant group identity (e.g., a White person saying/doing something that hurt a Person of Color). Any space we give to that person's intentions would prioritize _their_ feelings, instead of the hurt person's, which recreates the relevant societal power inequity (i.e., we're marginalizing the marginalized person, and centering the centered person).
 
 I could keep listing reasons that I'd bring up in trainings, or that I'd hear others cite. And if you hop onto your favorite social justice or intersectional feminist website and search "intentions" you'll likely find longer lists. 
 
-But a lot of the other reasons are, deep down, rooted in the above two. And those two reasons are all you need to completely unroot the validity of "intentions" that are shared in a social justice context.
+But a lot of the other reasons are, deep down, rooted in the above two. And those two reasons are all you need to completely unroot the validity of any "intentions" that get shared in a social justice context.
 
 ## The Outcome
 
