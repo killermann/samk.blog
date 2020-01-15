@@ -127,13 +127,15 @@ Because not standing clearly and unequivocally on the side of the marginalized p
 Say two young brothers are shingling the roof of a dog house, and one of them ends up with the claw side of a hammer in the side of his skull. And, hypothetically, one of the following two things led to that outcome:
 
 1. Brother A was swinging the hammer carelessly, and hit Brother B by mistake.
-2. Brother A looked at the claw side of the hammer, wondered what would happen if he his Brother B in the head with it, then hit Brother B with the hammer on purpose.
+2. Brother A looked at the claw side of the hammer, wondered what would happen if he hit Brother B in the head with it, then hit Brother B with the hammer on purpose.
 
-The outcome in all three is the same, Brother B is bleeding and now knows what the sensation of metal on skull feels like. Does it matter what Brother A's intentions were?
+The outcome in both is the same: Brother B is bleeding and now knows what the sensation of metal on skull feels like. Does it matter what Brother A's intentions were?
 
-Of course is does! If it's #1, you patch up Brother B, and everyone goes back to work on the shingling.
+Of course it does! We'd never say "it doesn't matter whether he meant to do it; what's done is done."
 
-If it's #2, then Brother A's name is Zak, and it's been 25 years and I still don't trust him with a hammer.
+If it's #1, you patch up Brother B, and everyone goes back to work on the shingling.
+
+If it's #2, then Brother A's name is Zak, and it's been 25 years and I still turn my back on him if he's holding a hammer.
 
 Beyond me airing my family's dirty laundry (Zak, for the record, never went on to strike again -- his hammer-to-head curiosity sated at age 5), what does this have to do with the topic at hand?
 
