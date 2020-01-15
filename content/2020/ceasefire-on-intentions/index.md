@@ -216,6 +216,16 @@ Now, I'm not sharing these as examples of Hypocrisy Theatre, but instead trying 
 
 And while those two examples might not actually be helping us in the long run, I do think that having a relationship with intentions will.
 
+Because the other thing that has happened as a byproduct of these goals, something that I believe is a completely unintended consequence, is that we've created a clear delineation of [whose suffering](/suffering-points/) we're allowed to attend to, and whom we should disregard. 
+
+We've learned not to care about the pain felt by dominant group members, their feelings, or what's going on behind the scenes in their mind. We have language that mocks this -- "White tears," "Cis tears," etc. -- and we callously close the door to any conversations about "those people's" feelings.
+
+A lot of "those people" stand against the goals of social justice. They're actively trying to block our way. And a lot of "those people" are "our people," doing everything they can to stand alongside us, and help us advance toward living social justice.
+
+And which one of those groups is uniquely vulnerable to our cold shoulder? Our callous disregard for their feelings? Our mocking their pain? Guess which group we have the power to hurt. The answer completely revolves around intentions.
+
+Finally, if _our_ intentions are to create equity for all, a world where every person is able to be healthy, understood, educated, safe -- regardless of their identity, or position, or background -- how much room do we have for a "those people" at all? Or any outcome of our efforts that results in pain?
+
 <!-- ## Intentions are an Outcome
 
 We're all smushed onto this tiny Earth. From the first time we open our eyes, and even before, we're locked into a chain of cause and effect, input and output, intention and outcome.
@@ -228,11 +238,13 @@ I hope you didn't read any of this as me saying outcomes don't matter. They do.
 
 Outcomes, effects, impacts, etc. -- they matter. It matters how you made someone hurt with what you said, did, didn't say, didn't do, ignored, glossed over, and more. Recognizing that, and creating situations for different, more healthy, more happy outcomes in the future, is a big project, and something I [still] believe rests under the mantle of social justice.
 
-And so do intentions. We can hold space for intentions while recognizing the outcomes of the actions. Doing so allows us to notice the gap between the intended outcome and reality, and figure out how to build a bridge.
+What's changed is that I don't see how we can do any of that while ignoring intentions.
 
-There's room for both. There always has been. We've recognized this is limited (and increasingly dogmatic) ways, or with certain caveats.
+There's room for both. There always has been. We've recognized this is limited (and increasingly dogmatic) ways, or with certain caveats. And a lot of us have felt this on some level, that our intentions _do_ matter, or the intentions of people we're talking to (they matter if they were benevolent, and they matter if they were malicious).
 
-By writing off people's intentions we've been writing off people. Lumping them into a them. Increasing the number of problems and decreasing the number of problem solvers.
+By writing off people's intentions we've been writing off people. Lumping them into a "them," where everyone who caused harm goes, whether it was careless, intentional, or a backfire of a good intention. And we treat them as all being the same, increasing the number of problems and decreasing the number of problem solvers.
+
+We can hold space for intentions while recognizing the outcomes of the actions. Not only is this humane, but doing so is necessary for us to notice the gap between the intended outcome and reality, and figure out how to build a bridge.
 
 Inviting intentions is adding another plate to the mix, something else we need to spin and tend to. And it will require us to hone skills and competencies, be patient and compassionate, find ways to hold nuance and remedy conflict and repair wounds. It will make it hard for us to silence people, to shut them down without feeling bad about it, or to shut them up and feel good. 
 
