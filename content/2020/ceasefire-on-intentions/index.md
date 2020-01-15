@@ -15,15 +15,15 @@ topics:
 - Ambiguity
 ---
 
-"Your intentions don't matter, your impact does," is a statement that, if you spend much time in social justice spaces, you've probably heard more times than you can account for. Maybe you've said it, or heard _me_ say it.
+"Your intentions don't matter, your impact does," is a statement that, if you spend much time in social justice spaces, you've probably heard more times than you can account for. Maybe you've said it yourself, or heard _me_ say it.
 
-It's [a standard-issue knowledge grenade](https://www.itspronouncedmetrosexual.com/2012/05/5-reasons-my-approach-to-social-justice-work-is-better-than-yours/#3-i-try-not-to-be-overbearing-or-aggravating) handed out to social justice infantry everywhere, and it's something new recruits pick up quickly and are always ready to lob at enemy forces. 
+It's [a standard-issue knowledge grenade](https://www.itspronouncedmetrosexual.com/2012/05/5-reasons-my-approach-to-social-justice-work-is-better-than-yours/#3-i-try-not-to-be-overbearing-or-aggravating) handed out to social justice infantry everywhere. And it's something new recruits pick up quickly and are ready to lob at enemy forces at the first sight of "intentions." 
 
-"It doesn't matter that you weren't trying to be racist..." _Teeth pulling out the pin._ "What you said _was_ racist!" _Toss!_ "And the fact that you're even defending your intentions is a way of defending White Supremacy!" _Boom!_
+"It doesn't matter that you weren't _trying to be_ racist..." _They say, pulling out the pin with their teeth._ "What you said _was_ racist!" _Toss! Fire in the hole!_ "And the fact that you're even defending your intentions is a way of defending White Supremacy!" _Boom!_
 
-We've been at war with intentions for as long as I've been doing social justice. And it's a war we're winning, at least by the accounts of the people on our side. We've amassed a tremendous army against intentions, with more people enlisting every day.
+We've been at war with intentions for as long as I've been doing social justice. And it's a war we're winning, at least by the accounts of the people on our side. We've amassed a tremendous army against intentions, with more people enlisting every day. Ask any of them how they feel about "intentions."
 
-The problem with this analogy, and with the general way this sentiment is expressed, is that this isn't a war. And the _they_ we're grenading aren't the enemy. Truly, "they" aren't even a "they." We're a we. But we'll get to that later.
+The problem with this analogy, and with the general way the anti-intentions sentiment is expressed, is that this isn't a war. And the _they_ we're grenading aren't the enemy. Truly, "they" aren't even a "they." We're a we. But we'll get to that later.
 
 First, what led to us occupying a war mentality where good intentions, and anyone who is expressing them, are bad?
 
@@ -31,15 +31,17 @@ First, what led to us occupying a war mentality where good intentions, and anyon
 
 If there truly were a War on Intentions, yours truly would be a beleaguered General reporting from the front lines. For over a decade now, I've led tens of thousands of people to battle myself, and my orders have been passed down to millions of soldiers.
 
-And because I'm now, totally, done with this analogy, I'll explain what I mean.
+And because I'm now _totally_ done with this analogy, I'll explain exactly what I mean.
 
-I've facilitated (and co-facilitated -- don't want to take all of this credit/blame) trainings for well over tens of thousands of people over years, and "intentions" inevitably would come up in some form or fashion, and we'd immediately nip that bud (Ooo! Gardening! What a more pleasant metaphor). 
+I've facilitated (and co-facilitated! -- I don't want to take all of the credit/blame) trainings and workshops for tens of thousands of people around the world, and "intentions" inevitably would come up in some form or fashion, and we'd immediately nip that bud. (Ooo! Gardening! What a more delightful metaphor!) 
 
-I've also written several articles addressing intentions in social justice context that have been shared and read millions of times, and there's a whole chapter on intentions in my first book. 
+I've also written several articles and created other resources addressing intentions in a social justice context that have been shared and read millions of times. There's even a whole chapter on intentions in my first book. 
 
-You'll notice I'm not linking to things here. That's not an accident; this essay is me beginning the process of weeding those out, and I'm no longer wanting to spread the seeds. (If you want to roll in the dandelions, I bet googling my name plus "intentions" will take you to a field full of them.)
+You'll notice I'm not linking to things here. That's not an accident.
 
-Why share this at all? Two reasons: one, I want you to know that my current feelings on this subject have evolved over a decade, and I didn't come to this lightly; two, I don't need any of you stumbling upon my past work and casting me in their play of [Hypocrisy Theatre](https://www.itspronouncedmetrosexual.com/2019/01/hypocrisy-theatre/). 
+This essay is me beginning the process of weeding all of those things out of my work, and I'm no longer wanting to spread the seeds. (If you want to roll in the dandelions, I bet googling my name plus "intentions" will take you to a field full of them.)
+
+Why share this at all? Two reasons: one, I want you to know that my current feelings on this subject have evolved over a decade, and I didn't come to this lightly; two, I don't need any of you stumbling upon my past work and casting me in your play of [Hypocrisy Theatre](https://www.itspronouncedmetrosexual.com/2019/01/hypocrisy-theatre/). 
 
 Before I get into how I feel now, let me briefly walk you through how I felt about intentions before (and how a lot, most, and maybe _almost all_ social justice people feel currently):
 
@@ -58,11 +60,13 @@ For one, it really, really caught on.
 
 10 years ago, in a training, it was more likely than not that I was the only person who would have been deploying the "your intentions don't matter, your impact does." (Or other similar ones that all meant the same thing.) 
 
-Intentions naturally come up all the time in social justice contexts. Someone misspeaks, or does a thing that causes harm (or, hypothetical, _could have_ caused harm), or learns new language (then reflects on what they used to say), or they just sense that they _might_ be messing up. Then phrases like, "I didn't mean it that way..." roll out. Or "I didn't know that was bad." Or "I thought I was being supportive."
+Intentions naturally come up all the time in social justice contexts. Someone misspeaks, or does a thing that causes harm (or, hypothetically, something that _could have_ caused harm), or learns new language (then reflects on what they used to say), or they just sense that they _might_ be messing up. Then phrases like, "I didn't mean it that way..." roll out. Or "I didn't know that was bad." Or "I thought I was being supportive."
 
-Five years ago, that was no longer the case. If anyone transgressed the "no intentions allowed" line, before I could open my mouth another participant in the training had likely already intervened. Even, sometimes, before a transgression occurred, a group member would share that "intentions don't matter, only outcome does."
+Starting around five years ago, I was no longer the only one intervening. If a person in a training transgressed the "no intentions allowed" line, before I could open my mouth another participant in the training had likely already put them in their place. Even, sometimes, before a transgression occurred, a group member would share that "intentions don't matter, only outcome does." A preemptive strike.
 
-As far as [tenets of social justice dogma](https://www.itspronouncedmetrosexual.com/2018/06/unhelpful-tenets-social-justice-dogma/) go, "intentions don't matter" is as close to universal as we get. It quickly became a flag we could use to signal that we're on the inside.
+As far as [tenets of social justice dogma](https://www.itspronouncedmetrosexual.com/2018/06/unhelpful-tenets-social-justice-dogma/) go, "intentions don't matter, impact does" is as close to universal as we get. 
+
+It quickly became a flag we could use to signal that we're on the right side, the side of social justice. That we are one of the good ones.
 
 ## "Hell is paved with good intentions."
 
@@ -70,17 +74,15 @@ Samuel Johnson said that. Here's another one:
 
 “Most of the evil in this world is done by people with good intentions.” 
 
-That second one was T.S. Eliot. 
+That second one was T.S. Eliot. I'm sharing these not because I think they make my current case, they don't. 
 
-I'm sharing these not because I think they make my case, they don't. 
-
-I also don't think they _used to_ make my case, either. But they make a third, different case. I think those quotes are part of why what is so often an uphill climb in social justice -- convincing people to learn something new or unlearn something deeply ingrained -- was more of a mudslide when it came to intentions.
+I also don't think they _used to_ make my case, either. But they make a third, different case. I think these quotes are emblematic of why what is so often an uphill climb in social justice -- convincing people to learn something new or unlearn something deeply ingrained -- was, when it came to our anti-intentions efforts, more of a mudslide.
 
 Us, in social justice spaces, saying, "intentions don't matter" is like giving intentions a hug compared to "God save us from people who mean well." (Vikram Seth in _A Suitable Boy_)
 
 We weren't telling people something new, or pushing back against a harmful societal norm, or helping people recognize an oppressive believe they held and showing them a different way of thinking about something -- and, to be honest, it felt like at least one of those things. It really did feel novel, or like new information, or like what we were saying wasn't something people have heard a million times.
 
-But what we were really doing was blowing into a sail that had was already full of a hurricane gust of wind.
+We were just telling people something society had already told them, blowing into a sail that was already full of a hurricane gust of wind.
 
 People are naturally suspicious of good intentions. We don't need any help on that front. If someone says they mean well, it's more likely to raise the hairs on the back of our neck than to give us a warm reassurance in our chest.
 
@@ -184,7 +186,7 @@ For one, we've gone beyond simply telling people their good intentions _don't ma
 
 For two, whenever someone questions the efficacy of a particular social justice organization, tactic, goal, or person (insofar as they're engaging in activism) -- that is, they say "Hey, I don't know if the _outcome_ of this is really moving us closer to social justice -- we suddenly shift into full _intentions matter_ mode. "They're trying, and it's better that they're doing something than nothing." Or, worse, following with the previous example, "By questioning the efficacy of that, your intention must be to uphold that form of oppression, or derail efforts we're making to dismantle it."
 
-I'm not sharing these as examples of hypocrisy theatre, but instead to highlight that we still, regularly, as individuals and as a movement, recognize how important intentions are. We have retained norms and language for upholding intentions, investigating them, and prioritizing them.
+Now, I'm not sharing these as examples of Hypocrisy Theatre, but instead trying to highlight that we still, regularly, as individuals and as a movement, recognize how important intentions are. We have retained norms and language for upholding intentions, investigating them, and prioritizing them -- just in specific situations.
 
 And while those two examples might not actually be helping us in the long run, I do think that having a relationship with intentions will.
 
