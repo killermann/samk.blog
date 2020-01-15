@@ -124,7 +124,7 @@ Because not standing clearly and unequivocally on the side of the marginalized p
 
 ## When Intentions Obviously Matter
 
-Say two young brothers are trying to put shingles on a dog house, and one of them ends up with the claw side of a hammer in the side of his skull. And, hypothetically, one of the following three things led to that outcome:
+Say two young brothers are shingling the roof of a dog house, and one of them ends up with the claw side of a hammer in the side of his skull. And, hypothetically, one of the following two things led to that outcome:
 
 1. Brother A was swinging the hammer carelessly, and hit Brother B by mistake.
 2. Brother A looked at the claw side of the hammer, wondered what would happen if he his Brother B in the head with it, then hit Brother B with the hammer on purpose.
