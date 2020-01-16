@@ -16,7 +16,7 @@ topics:
 
 For 14 days now I've been writing daily [essays](/essays/) about dogmatic activism for my ["Social Justice, Minus Dogma Book"](/topics/sjmd-book) (I don't know what it'll be called in the end, but that's what I'm calling it for now).
 
-When I started that series, I assumed that anyone who [followed along on the mailing list](https://bit.ly/sjmdbook) would've already been familiar with my other writing on social justice dogma (SJD). I was wrong -- and that's great! It's been fun to hear from so many people for whom this was their first touch with either SJD, or even my writing, work, and activism.
+When I started that series, I assumed that anyone who [followed along on the mailing list](https://bit.ly/sjmdbook) would've already been familiar with my other writing on social justice dogma (SJD). I was wrong -- and that's great! It's been fun to hear from so many people for whom this was their first touch with SJD, or even my writing, work, and activism. Welcome!
 
 So, with all of you beautiful new people in mind, as well as anyone else who is just getting started learning about SJD, I put together the following collection. **It's a curated starting place for learning about SJD.**
 
