@@ -200,13 +200,18 @@ When we see it in someone's eyes, or hear it verbalized, knowing what someone wa
 
 Or we don't. We shut ourselves off to it. We're cynical about what they were meaning, or what they were trying to say, or how they wanted us to feel, and we turn a cold shoulder. But every time we do I suspect that, on some level, we feel the chill as well. In disconnecting ourselves from them, and what they're feeling, we disconnect from that feeling in ourselves.
 
-To put all that another way, saying "I don't care what you meant," requires you either [1] **to not actually care** (which is hard, I think, requires practice, might not feel that great, and can easily lead to cutting off other ways you care about that person); or [2] **to care, but to say you don't** (which definitely doesn't feel great, and creates cognitive dissonance).
+To put all that another way, saying "I don't care what you meant," requires you either:
+
+1. **To not actually care** (which is hard, I think, requires practice, might not feel that great, and can easily lead to cutting off other ways you care about that person); or 
+2. **To care, but to say you don't** (which definitely doesn't feel great, and creates cognitive dissonance).
 
 In Social Justice Land, our cynicism about intentions might be leading to some unintended consequences. 
 
 In the beginning of this essay, I shared the two big rationales for why we are so hard on intentions (one, that it focuses our attention on the intentions instead of the impact; and two, that it centers the conversation on the wrong person's feelings).
 
-Those goals, while admirable for a lot of reasons, have been translated into a few dogmatic tendencies that I don't think serve our overall mission. 
+Those goals, and the rule of "intentions don't matter, impact does," while admirable for a lot of reasons, have been translated into a few dogmatic tendencies that I don't think serve our overall mission. 
+
+### The Exceptions to the Rule
 
 For example, there are two exceptions to our anti-intentions rhetoric, ways we uphold the importance of intentions within activism (even if this isn't exactly a helpful upholding).
 
@@ -218,15 +223,47 @@ Now, I'm not sharing these as examples of Hypocrisy Theatre, but instead trying 
 
 And while those two examples might not actually be helping us in the long run, I do think that having a relationship with intentions will.
 
-Because the other thing that has happened as a byproduct of these goals, something that I believe is a completely unintended consequence, is that we've created a clear delineation of [whose suffering](/suffering-points/) we're allowed to attend to, and whom we should disregard. 
+### Certain Suffering
 
-We've learned not to care about the pain felt by dominant group members, their feelings, or what's going on behind the scenes in their mind. We have language that mocks this -- "White tears," "Cis tears," etc. -- and we callously close the door to any conversations about "those people's" feelings.
+Another thing has happened as a byproduct of our being anti-intentions in the service of not being distracted and centering certain voices. It's something that I believe was a completely unintended consequence, but nonetheless an thundering outcome: we've created a clear delineation of [whose suffering](/suffering-points/) we're allowed to attend to, and whom we should disregard. 
 
-A lot of "those people" stand against the goals of social justice. They're actively trying to block our way. And a lot of "those people" are "our people," doing everything they can to stand alongside us, and help us advance toward living social justice.
+Specifically, we have taught ourselves that we should only be tending to the suffering of the marginalized person(s). 
 
-And which one of those groups is uniquely vulnerable to our cold shoulder? Our callous disregard for their feelings? Our mocking their pain? Guess which group we have the power to hurt. The answer completely revolves around intentions.
+The "tending to" part was the goal, but the "only" part I suspect snuck in, at least for many of us. It wasn't so much that we were saying "don't care about anyone but the marginalized person" as we were saying "if we care about the dominant group member we might accidentally ignore the marginalized person," and further amplify societal norms of oppression, domination, and marginalization.
 
-Finally, if _our_ intentions are to create equity for all, a world where every person is able to be healthy, understood, educated, safe -- regardless of their identity, or position, or background -- how much room do we have for a "those people" at all? Or any outcome of our efforts that results in pain?
+And we didn't want that. And I still don't! But the byproducts of this, something we're seeing all over the place in Social Justice Land, are also something I don't think we want, or wanted.
+
+As a result of this, we've learned not to care about the pain felt by dominant group members, their feelings, or what's going on behind the scenes in their mind. Not just in specific instances, but in general. We have an informal rule against feeling compassion for someone's pain if they're _not_ marginalized, and we're encouraged to dismiss it altogether. 
+
+We have popular language that mocks the suffering of dominant group members -- "White tears," "cis tears," "first world problems," "fragility" etc. -- which we use to we callously close the door to any conversations about "those people's" feelings.
+
+### Those People
+
+In conversations about intentions and impact, it's easy for us to slip into "Us" versus "Them" language. We might, for example, say, "If we care about _those people's_ feelings, we'll get derailed. We need to be here for the oppressed, the powerless. We can't care about the people with power."
+
+In this case, "those people" stands in for anyone who isn't marginalized, or the particular aspects of their identities that aren't.
+
+A lot of "those people" stand against the goals of social justice. They see the strategies, policies, language, and more, and disagree. They're actively trying to block our way.
+
+And a lot of "those people," despite holding dominant group identities, are doing everything they can to stand with the goals of social justice. They agree with the mission, and are making efforts to help us advance toward living social justice. They're not really a "those people" at all -- they're "our people." 
+
+Now, which one of those two groups do you think is likely to be unfazed by whatever we do, unharmed by our neglect of their wellbeing?
+
+And which one of those groups would you say is uniquely vulnerable to our cold shoulder? Our callous disregard for their feelings? Our mocking their pain? What I'm saying is guess which group we have the power to hurt. The answer completely revolves around intentions.
+
+When we know someone's intentions are to support social justice or equity, we also know they are making themselves vulnerable. For us and with us and -- most importantly for this topic -- _to us_. They're exposing themselves to us. Trusting some small part of their wellbeing to the care of the community.
+
+How can we say those intentions don't matter? 
+
+### Our Intentions
+
+Quickly, let's zoom out to the big picture about our intentions, the goals of the social justice movement. I'm struck by three questions.
+
+If our intentions are to create equity for all, a world where every person is able to be healthy, understood, educated, safe -- regardless of their identity, or position, or background -- whose suffering are we ultimately able to disregard, and still say that *our intentions* are aligned with _our outcomes_?
+
+When we notice the outcomes of our intentions, and they might be creating suffering, at what point do we, as a movement, take pause and consider a different strategy?
+
+Finally, how much room do we truly have in this world and movement for "those people" at all?
 
 <!-- ## Intentions are an Outcome
 
