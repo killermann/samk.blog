@@ -55,7 +55,7 @@ Let me add a few more variables into the mix before I draw my conclusions. And i
 
 ***
 
-<p class="dropcap">My talking about SJD <a href="https://www.itspronouncedmetrosexual.com/2017/12/introduction-social-justice-dogma/">started with a long essay</a>, but we moved quickly into <a href="https://hereticpodcast.com">trying to produce a podcast</a> about the subject. And not just because podcasts were <em>so hot right now</em>.</p>
+My talking about SJD [started with a long essay](https://www.itspronouncedmetrosexual.com/2017/12/introduction-social-justice-dogma/), but we moved quickly into [trying to produce a podcast](https://hereticpodcast.com) about the subject. And not just because podcasts were _so hot right now_.
 
 Our thinking in creating the podcast was really anchored by two core ideas:
 
@@ -78,7 +78,7 @@ So a podcast wasn't going to blaze the trail. That format was still too public, 
 
 ***
 
-<p class="dropcap">The Social Justice, Minus Dogma Course + Community was something I was really stubborn to create. I had several people ask me to make it, which is usually all it takes to nudge me into doing something, but I resisted.</p>
+The Social Justice, Minus Dogma Course + Community was something I was really stubborn to create. I had several people ask me to make it, which is usually all it takes to nudge me into doing something, but I resisted.
 
 To me, a private online course seemed antithetical to dismantling SJD because it didn't break the silence, or require people to disrupt the [pluralistic ignorance](https://en.wikipedia.org/wiki/Pluralistic_ignorance) that seemed to be so prevalent amidst the dogmatic activism.
 
@@ -97,7 +97,7 @@ It's like everyone is waiting for someone else to go first. They know [the first
 
 ***
 
-<p class="dropcap">As soon as I started publicly talking about SJD I privately stopped accepting gig requests that I felt were advancing SJD. What I mean is that if someone wanted to <a href="https://samtalkto.us">bring me in to speak</a> or perform on their campus, I wouldn't say "Yes" if what I thought they were asking for would contribute to dogmatic activism.</p>
+As soon as I started publicly talking about SJD I privately stopped accepting gig requests that I felt were advancing SJD. What I mean is that if someone wanted to [bring me in to speak](https://samtalkto.us) or perform on their campus, I wouldn't say "Yes" if what I thought they were asking for would contribute to dogmatic activism.</p>
 
 This was a hard decision for me for many reasons, chief among them are my livelihood for almost 10 years has been speaking and performing. It funded [all the other resources I created](https://hues.xyz), and has fed me (and [my pups!](https://instagram.com/killermann)). I also loved doing those shows and keynotes, and traveling and hearing from people about their struggles and successes in social justice land all around the world. 
 
@@ -113,7 +113,7 @@ In the past year and a half, this has resulted in me turning down about 400 gigs
 
 ***
 
-<p class="dropcap">In my mind now, all of these twists and turns feel obvious. And the underlying currents affecting all three endeavors &mdash; the attempts at writing articles, the podcast, the gigs &mdash; aren't just interconnected, they're one in the same. Hindsight combined with all the things I've read about SJD since starting this &mdash; all the emails and form responses and comments and research &mdash; has me confidently saying "How could it have gone any other way?"</p>
+In my mind now, all of these twists and turns feel obvious. And the underlying currents affecting all three endeavors -- the attempts at writing articles, the podcast, the gigs -- aren't just interconnected, they're one in the same. Hindsight combined with all the things I've read about SJD since starting this -- all the emails and form responses and comments and research -- has me confidently saying "How could it have gone any other way?"
 
 I think I know _exactly_ what's going on here. What's behind all the weird.
 

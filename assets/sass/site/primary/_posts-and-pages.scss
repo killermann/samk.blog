@@ -59,6 +59,10 @@
 		height: auto;
 	}
 
+	hr + p {
+		@extend .dropcap;
+	}
+
 } /* end .entry-content */
 
 /* In-Text Ads and Shortcodes */

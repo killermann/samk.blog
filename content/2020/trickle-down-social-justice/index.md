@@ -28,9 +28,9 @@ Another way to look at it is that _almost all_ of the wealth created from 1989 t
 
 ***
 
-<p class="dropcap">The idea of "Trickle-down Social Justice" is a bit harder to measure than its economic counterpart, but theoretically quite similar. I'll walk us through the concept in general first, before I explain what I mean about the measurability.
+The idea of "Trickle-down Social Justice" is a bit harder to measure than its economic counterpart, but theoretically quite similar. I'll walk us through the concept in general first, before I explain what I mean about the measurability.
 
-Here's a definition of the new idea for us to work from:</p>
+Here's a definition of the new idea for us to work from:
 
 > **Trickle-down Social Justice** refers to the theory that placing marginalized individuals in positions of power within systems will result in equity for their fellow group members. The power allocated to the individual will trickle down to rest of their disempowered group.
 
@@ -54,7 +54,7 @@ Does that make sense, theoretically speaking?
 
 ***
 
-<p class="dropcap">Now, I should say that I've never actually heard any other social justice people refer to this as "Trickle-down Social Justice." I've just given a name to a thing I see the vast majority of us advocating for, in order to make it easier to discuss it.</p>
+Now, I should say that I've never actually heard any other social justice people refer to this as "Trickle-down Social Justice." I've just given a name to a thing I see the vast majority of us advocating for, in order to make it easier to discuss it.
 
 The name isn't perfect, but as I'll explain, it makes sense to me. In addition to the parallel of something positive directionally traveling from an elite few to benefit the many, there are other ways "Trickle-down Social Justice" maps onto "Trick-down Economics." 
 
@@ -72,7 +72,7 @@ This isn't a "theory" within social justice so much as gravity is a theory: it's
 
 ***
 
-<p class="dropcap">When I said that Trickle-down Social Justice is harder to measure than it's Economic twin, I was referring to the unit of measurement in question. Dollars and wealth are easy to account for, and so are their changes over time. "Power," on the other hand, is quite the opposite.</p>
+When I said that Trickle-down Social Justice is harder to measure than it's Economic twin, I was referring to the unit of measurement in question. Dollars and wealth are easy to account for, and so are their changes over time. "Power," on the other hand, is quite the opposite.
 
 Following the theory of Trickle-down Social Justice, Barack Obama, the first Black U.S. president, was good for Black people (and, many argued, people of color more broadly). To put it another way, he was bad for racism. In electing him, we landed a heavy blow on White supremacy.
 
@@ -110,7 +110,7 @@ But to these other questions, the ones that take Trickle-down theory and put it 
 
 ***
 
-<p class="dropcap">Am I missing the point? Is this all just a bunch of word salad? Do I hate that Barack Obama was president? These are all questions I'm happy to answer: I don't think so, I hope not, and of course not.</p>
+Am I missing the point? Is this all just a bunch of word salad? Do I hate that Barack Obama was president? These are all questions I'm happy to answer: I don't think so, I hope not, and of course not.
 
 But the questions above are questions that I have never been happy to answer.
 
@@ -136,7 +136,7 @@ And then, when you ask them, and they don't actually know either, "Poof!" -- it'
 
 ***
 
-<p class="dropcap">The main question we need to be able to answer is "Does the power trickle down?" That is, "When we put this into practice, does the theory work? Will Trickle-down Social Justice help us get closer to living social justice?" These are questions that I've, in the past few years, talked through with a lot of social justice people.</p>
+The main question we need to be able to answer is "Does the power trickle down?" That is, "When we put this into practice, does the theory work? Will Trickle-down Social Justice help us get closer to living social justice?" These are questions that I've, in the past few years, talked through with a lot of social justice people.
 
 To even be able to ask those questions, we have to be willing first to see Trickle-down Social Justice as a theory for dismantling injustice, historical and present, and paving a path toward equity. We have to be willing to question it, and consider whether or not it's working based on the evidence we see. 
 
@@ -154,7 +154,7 @@ But there's a problem we haven't yet addressed, one that has come up reliably in
 
 ***
 
-<p class="dropcap">When you're testing a theory, you're limited by the boundaries <em>of</em> that theory. This isn't a problem, usually; quite the opposite, it's a positive constraint. Without some boundaries, every question you ask would bleed into every other question you could possible ask.</p>
+When you're testing a theory, you're limited by the boundaries <em>of</em> that theory. This isn't a problem, usually; quite the opposite, it's a positive constraint. Without some boundaries, every question you ask would bleed into every other question you could possible ask.
 
 To take a hilariously extreme version of this, when we ask, "Does a marginalized person holding power in an organization benefit other people of their marginalized group?" we don't have to concern ourselves with the organs of that person's body, the cells that make up those organs, the atoms that make up the cells, or the quarks within those atoms. 
 
@@ -188,7 +188,7 @@ But the result has been the opposite of what the theory says will happen: in the
 
 ***
 
-<p class="dropcap">Even if we're right in theory, and had a ton of evidence to back up our theory, that doesn't mean the implementation will deliver the results we're hoping for. And when it comes to implementing Trickle-down Social Justice, to putting that theory into practice, there are a few outstanding boxes we need to be able to check.</p>
+Even if we're right in theory, and had a ton of evidence to back up our theory, that doesn't mean the implementation will deliver the results we're hoping for. And when it comes to implementing Trickle-down Social Justice, to putting that theory into practice, there are a few outstanding boxes we need to be able to check.
 
 Don't worry -- I'm not going to ask the _gotcha_ questions I've been asked countless times, and turn you into a _Mechanical Turk_ of annoying question problem-solving. "How many Black presidents do we need for racial justice?" "Do we need every CEO to be female for retributive gender justice?" And etc. 
 
@@ -230,7 +230,7 @@ It'd be like if, instead of giving trillions of dollars in tax cuts to the wealt
 
 ***
 
-<p class="dropcap">The theory behind the theory of Trickle-down Social Justice is that marginalized people will look out for other marginalized people, and dominant group members will keep on dominating. If marginalized people are granted power, even just a chosen elite few, they'll share that power with others, and it will show up in the form of material improvements in those other people's lives.</p>
+The theory behind the theory of Trickle-down Social Justice is that marginalized people will look out for other marginalized people, and dominant group members will keep on dominating. If marginalized people are granted power, even just a chosen elite few, they'll share that power with others, and it will show up in the form of material improvements in those other people's lives.
 
 This might work, and it might be the best path toward living social justice. Maybe! 
 
