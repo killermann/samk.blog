@@ -48,9 +48,9 @@ Okay, "friend." May peace be _also_ unto _you_. Oh, and this:
 
 ## Without the cornerstones, none of the other stuff makes sense.
 
-Over the years, as I've talked to people about SJD, and shared a rule, or tenet, with someone else, there has been a wide range of replies. Even just within the responses when I am talking to other social justice people. The range extends anywhere from a celebratory "Hell yes that's true!", to a reverant or solemn "Mmhmmm", to a confused "But why?", to a dismissive "That doesn't make sense."
+Over the years, as I've talked to people about [social justice dogma](/what-is-social-justice-dogma/#definition) (SJD), and shared a rule, or tenet, with someone else, there has been a wide range of replies. Even just within the responses when I am talking to other social justice people. The range extends anywhere from a celebratory "Hell yes that's true!", to a reverant or solemn "Mmhmmm", to a confused "But why?", to a dismissive "That doesn't make sense."
 
-I'm introducing this idea of Cornerstones of Social Justice Dogma (SJD) to help us make sense of the things a lot of us notice that make us say "that doesn't make sense."
+I'm introducing this idea of cornerstones of SJD to help us make sense of the things a lot of us notice that make us say "that doesn't make sense."
 
 Because it's not helpful to say "that doesn't make sense." Or maybe it is helpful. I suppose we could debate that.
 

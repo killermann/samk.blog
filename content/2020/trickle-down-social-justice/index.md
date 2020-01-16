@@ -66,7 +66,7 @@ What I mean is that the policies of Trickle-down social justice aren't discussed
 
 "_Of course_ having a marginalized person in that position of power is better for marginalized people."
 
-And this is where social justice dogma (SJD) enters the picture, because questioning that fact isn't advisable. "Are you sure? How do you know? What evidence do you have that confirms that theory?", would all be heretical questions.
+And this is where [social justice dogma](/what-is-social-justice-dogma/#definition) (SJD) enters the picture, because questioning that fact isn't advisable. "Are you sure? How do you know? What evidence do you have that confirms that theory?", would all be heretical questions.
 
 This isn't a "theory" within social justice so much as gravity is a theory: it's real, you feel its pull everywhere you go, and you act as though it isn't real at your own peril.
 

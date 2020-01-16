@@ -32,7 +32,7 @@ Hopefully, those reactions are sufficiently ridiculous that you can't imagine yo
 
 That said, if any one of those four _is_ how you'd typically respond in that situation, the rest of this post is going to be really frustrating for you. Consider yourself warned. (I'm also sorry for everyone involved in your dining life.)
 
-And just so we're all on the same page, before I start connecting dots between taco trucks and Social Justice Dogma (SJD) -- _betcha you saw that coming_ -- I'm going to briefly explain what is ridiculous about each of those replies.
+And just so we're all on the same page, before I start connecting dots between taco trucks and [social justice dogma](/what-is-social-justice-dogma/#definition) (SJD) -- _betcha you saw that coming_ -- I'm going to briefly explain what is ridiculous about each of those replies.
 
 **The first reaction** is mistaking pushback to a particular idea within a larger plan, as pushback to the plan itself. You'd be saying, "If you aren't 100% supportive of every aspect of this, you must be 0% supportive of it."
 

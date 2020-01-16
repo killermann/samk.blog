@@ -1,6 +1,7 @@
 ---
 title: What's Social Justice Dogma? (Start Here)
 excerpt: I've written a lot about it. And other people have too. Here's a list of articles to get acquainted.
+description: The set of beliefs, stances, and acceptable actions laid down by the authorities within the social justice movement that we hold as incontrovertibly true.
 author: Sam Killermann
 type: post
 date: 2020-01-15T22:29:11-06:00

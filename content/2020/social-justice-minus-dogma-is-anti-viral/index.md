@@ -25,7 +25,7 @@ I've also created lots of firecrackers. Resources, essays, websites, and more th
 
 And this has certainly not been that.
 
-What has happened with the content I've created about Social Justice Dogma (SJD) has been different from either of those outcomes. It's not been a dud. And it's not gone viral. But it has been _kind of_ both those things, and at the same time the opposite of both of those things. It's in some third, hard-to-name bucket: it's popularly unpopular. It's anti-viral. It's _weird_.
+What has happened with the content I've created about [social justice dogma](/what-is-social-justice-dogma/#definition) (SJD) has been different from either of those outcomes. It's not been a dud. And it's not gone viral. But it has been _kind of_ both those things, and at the same time the opposite of both of those things. It's in some third, hard-to-name bucket: it's popularly unpopular. It's anti-viral. It's _weird_.
 
 I can explain.
 

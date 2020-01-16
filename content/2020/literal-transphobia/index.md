@@ -178,7 +178,7 @@ Because of the [siloification within social justice](https://www.itspronouncedme
 
 We've become quite exacting when it comes to not not being persuaded by, or even having relationships with, conservative people, or people who aren't in favor of social justice. That's a tenet of the social justice dogma that has reached most of us: don't trust outsiders.
 
-And at the same time, social justice dogma (SJD) provides a lot of reasonable answers to why people have started to be literally transphobic. I'll walk through three.
+And at the same time, [social justice dogma](/what-is-social-justice-dogma/#definition) (SJD) provides a lot of reasonable answers to why people have started to be literally transphobic. I'll walk through three.
 
 For one, SJD says that it's oppressive to question victims, but only victimhood that works within [the social justice power inverse](https://www.itspronouncedmetrosexual.com/2019/03/the-social-justice-power-inverse/). A dominant group member isn't a valid victim, or at least their victimhood is totally up for question.
 
