@@ -17,6 +17,8 @@ You're welcome to just poke around. The main sections I divide my writing here i
 - [Technolophizing](/categories/technolophizing/): examining the ways technology contributes to, and gets in the way of, our lives
 - [Adventravel](/categories/adventravel): missives from my adventures around the world, immersed in other cultures, highlighting my favorite style of travel
 
+**I'm currently writing a book about dogmatic activism, and if you want to read along you can do so by [following the SJMD topic](/topics/sjmd-book), [starting here with a curated list of articles](/what-is-social-justice-dogma), or [joining the mailing list](https://bit.ly/sjmdbook).**
+
 I also tend to write a lot of the following vibes:
 
 - [How-To](/topics/how-to/): detailed instructions for doing a [new] thing, or a walkthrough of how I do it.
