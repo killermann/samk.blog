@@ -168,7 +168,7 @@ If you follow the right Twitter feed, or Facebook page, or social-justice-orient
 
 What I'm saying is there is no shortage of new oppression to point out. What I'm not saying is that sites -- or us as a movement -- are "manufacturing" this oppression. Nor am I really saying it's "new" -- but it's new to you, and once you see it, it's hard to unsee it, and you're bound to see it everywhere.
 
-On an average day, you might stumble upon 7 New Ways You Didn't Know You Were Being Oppressed before lunch. And another two dozen ways you were perpetuating it.
+On an average day, you might stumble upon 7 New Ways You Didn't Know You Were Being Oppressed before lunch. And another two dozen ways you're perpetuating it.
 
 Then you'll see one of those thirty-one things in the wild (which won't take long, because the world is an oppressive place, and you have _thirty-one_ new ways of noticing that), and you'll be hearing SJD on your shoulder saying either "Point this out or you're a bad person" or "If you point this out you're a good person!", and all of a sudden you're _That Person._
 
