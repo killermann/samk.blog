@@ -56,7 +56,8 @@ Further, it's important to note that this heuristic is deployed across parties a
 
 It’s actually something many conservatives, particularly the more modern, young, or tech-savvy ones, have perfected. There’s a booming industry of “owning the libs” — in apparel and products and entertainment and “news” — and business is good. And this isn’t even a secret.
 
-Of his ability to effectively exploit his followers' hatred of “social justice warriors,” Jordan Peterson said:  
+Of his ability to effectively exploit his followers' hatred of “social justice warriors,” Jordan Peterson said: 
+
 > “I’ve figured out how to monetize social justice warriors. I’m driving the social justice activists in Canada mad because, if they let me speak, then I get to speak. And then more people support me on Patreon. It’s like, “god damn capitalist, he’s making more money off of this ideological warfare. Let’s go protest him.” So they protest me. And that goes up on YouTube. And my Patreon account goes _way_ up.”
 
 Publicly. He said this _publicly_. In an interview his followers (i.e., Patreon funders) were meant to be watching, not caught on a hot mic. 
