@@ -82,7 +82,7 @@ The essay I wrote on Friday, which I still haven't published (and maybe never wi
 
 I found myself struggling to answer, "What can I write that, as a White person doing social justice, doesn't put me on the MLK Day chopping block?" 
 
-And simulteously thinking, "This whole 'MLK Day chopping block' thing is ringing with social justice dogma, but now's _obviously_ not the right time to talk about it."
+And simultaneously thinking, "This whole 'MLK Day chopping block' thing is ringing with social justice dogma, but now's _obviously_ not the right time to talk about it."
 
 I ended up, as anyone who has been following along closely realized, not publishing anything. Not that essay, and no others, all throughout the weekend and MLK Day itself.
 
