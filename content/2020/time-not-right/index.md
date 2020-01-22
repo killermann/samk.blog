@@ -46,6 +46,8 @@ I started dipping my toes in the water of talking about these things, knowing th
 
 Two years later, about a month ago now, I was sitting with a similar regret. In the two years past, I [had been talking about SJD more publicly](/talking-about-social-justice-dogma-is-anti-viral) than ever before, but I was doing so prudently. Cautiously. Slowly. Trying my best not to cross any lines that couldn't be uncrossed.
 
+I was living in the reality of being back in the almost that exact same political moment, with all the same party political pressures and accusations and alliances and dogma running rampant -- even most of the names are the same. Watching history repeat itself.
+
 This hesitant approach did me no obvious favors. I had speaking and performing offers rescinded, was asked to step down from leadership roles in non-profits and to distance myself from some colleagues and former collaborators.
 
 I can't say for sure what would have happened had I jumped in fully, instead of toeing the waters -- whether it would have been catastrophic or not too dissimilar from where I am now. 
