@@ -90,7 +90,7 @@ I didn't feel like the time was right to talk about it. It still probably isn't.
 
 ***
 
-A friend of mine -- whom I'm going to write about here vaguely enough that if _you read this you, you might know this is you, but you won't be sure-sure, so it won't feel like I'm implicitly calling you out_ (but if you feel that way, text me!) -- has been in a long struggle with this "the time's never right to talk about social justice dogma" thing.
+A friend of mine -- whom I'm going to write about here vaguely enough that if _you read this, you might know this is you, but you won't be sure-sure, so it won't feel like I'm implicitly calling you out_ (but if you feel that way, text me!) -- has been in a long struggle with this "the time's never right to talk about social justice dogma" thing.
 
 They noticed years ago the ways I was treated in social justice activist and educator circles were different from them -- and not _good_ different -- because they hold germane marginalized identities (that are, if you'll pardon the ironic phrasing, _prioritized_ marginalized identities) parallel to some of my dominant group ones. 
 
