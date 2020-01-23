@@ -65,7 +65,7 @@ Most of the time it's just [the water](https://www.youtube.com/watch?v=8CrOL-ydF
 
 We live without any real sense of a safety net below us. Almost half of Americans are [one missed paycheck away from poverty](https://www.cbsnews.com/news/40-of-americans-one-step-from-poverty-if-they-miss-a-paycheck/). But hey -- look on the bright side, the average American is also a mere 613,308 paychecks away from being a billionaire. 
 
-(Just be patient, and in about 5,897 years you'll get there, bud! Assuming your cost of living is $0. Oh wait! It's not. That's what I was talking about before I got lost on this tangent.
+(Just be patient, and in about 5,897 years you'll get there, bud! Assuming your cost of living is $0. Oh wait! It's _very_ not. That's what I was talking about before I got lost on this tangent.)
 
 The reality we live in is have money, or die. 
 
