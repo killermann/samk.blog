@@ -289,7 +289,7 @@ It's good that when a dominant group member is being paid to do social justice w
 
 **What I am saying** is that in the pursuit of living social justice, that same lens will benefit us in all situations involving money, particularly those where there's a clear imbalance of economic power. And if we're buying what we're selling, nobody is more vulnerable to being exploited by economic power than the most societally-marginalized people.
 
-Even if we ignored the ways "pay marginalized people to do social justice" pushes up against other social justice truisms (e.g., it shouldn't rest on the shoulders of the oppressed person to undo their own oppression), and we [believed that social justice trickled down](/trickle-down-social-justice) -- and I'm advocating we do either of those things -- we're still on shaky ground. 
+Even if we ignored the ways "pay marginalized people to do social justice" pushes up against other social justice truisms (e.g., it shouldn't rest on the shoulders of the oppressed person to undo their own oppression), and we [believed that social justice trickled down](/trickle-down-social-justice) -- and I'm not advocating we do either of those things -- we're still on shaky ground. 
 
 To sum it up crudely: We're trusting those with power to not exploit those without it. Worse: we're cheering them on.
 
