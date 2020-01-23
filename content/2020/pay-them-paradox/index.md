@@ -15,9 +15,9 @@ topics:
 
 Did you ever play that game when you were younger where you ask "How much money would it take for you to do this gross thing?"
 
-"Would you eat that bug for $100?", your friend might have asked.
+"Would you eat that bug for $100?" your friend might have asked.
 
-"Ew, gross! No way!", you would have said (I'm assuming you were a stereotype in an after school special).
+"Ew, gross! No way!" you would have said (I'm assuming you were a stereotype in an after school special).
 
 Then your friend counters, "What about $200?" 
 
