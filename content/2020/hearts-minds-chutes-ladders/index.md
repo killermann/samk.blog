@@ -146,14 +146,51 @@ In social justice, and in H&M activism broadly, the main incentives that show up
 
 And we'll often use sticks, or punishments, to reinforce our H&M activism. If you _don't_ believe this, or think this, we'll make you regret it. Either socially, or legally, or a little bit of both.
 
+## Perverse Incentives
+
+One of the most deranged examples of a byproduct of H&M activism (with a little [Enemy of Your Enemy](/enemy-of-your-enemy) sprinkled in) is ["Rolling Coal."](https://en.wikipedia.org/wiki/Rolling_coal) This example doesn't come from within the "social justice" camp, but from the anti-environmentalists.
+
+What "Rolling Coal" is, in short, is people modifying their trucks to be _less_ fuel efficient and to produce _more_ pollution. The result is an opaque cloud of black smoke pouring out of the exhaust of the vehicle when it accelerates. Intentionally. And -- I wish I was making this up -- people literally thousands of dollars to do this.
+
+Living in Texas, I learned about this by seeing it. If you've never witnessed the atrocity first-hand, take my word for it: this is a real thing. 
+
+It's sad to see for two reasons: it's disgusting, and the people doing it are clearly suffering. It makes my heart ache for the planet, as well as for the practitioner's wellbeing (and the wellbeing of everyone in their life, who they have a direct impact on).
+
+I'd peg this practice directly to a backfiring of H&M environmental activism. People being told they should care about pollution and global warming and buy a hybrid and they're bad if they don't snapped, and this health crisis on wheels came out of the rubble.
+
+It's also a _form_ of H&M activism itself. It's completely impractical, expensive, dangerous, and in some places illegal. It shows when our hearts and minds are properly activated -- it doesn't matter what the external ramifications are, the cost, or the risk -- we can do terrific things.
+
+## Incentivizing the Wrong Things
+
+On the socially-just side of H&M activism, we often (accidentally) create structures of incentive and punishment that hinder progress toward our own goals. Because H&M doesn't require us to think about C&L, its easy for us to slip into creating "true believers" instead of just outcomes.
+
+Any time someone says something like, "It doesn't matter if it's hard, it's important," you can see this is a bright red flag.
+
+Or "If it feels easy, it means you don't care enough."
+
+"This work has to be difficult. That's how we know we're on the right path."
+
+These statements are all highlighting the correct ways to _feel_, or how we're supposed to _think_, and holding those outcomes up as priorities over the outcome of the work itself. They're saying, in a sense, "It doesn't matter if we're accomplishing anything, or making progress; it matters that your heart and mind is in the right place."
+
+And while sometimes the sentiments contained in those statements are reflections of reality, they also indicators that we might be engaging in two forms of activism simultaneously: H&M for our cause, and C&L against it.
+
+It's more than just in how we're supposed to think and feel that our incentives might be misaligned with our outcomes.
+
+Another way we're accidentally creating problems while solving them, is when we create punishments for not thinking what we think, or believing what we believe. This is true regardless of whether the punishments are formal (e.g., laws, fines, jail, prison) or informal (e.g., ostracizing, shaming, bullying, physical or verbal abuse).
+
+As soon as we're hurting someone, or throwing someone in jail to let the state do our hurting (or even advocating for that, which is a popular chant in carceral feminism), we've created another thing we need to heal before we're living social justice.
+
+We're creating problems to solve while "solving" others, [justifying injustice on the path to social justice](https://www.itspronouncedmetrosexual.com/2019/05/justifying-injustice-for-social-justice/).
+
+## C&L Aligns Incentives
+
 C&L isn't about punishing people for doing the "wrong" thing, or outlawing behaviors in general, it's about aligning incentives with the types of things we want to see more of in society.
 
 In C&L activism, it doesn't matter what a person, group, or organization thinks or believes, we are simply trying to motivate them to act in certain ways we deem beneficial. If we want to encourage a behavior, we make it easier to do it, and more beneficial for anyone who is doing it. The rewards are extrinsic, and C&L doesn't rely on altruism.
 
-We make something that we want to see happen appealing, then reward as many barriers, costs, and risks associated with it as we can.
+We make something that we want to see happen appealing, we create rewards for doing it, then remove as many barriers, costs, and risks associated with it as we can. _We create a chute._
 
-Conversely, if there's an action we don't want to see, we make it unappealing, or construct barriers, increase costs, or highlight risks associated with it.
-
+Conversely, if there's an action we don't want to see, we make it unappealing, or construct barriers, increase costs, or highlight risks associated with it. _We build a ladder._
 
 ## They're Complementary
 
