@@ -30,7 +30,11 @@ Here's a definition:
 
 > **Chutes & Ladders Activism** is the process of arranging some things in society to be easier (chutes) and other things in society to be more difficult (ladders), with the goal of making desirable things chutes, and undesirable things ladders.
 
-Ladders slow you down, take energy and effort to climb. Chutes (slides) are effortless, fast, and fun.
+Ladders slow you down, take energy and effort to climb, require hands _and_ feet, and if I've seen enough 90s movies to know that one misstep and the whole thing is falling backwards on you (scary!).
+
+Chutes (slides), on the other hand are effortless, you only need a butt, are literal slippery slopes, effortless, easy, and fun (weeeeee!).
+
+!["Chutes vs. Ladders comparison visualized with those same pros and cons"](chutes-vs-ladders-1200.jpg)
 
 What kind of "things" are in play here? Everything!
 
