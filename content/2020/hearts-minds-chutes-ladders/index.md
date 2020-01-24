@@ -1,6 +1,6 @@
 ---
 title: Less "Hearts & Minds" More "Chutes & Ladders"
-excerpt:
+excerpt: Maybe changing up the paradigm of social justice activism is what we need.
 author: Sam Killermann
 type: post
 date: 2020-01-23T15:51:41-06:00
