@@ -18,7 +18,7 @@ For as long as I've been doing social justice activism, we've operated within th
 
 You've surely heard of "Hearts and Minds" activism. Even if not, you've definitely participated in it, whether on the changing or being changed side of things. It's so universal you might not have even thought of it as a _paradigm_ at all, but simply as "activism."
 
-You've probably never heard of "Chutes and Ladders" activism, however, which is totally okay: I'm making it up right now. But maybe you've heard of the game -- or, better, played it yourself. In that case, you'll have a head start. In any case, I'm excited to explain what it is.
+You've probably never heard of "Chutes and Ladders" activism, however, which is totally okay: I'm making it up right now. But maybe you've heard of the game. In that case, you'll have a head start (but the rules in my game are different, so be warned). In every case, I'm excited to explain what it is.
 
 I'll start with that.
 
