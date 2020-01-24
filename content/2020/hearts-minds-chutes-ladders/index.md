@@ -146,7 +146,7 @@ In social justice, and in H&M activism broadly, the main incentives that show up
 
 And we'll often use sticks, or punishments, to reinforce our H&M activism. If you _don't_ believe this, or think this, we'll make you regret it. Either socially, or legally, or a little bit of both.
 
-## Perverse Incentives
+### Perverse Incentives
 
 One of the most deranged examples of a byproduct of H&M activism (with a little [Enemy of Your Enemy](/enemy-of-your-enemy) sprinkled in) is ["Rolling Coal."](https://en.wikipedia.org/wiki/Rolling_coal) This example doesn't come from within the "social justice" camp, but from the anti-environmentalists.
 
@@ -160,7 +160,7 @@ I'd peg this practice directly to a backfiring of H&M environmental activism. Pe
 
 It's also a _form_ of H&M activism itself. It's completely impractical, expensive, dangerous, and in some places illegal. It shows when our hearts and minds are properly activated -- it doesn't matter what the external ramifications are, the cost, or the risk -- we can do terrific things.
 
-## Incentivizing the Wrong Things
+### Incentivizing the Wrong Things
 
 On the socially-just side of H&M activism, we often (accidentally) create structures of incentive and punishment that hinder progress toward our own goals. Because H&M doesn't require us to think about C&L, its easy for us to slip into creating "true believers" instead of just outcomes.
 
@@ -182,7 +182,7 @@ As soon as we're hurting someone, or throwing someone in jail to let the state d
 
 We're creating problems to solve while "solving" others, [justifying injustice on the path to social justice](https://www.itspronouncedmetrosexual.com/2019/05/justifying-injustice-for-social-justice/).
 
-## C&L Aligns Incentives
+### C&L Aligns Incentives
 
 C&L isn't about punishing people for doing the "wrong" thing, or outlawing behaviors in general, it's about aligning incentives with the types of things we want to see more of in society.
 
