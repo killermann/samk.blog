@@ -115,6 +115,29 @@ And that's something we need to be able to do, to create more opportunities to d
 
 By contrast, for C&L to work well, you need to be _sure_ you know where you are heading.
 
+## Chutes & Ladders (& Roadblocks, & Pitfalls) Are Already Everywhere
+
+Regardless of what paradigm of activism we're engaging in, or whether we're doing activism or just existing, society is already full of these constructions:
+
+- **Chutes**: Everything we do that's made effortless by society.
+- **Ladders**: The arduous paths we take to move forward.
+- **Roadblocks**: Impasses, dead-ends, and other things obstructing our ability to move forward.
+- **Pitfalls**: Painful repercussions for taking the wrong step, spike traps that impale you, big _Indiana Jones_ vibes.
+
+H&M activism is full of roadblocks and pitfalls. We often frame social justice activism as being about removing barriers (roadblocks), and when we mess up, say or do or think or believe the wrong thing, we might stumble into a pitfall (ouch).
+
+And a lot of what we do in our day-to-day lives is either chutes or ladders. Going to the DMV (or wherever you get your driver's license) is a ladder. Renewing your license online is a chute.
+
+Moving into C&L activism isn't a shift from us going from a place where we aren't creating chutes and ladders (and roadblocks and pitfalls) to a place where we are; it's a shift in intentionality.
+
+We're already living in a complicated world where some things are difficult and others are easy. Right now, a lot of the things we want people to be doing are difficult, and the things we _don't_ want them doing are easy.
+
+H&M tries to overcome that by showing people the error of their thinking, or convincing them to care enough, such that they ignore the chute right in front of them, and instead take the time and energy to climb the ladder (and risk falling into a pitfall). 
+
+C&L activism says "What if doing the right thing was obvious and easy?" 
+
+Less department of motor vehicles. More water park.
+
 ## It's All About Incentives
 
 My idea for Chutes & Ladders was inspired by the writing and research of [Daniel Kahneman](https://www.goodreads.com/author/show/72401.Daniel_Kahneman). The beauty of C&L, to me, is that it forces us to think clearly and strategically about what incentives we are creating in society, and the downstream effects of those incentives.
@@ -130,6 +153,7 @@ In C&L activism, it doesn't matter what a person, group, or organization thinks 
 We make something that we want to see happen appealing, then reward as many barriers, costs, and risks associated with it as we can.
 
 Conversely, if there's an action we don't want to see, we make it unappealing, or construct barriers, increase costs, or highlight risks associated with it.
+
 
 ## They're Complementary
 
