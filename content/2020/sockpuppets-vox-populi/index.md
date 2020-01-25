@@ -1,6 +1,6 @@
 ---
 title: Sockpuppets and the Vox Populi of Identity
-excerpt: I can't speak for anyone else, but
+excerpt: I can't speak for anyone else, but.
 author: Sam Killermann
 type: post
 date: 2020-01-24T17:28:32-06:00
