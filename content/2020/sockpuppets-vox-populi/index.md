@@ -163,7 +163,17 @@ But otherwise, we really have to figure things out for ourselves.
 
 And that's the third snafu: beyond our personal account, and what the people we trust say, there's no _absolutely_ true source of information we can fall back on in every situation, definitely not one that's easy to access.
 
-## The Death of the Vox Populi
+## How We Resolve the Snafus: Vox Populi and Sockpuppets
+
+There are two common practices we've come to rely on in activism in order to still report on identity-based opinions, or to share the voice of an entire group. 
+
+Both are things that I think are worth us understanding, if for no other reason than we can put a spotlight on them when we see them in action. But also because I think a lot of us end up doing these things ourselves, without knowing _exactly what_ we're doing, or the implications of these tactics.
+
+To be absolutely clear: I don't think either are these are "best" practices. They're not tactics I'm advocating for, and I don't think they're moving us close to living social justice.
+
+I'm guessing this next subheading will make that obvious.
+
+### The Death of the Vox Populi
 
 That heading might be more aspirational than reflective of reality, because in a lot of ways I think we're in the midst of a resurgence of the Vox Populi. I wish for the death of the Vox Populi.
 
@@ -219,7 +229,7 @@ With that in mind, #4 above, the one you probably thought I was sprinkling in to
 
 Let's make this worse!
 
-## Enter Sockpuppets
+### Enter Sockpuppets
 
 If you know the word "sockpuppets" to mean putting your hand inside of a sock, then making it talk, you're on the right track.
 
@@ -289,7 +299,7 @@ So when someone says, "People of Color feel..." it doesn't matter what the rest 
 
 And here's where the Balthazar analogy becomes disconcertingly apt: if you disagree, you're not disagreeing with _them_ (the speaker, the person sharing the Voice of the People), you're disagreeing with the group they are speaking on behalf of.
 
-## Vox Populi and/or Sockpuppets Resolve Any Snafu
+### Vox Populi and/or Sockpuppets Resolve Any Snafu
 
 The snafus above, which I'll recap here, all feed into one other, and cascade from a series of questions without answers to a resolution.
 
@@ -311,7 +321,7 @@ So a lot of us ignore those snafus, and (in the least sinister, most benevolent 
 
 And then we Sockpuppet the answer.
 
-## Never Wrong, Never Needing to Be Right
+### Never Wrong, Never Needing to Be Right
 
 The potency of both the Vox Populi and the Sockpuppet is that with both -- whoever _you_ are (all I know is you're not Balthazar, which, I think is a disappointment to both of us) -- you aren't wrong. You're also not right. You're not really the subject of criticism or debate or disagreement at all.
 
@@ -354,9 +364,19 @@ If the pushback is coming from a marginalized person, you can dismiss it with a 
 
 And in general, people often just say the Populi of their Vox is wider or more representative, or they Sockpuppet a representative of the identity that has more clout.
 
-## I don't know.
+### I don't know.
 
-If unrepresentative voices of the people or impersonating the voices of identities aren't something that excites you, the beauty is that there is always an out: when you don't know, say "I don't know."
+Going way back to the beginning of all this, when we're being asked by a reporter to share our perpective as representatives of our identity, how should we respond?
+
+I don't know. I really don't.
+
+What I do know is that regardless of what we say, or how carefully we word things, the caveats we issue, and the amount of "I" language we use, the result will likely reported as: "______ people believe ______."
+
+And even if that's not the headline, it's the way it'll get shared, retold, and used. Either through the practice of Vox Populi, or a simple Sockpuppet, it will go from "one person who is this identity said this," to "people who identify this way feel this way." 
+
+For me, unrepresentative voices of the people aren't the goal, nor something I want to share. And impersonating the voices of identities isn't something that excites me. Maybe you feel the same.
+
+The beauty is that there is always an out: when you don't know, say "I don't know."
 
 "Is this thing caused by ______-ism?" "Does being this identity make you more likely to do that?" "Are people who were born in this way more likely to feel this way about that?"
 
@@ -367,3 +387,9 @@ But when it's honest, it's not _just_ the honest response, it's a path to findin
 Feeling the need to know is a byproduct of [hearts and minds activism](/hearts-minds-chutes-ladders) as much as SJD, among other things. 
 
 Saying "I don't know" when you don't know, is placing an inviting chute on our path to figuring out the path forward.
+
+When you don't know, and you admit that, you begin a conversation where all the involved members have equal footing. Where people are able to share their insights, their perspectives, what's true for them.
+
+And who knows, maybe you'll figure out the answer together. 
+
+I don't know, but I have a hunch.
