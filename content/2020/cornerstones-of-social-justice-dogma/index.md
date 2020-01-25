@@ -115,7 +115,7 @@ And whenever someone tries to pull something out of that bucket, "Hey y'all! I d
 
 ### Shoot the Messenger
 
-Where the _Seconded Law_ was all about the things we're noticing, and how we are allowed (or not) to see them -- the What. This one is about the  Who_.
+Where the _Seconded Law_ was all about the things we're noticing, and how we are allowed (or not) to see them -- the What. This one is about the _Who_.
 
 (Not the band. They're great, and I think they're safe. Although, now that I think about it, "Pinball Wizard" would probably land them in the bucket... Oh no -- did I just put The Who in the bucket?)
 
