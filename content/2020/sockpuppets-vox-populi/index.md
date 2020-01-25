@@ -179,7 +179,7 @@ Vox Populi has experienced a renaissance with social media, where instead of put
 
 This is great for any outlet publishing Vox-Populi-type stories for a bunch of reasons:
 
-1. The number of people "on the street" increased from "I'm not sure. It's hot out today. People might not want to walk." to literally millions, and they're guaranteed to be on the street. They were already there before you got out there.
+1. The number of people "on the street" increased from "I'm not sure. It's hot out today. People might not want to be outside, especially people who have complicated relationships with shorts." to literally millions across social media, and they're guaranteed to be on the street. They were already there before you had the idea for the story.
 2. The media outlets don't need to go outside. Actually, they don't even need to be in the same city as the people they're talking to, or even country. So no camera crew, no van, just a [probably unpaid] intern searching Twitter.
 3. They can search for the keywords they want to report. Want to know what the Vox Populi think about this politician's latest gaffe? Search the politician's name and a keyword describing the gaffe and boom: So much vox, much populi.
 4. They can tell _exactly_ the story they want to tell. With enough voices, and diversity of viewpoints, you can pretty much assume that every take has been shared about any issue. This is where things get dark, but not much more dark than before. They've always been able to edit out the people they didn't want to hear from, but now they can include _exactly_ the voice they _want_ to hear from.
