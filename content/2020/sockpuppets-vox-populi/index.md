@@ -14,43 +14,72 @@ topics:
 - Activism
 ---
 
-Here we go again. Oh no -- I just did it again. "We." Sorry, everyone. I didn't mean to "We" you people. Not "you people," as in _you people_, I mean I didn't mean to _we_ you, people. You're different people. Not that you're _different_. I mean, we're _all_ different. Damnit! I did it _again_. Me! Not we! Just me.
+Imagine you're in a situation where a reporter is asking you a question regarding a social identity you hold (e.g., your race, gender, class, religion). They're working on a story covering a certain dimension of that identity's experience in the world, and looking for a quote from you.
 
-Anyway, what was I saying?
+Now, if they've kept up with social justice, they know that [they can't ask you to be a Spokesperson for All of Your Identity](https://www.samkillermann.com/passing-the-mic/#don-t-make-a-marginalized-person-the-spokesperson-for-their-people) ("Move out of the way, I, or you can call me 'What Poor People Think', have arrived!"). 
 
-Oh yeah, you asked me a question about a group identity I hold, and you wanted me to speak to that experience.
+You'll also know that you can't speak for other people, even people of who share that identity with you. And if you're following [social justice dogma](/what-is-social-justice-dogma/#definition) (SJD), you'll likely be wanting to [pass the mic](/passing-the-mic/) to someone more oppressed anyhow.
 
-But I know I'm not allowed to speak for all of my people. And you knew that, too, so you didn't ask me to. Thanks, by the way! You wouldn't ask me to hop on a soapbox with my identity label. You know better than that nowadays. Good on you.
+A savvy journalist will know all this, and they'll frame their questions with language like "In your personal experience..." and "I'm not asking you to speak for other people, I just want to know what _you_ think."
 
-Instead, you asked me to speak, to _my_ experience, as a person who _just happens_ to be a member of this group. Very clever, I have to admit. 
+What they're struggling to do, and hoping you'll help them with, is figure out a basically-unsolvable puzzle: "How do ______ people feel about ______?" Where the first blank is a social group, and the second is a current issue or hot-button topic.
 
-And how progressive of you. You know better than to put me in a bucket, and present that bucket to the world as a monolith of all my people. What's your headline going to be, anyhow? I forgot what you're interviewing me about.
+And they have a deadline. _They need to write that answer today_, so they'll find an answer even if you're not the one who gives it to the.
 
-"Poor person rambles through introduction of essay", you say? Oh, no? That's not it? I misheard something? What a relief, because that sounds kind of like the thing we were just talking abou--
+What's the best way for you to respond?
 
-"Poor _people_ ramble through introductions of essays."
+## Three Snafus in Identity-Based Opinion Sharing
 
-Oh.
+The hypothetical journalist who was interviewing you for the beginning of this piece was [well-intentioned, and I think that’s worth something](/ceasefire-on-intentions). But they still wanted to know how you felt as a representative of your “group,” so they could report on how that group feels. 
 
-## You Got Me
+It happens all the time. And not just in formal journalism.
 
-Technically, anything I say or do could be taken as a representation of any of my group memberships, social identities, or immutable traits. If you see me doing something, and you know something about me, it'd be accurate to say "Hey! Look at Sam, he's a ______ person who ______!" 
+That journalist asking those questions can stand in for a lot of people in Social Justice Land beyond journalists: writers, politicians, non-profit leaders, educators, and, of course, activists.
 
-- He's a White person who has complicated feelings about wearing shorts!
+These days, a lot of us find ourselves in a role similar to that of a journalist in our day-to-day lives. Whether it's for work, a hobby, or just something we're passionate about, we're out in the world collecting the facts. 
+
+When we feel like we've found a truth worth sharing, we publish it in our own little newspaper, which might be or Facebook or Twitter feed (or other social media), a blog, or just by spreading the word via email or talking to real humans IRL. 
+
+It's like we all have our own opinion column, where we might share our insight on the [rage du jour](/rage-du-jour/), or the latest [hot take](/hot-take-dinners/) on some buzzing issue.
+
+If we’re a [social justice person](https://www.itspronouncedmetrosexual.com/2018/03/taxonomy-social-justice-people/), then a lot of the facts that we’re finding ourselves reporting on are related to group identities, the experiences of marginalized people, and doing our best to motivate the [hearts and minds](/hearts-minds-chutes-ladders/) of the people in our life to care.
+
+Sometimes that means sharing with others a perspective on an identity we hold. Expressing ourselves to help educate or inform others. And sometimes that means amplifying the voice of someone else, or shedding light on the oppression of others.
+
+All the times, we do our best to get the facts, and get them right. And, simultaneously, we are trying not to reify oppression, and toe the line of social justice dogma, so we’re cautious about how we ask questions, and how we report on what we hear.
+
+So we end up reporting things like, "People of Color don't want ______," or "It makes women feel unsafe when you ______." But we have misgivings about it. We know that [no group is a monolith](https://www.samkillermann.com/passing-the-mic/#marginalized-people-aren-t-a-monolith).
+
+There are two competing forces pushing and pulling us every time we want to share some identity-based truth:
+
+1. We know that no person can speak for their entire group, and that asking them to do so is frowned upon in social justice.
+2. We are constantly put into situations where we need to amplify marginalized so people in power can hear them, and [the suffering](/suffering-points/) of a group can be seen and rectified.
+   
+If those competing forces feel confusing, it's because they are. And there are three snafus we run into when we try to find a clear way out.
+
+### Snafu 1: I'm not even sure about me.
+
+I'll use myself as an example here.
+
+Technically, anything I say or do could be taken as a representation of any of my group memberships, social identities, or immutable traits.
+
+If you see me doing something, and you know something about me, it'd be accurate to say "Hey! Look at Sam, he's a ______ person who ______!" 
+
+- He's a poor person who sneezes constantly during cedar allergy season!
 - He's a hazel-eyed person who ate too much hummus today!
-- He's a poor person who rambled through the introduction to this essay!
-
+- He's a White person who has complicated feelings about wearing shorts!
+ 
 It'd be weird to say those things, but not inaccurate. You got me. But it's more like a "gotcha" than "getting." You got me, but it doesn't mean you _get_ me.
-
-Further, taking those same technically-true facts and applying them to the rest of the people who share that identifier, would be a stretch:
-
-- White people have complicated feelings about wearing shorts.
-- Hazel-eyed people ate too much hummus today.
-- Poor people ramble through introductions of essays.
 
 To really _get_ me, you'd need to pick a trait and a behavior, preference, belief (etc.) that, to me, relate to one another. You'd have to find two things that, in my own experience, or my sense of self, are connected, or explain each other.
 
-For example:
+Taking this a little further, it would be a huge stretch to take any of those [technically true] statements and apply them to the rest of those groups:
+
+- Poor people sneeze constantly during cedar allergy season.
+- Hazel-eyed people ate too much hummus today.
+- White people have complicated feelings about wearing shorts.
+
+One of those, just by coincidence, might actually be true. I'm sure you know which one I mean:
 
 - White people have complicated feelings about wearing shorts.
 
@@ -60,53 +89,67 @@ Seriously speaking, what I'm saying is that there are some aspects of who I am a
 
 And, not to speak for you, but that's true for all of us.
 
+I, of course, was talking about the "poor people sneeze constantly during allergy season" example. That might be technically true, and we could figure out ways to connect the dots in a social justice sense (access to allergy drugs, nutrition, etc.), but, for me, it's not the reason. 
+
+I eat allergy pills like tic tacs, and have done everything I could this month in record-breaking [cedar-shaking](https://www.youtube.com/watch?v=favTwuRaAgI) central Texas, and I'm still over hear sneezing up a storm. That all goes to say that it's not a "poor" thing, for me.
+
 How do we know which is which? How do we know when a behavior, belief, preference, passion, comfort, or discomfort is connected to an aspect of our identity? As opposed to it just being a thing that we happen to have, or makes us an outlier?
 
-That friends, is snafu number one. Hang onto it while I introduce you to its buddies, after which I'll explain what this mysteriously-titled "Sockpuppet and Vox Populi" shtick is all about.
+That friends, is the epitome of snafu number one. Hang onto it while I introduce you to its buddies, after which I'll explain what this mysteriously-titled "Sockpuppet and Vox Populi" shtick is all about.
 
-## When The Getter Gets Got
+### Snafu 2: Who do we trust to speak for a group?
 
-The imaginary journalist who was interviewing me for the beginning of this piece was [well-intentioned, and I think that's worth something](/ceasefire-on-intentions/). But they still wanted to know how I felt as a representative of my "group," so they could report on how that group feels. It happens all the time.
+Building on the first snafu, if we're not sure, in our own experience, if something is connected to a dimension of our identity, or just a coincidence, how do when know when to trust someone else report that a thing an identity-level phenomenon?
 
-Truthfully, that imaginary journalist was standing in for a lot of different people. Journalists, for one, but also various figures who are concerned with asking people questions and sharing the answers broadly, including politicians, non-profit leaders, educators, and, of course, activists.
+We can't necessarily use the metric of "believe the marginalized person," because a lot of the time (all the time?) you can find two people holding the same marginalized perspective who have completely different takes on an issue.
 
-These days, a lot of us find ourselves in a role similar to that of a journalist.
+I don't do a lot of class or poverty-based activism, and one time I was riding in a car with a colleague I've written LGBTQ+ curricula with. We got an email from a poverty activist asking to adapt our curriculum, and in the email they included a little addendum that said something like:
 
-We're collecting the facts, then publishing them in our own little newspaper, whether that's on Facebook or Twitter (or other social media), a blog, or just spreading the word via email or talking to real humans IRL. We have an opinion column, we're responding to the [rage du jour](/rage-du-jour/), and we're always ready with a [hot take](/hot-take-dinners/).
+> "As poor people, we're constantly having our culture appropriated by middle- and upper-class people, so we wanted to double-check that this was okay with you, and not do the same thing to the LGBTQ community."
 
-If we're a [social justice person](https://www.itspronouncedmetrosexual.com/2018/03/taxonomy-social-justice-people/), a lot of the facts that we're finding ourselves reporting on are related to group identities, the experiences of marginalized people, and doing our best to motivate [the hearts and minds](/hearts-minds-chutes-ladders/) of the people in our life to care.
+I remember reading the email aloud, then turning to my friend and saying, "_We_ are?!" in response to the appropriation statement. Ostensibly, this person was speaking for me (they had included me, as a fellow poor person, in their "We"), and this was the first time I had heard of this thing that's apparently constantly happening to me.
 
-Sometimes that means sharing with others a perspective on an identity we hold. Expressing ourselves to help educate or inform others. And sometimes that means amplifying the voice of someone else, or shedding light on the oppression of others.
+The other implication in the email that tripped us up was that not only was this person being a representative of poor people, but they were asking us to be similar representatives of the LGBTQ community -- to grant permission on behalf of the LGBTQ community for the poor community to do this.
 
-All the times, we do our best to get the facts, and get them right. And, simultaneously, we are trying not to reify oppression, and toe the line of [social justice dogma](/what-is-social-justice-dogma/#definition), so we're cautious about how we ask questions, and how we report on what we hear.
+I made a joke to my bud that "My people" (The Poor) are seeking the grace of "Your people" (The Queer), and all we needed was the blessing of the Elves and we would be on our way to Mordor to end oppression once and for all.
 
-"Just because someone tells us something doesn't mean it's true," we remind ourselves, with our notebook and pencil in hand. 
+The funniest thing about this, to me, was that I didn't disagree with what the person was saying (about me, and "my" experience). I basically said, "They probably know better than me. They're doing poverty activism. I'm not."
 
-Depending on our knowledge of the subject in question, comfort with [pushback](/reacting-to-social-justice-pushback/), and experience working the beat (so to speak), we have a few fact-checkers at our disposal. But the simplest way we verify whether something is true or not is "Who's saying it?"
+And so it was written.
+
+As we're doing our journalism as activists, and trying to get the facts straight, we'll end up in lots of situations where there are multiple truths available. 
+
+Depending on our knowledge of the subject in question, comfort with [pushing back](/reacting-to-social-justice-pushback/), and our experience working that beat (so to speak), we have a few fact-checkers at our disposal. But the simplest way we verify whether something is true or not is "Who's saying it?"
 
 As long as they're a marginalized person, speaking from their own experience, we usually accept it as fact. 
 
 As a [power inverse](https://www.itspronouncedmetrosexual.com/2019/03/the-social-justice-power-inverse/) of the [Shoot the Messenger cornerstone](https://www.samkillermann.com/cornerstones-of-social-justice-dogma/#shoot-the-messenger) of SJD, this might be, "Trust all marginalized people."
 
-If they're a dominant group member, we'll either flag it as "plausible" and ask around to corroborate their reporting, or toss it out altogether, saying something like, ["Pass the mic."](/passing-the-mic/) Then we'll look for a marginalized person to speak from their own experience on the subject.
+If they're a dominant group member, we'll either flag it as "plausible" and ask around to corroborate their reporting (asking marginalized people to weigh in); or toss it out altogether, saying something like, ["Pass the mic."](/passing-the-mic/) Then we'll look for a marginalized person to speak from their own experience on the subject.
 
-The astute reader-factchecker will have already caught snafu number two. In case you missed it, here it is: Can we evaluate truth based on the identities someone holds?
+But how do we know when someone is speaking to a group experience, and not just their own personal experience within that group? And when we hear an identity-level truth claim, how do we know it's _that identity_ responsible, not another shared identity, or combination of things?
 
-## Getting the Full Picture
+That's snafu number two. One more.
+
+### Snafu 3: The data won't save us.
 
 When in doubt, we can always turn to the data. When we have access to really good data, and we're proud of that, we might even refer to them in the plural, so people _know we know_ what we're talking about.
 
-"Have you seen the data on that? They suggest otherwise."
+"Have you seen the data on that? _They_ suggest otherwise."
 
 (_Hot damn_ is that an "I have a master's degree"-level burn if I've ever seen one. "Hey! Look at Sam, he's a master's degree person who gets excited about data's subject-verb agreement!" Oh no that one is probably real.)
 
 If we're not sure if someone's individual account of reality is representative of others' accounts, we often turn to research. We'll search for statistics, hop on scholar.google.com if we're feeling fancy, or share the ones we already know.
 
-Often, other people will disagree with our data. Not just with the subject-verb agreement of them, but with their truthiness. Either because the datum in question conflicts with their firsthand account, or because they've seen other stats.
+Often, other people will disagree with our data. Not just with the subject-verb agreement of them, but with their truthiness. For a lot of reasons. 
+
+The datum in question might conflict with their firsthand account, or they've seen other stats, or they don't like the version of reality it describes so it must be wrong.
 
 ("Hey! Look at Sam, he's still going! 'Datum'?! More like 'Dayum! You know your singulars!'")
 
-When we end up in this situation, with conflicting data sources, we're in a tough spot. Sincerely. Good data are hard to come by, especially regarding people and issues marginalized by society. This gets trickier when we're talking about solutions for oppression, or strategies for living social justice -- because we can't know if those will work until the future.
+When we end up in this situation, with conflicting data sources, we're in a tough spot. Sincerely. 
+
+Good data are hard to come by, especially regarding people and issues marginalized by society. This gets trickier when we're talking about solutions for oppression, or strategies for living social justice -- because we can't know if those will work until the future.
 
 The truth is that we simply don't have a lot of data on things like the suffering experienced by people oppressed by society, the relationships between that specific suffering and specific pillars of society, or the efficacy of strategies to dismantle oppression. It'd be great if we did, but we don't. We're getting more and more every year, but we still don't have a ton.
 
@@ -118,7 +161,7 @@ If we want the simpler path, SJD still offers us some guidance. There are some d
 
 But otherwise, we really have to figure things out for ourselves. 
 
-And that's the third snafu: beyond our personal account, and what the people we trust say, there's no _absolutely_ true source of information we can fall back on, definitely not one that's easy to access.
+And that's the third snafu: beyond our personal account, and what the people we trust say, there's no _absolutely_ true source of information we can fall back on in every situation, definitely not one that's easy to access.
 
 ## The Death of the Vox Populi
 
