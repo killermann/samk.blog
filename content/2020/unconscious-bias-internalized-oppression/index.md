@@ -52,9 +52,13 @@ One note: they only work if you're doing them _in the name of_ social justice. Y
 
 This is because the power of these moves is derived from the [Cornerstones of SJD](/cornerstones-of-social-justice-dogma/), and they only exist in Social Justice Land.
 
-Related note: does this mean that this move is susceptible to an ["Enemy of Your Enemy"-type](/enemy-of-your-enemy/) counter-attack, where anti-social-justice people deploy the combo against social justice people, masquerading as activists and exploiting SJD? Yes, yes it does, and I've seen that happen in workshops and online, and it results in, to say the least, a fiasco.
+Related note: does this mean that this move is susceptible to an ["Enemy of Your Enemy"-type](/enemy-of-your-enemy/) counter-attack, where anti-social-justice people deploy the combo against social justice people, masquerading as activists and exploiting SJD? Yes, yes it does, and I've seen that happen in workshops and online, and it results in, to say the least, a fiasco.*
 
-More questions and answers about the two-punch combo:
+*I'm resisting sharing these examples here, because we might end up losing sight of the point. I just want you to know that this is like an onion: there are a lot of layers, and they get stinkier the deeper you go.
+
+***
+
+Because I know that this idea is likely to result in lots of questions (and maybe some accusations, because in writing this, I'm making myself totally vulnerable to the attacks above), let me try to anticipate a couple. Here are some more questions and answers about the two-punch combo:
 
 Are the concepts of unconscious bias and internalized oppression insightful, useful, and helpful in us moving toward living social justice? 
 
@@ -64,6 +68,26 @@ Is this a bad faith way to engage in conversations about important, complicated,
 
 It sure is!
 
-Might deploying these concepts in this way taint their usefulness, make it harder to discuss them in good faith ways, and end up getting in the way, in the long run toward living social justice?
+Am I advocating that people actually use these ideas in this way?
+
+I am certainly not. I'm a social justice advocate, _not_ a social justice _dogma_ advocate. I framed the above as a [satirical] SJD How-To for two reasons: (1) While this is a tactic that's being learned and utilized, it's never taught openly or directly, so giving "instructions" has the potential to highlight the cynicism more than just explaining this tactic; and (2) it was quicker this way, and this book is getting long af.
+
+So I'm advocating that people _don't_ use the two-punch combo?
+
+Yep!
+
+Deploying these concepts in the way described above -- using them as a two-punch combo of bad faith to shut down other people's perspectives, instead of as a good faith starting place for different conversations -- might even erode their usefulness in general. 
+
+It might make it more likely that people flinch when they hear the phrase "internalized oppression," or cover their ears when they hear "unconscious bias," because they've seen this move so many times before, and they think they know what's coming, so instead of listening, they prepare themselves for attack.
+
+Imagine you're a small boat sailing alone in the ocean. A big ship approaches, one like you've never seen before. A crew member shouts, "We're here to help!", then they board your ship and rob you of all your valuables. The next time you see a ship like that, how likely are you to trust they're there to help you? How long before you notice the common features of those ships (e.g., the mast, the sails, a black flag) and interpret them as signals to you that they don't mean you well, that you should run, or prepare whatever weapons you have to fight?
+
+Every time we deploy these tactics -- using "unconscious bias" and "internalized oppression" to sink other people's arguments, convince them they're wrong, or that they're even wrong for trying to argue -- we're launching a pirate ship into the seas. 
+
+And while other vessels certainly exist -- people who do mean well ([and intentions do matter!](/ceasefire-on-intentions)), that are carrying these same ideas not as weapons, but as tools and supplies for building a more just world -- their ability to do good is predicated upon other people's perceptions of their intent. If they see what the ship is carrying and think "Pirates!", nothing good is likely to accomplished.
+
+Here's the pirate ship analogy framed as a question: 
+
+If people frequently notice us using "unconscious bias" and "internalized oppression" in bad faith ways, to reject dissent and undermine opposition, does that make it impossible for us to use these concepts to do good?
 
 I hope not, because that ship might have already sailed.
