@@ -12,6 +12,7 @@ topics:
 - SJMD Book
 - Social Justice Dogma
 - Activism
+- List
 ---
 
 In the [Social Justice, Minus Dogma Course](https://course.sjmd.space), I created an entire topic about cognitive biases. A few years ago, one of the comedy shows I performed was all about them, and how they show up in social justice activism. I find the concept fascinating, and see examples of biases in action daily -- sometimes I notice myself acting upon them.
