@@ -70,7 +70,7 @@ It sure is!
 
 Am I advocating that people actually use these ideas in this way?
 
-I am certainly not. I'm a social justice advocate, _not_ a social justice _dogma_ advocate. I framed the above as a [satirical] SJD How-To for two reasons: (1) While this is a tactic that's being learned and utilized, it's never taught openly or directly, so giving "instructions" has the potential to highlight the cynicism more than just explaining this tactic; and (2) it was quicker this way, and this book is getting long af.
+I am certainly not. I'm a social justice advocate, _not_ a social justice _dogma_ advocate. I framed the above as a [satirical] SJD How-To for two reasons: (1) while this is a tactic that's being learned and utilized, it's never taught openly or directly, so giving "instructions" has the potential to highlight the cynicism more than just explaining this tactic; and (2) it was quicker this way, and this book is getting long af.
 
 So I'm advocating that people _don't_ use the two-punch combo?
 
