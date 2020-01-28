@@ -48,9 +48,11 @@ To explain what I mean, let me first share what I learned when I looked into the
 
 ### Perfidy!
 
-[Perfidy is](https://en.wikipedia.org/wiki/Perfidy) "a form of deception in which one side promises to act in good faith... with the intention of breaking that promise once the unsuspecting enemy is exposed." Does that sound familiar? If not, no worries, I'll connect the dots. First, one more bit of definition.
+[Perfidy is](https://en.wikipedia.org/wiki/Perfidy) "a form of deception in which one side promises to act in good faith... with the intention of breaking that promise once the unsuspecting enemy is exposed." 
 
-> "Perfidy constitutes a breach of the laws of war and so is a war crime, as it degrades the protections and mutual restraints developed in the interest of all parties, combatants and civilians."
+Does that sound familiar? If not, no worries, I'll connect the dots. First, one more bit of definition:
+
+> "**Perfidy** constitutes a breach of the laws of war and so is a war crime, as it degrades the protections and mutual restraints developed in the interest of all parties, combatants and civilians."
 
 Perfidy, and acting in bad faith in this way, is considered a war crime. With so many conversations about social justice conjuring up war analogies, I found this particularly unsettling. Even in literal war, where the goal is to harm, maim, and kill, perfidy is against the rules.
 
