@@ -122,7 +122,9 @@ Because we recognize a contradiction between what we're being told to believe by
 
 When I initially began writing about bad faith, I had a clear thesis mind: "Bad faith is bad, and we need to stop acting in bad faith in social justice contexts." The solution: "Engaging in good faith!"
 
-And now I'm not so sure. I spent the better part of a day reading old Kierkegaard, passages from the Christian Bible, and entries in the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu) (something approximating my own personal Bible). 
+And now I'm not so sure. 
+
+I spent the better part of a day reading old Kierkegaard, passages from the Bible and Christian theologist's expositions, and entries in the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu) (something approximating my own personal Bible). 
 
 If you know me even a little bit, "Sam's reading the Bible again" is a cause for concern.
 
