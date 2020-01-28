@@ -130,7 +130,7 @@ If you know me even a little bit, "Sam's reading the Bible again" is a cause for
 
 What I realized, in doing all my digging, was that I was actually acting in bad faith against "bad faith." _What a tangled web we weave, amiright?_
 
-This probably should have surprised me, but it was a feeling I've come to become acquainted with: recognizing that I thought I knew something, then, upon thorough consideration, was really only acting as though I knew something, all in the name of social justice.
+This probably should have surprised me, but it was a feeling I've become acquainted with: recognizing that I thought I knew something, then, upon thorough consideration, was really only acting as though I knew something, all in the name of social justice.
 
 One of the more staggering and early examples of this was a conversation I was having with my cousin about Privilege Theory. He was visiting me in Austin, and we were at one of my favorite spots to get veggie burger, halfway through our lunch. This was years ago, well into my time of being a professional social justice person, but before I had started to explore social justice dogma.
 
