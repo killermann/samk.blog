@@ -162,7 +162,7 @@ I felt a pit in my stomach, and it wasn't the half pound of sweet potato fries I
 
 ## One Cannot Serve Two Masters
 
-Is another Bible verse incoming? Don't sound the alarm just yet. The rabbit hole of "bad faith" popped me out on the other side remembering this idea:
+Is another Bible verse incoming? Yes, but don't sound the alarm just yet. The rabbit hole of "bad faith" popped me out on the other side remembering this idea:
 
 > [Matthew 6:24](https://biblehub.com/matthew/6-24.htm) - "No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other."
 
