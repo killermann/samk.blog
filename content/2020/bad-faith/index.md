@@ -168,21 +168,21 @@ Is another Bible verse incoming? Yes, but don't sound the alarm just yet. The ra
 
 As I've seen more and more examples of bad faith in social justice arguments, positions, stances, and just the general ways people engage with others. 
 
-The ways we create false dichotomies of "us" and "them," for example, when social justice is really about all of us. Or the ways we write people off, toss them aside as disposable, and [over-react to pushback](/reacting-to-social-justice-pushback/). 
+The ways we create false dichotomies of "us" and "them," for example, when social justice is really about all of us. Or the ways we write people off, toss them aside as disposable, and [over-react to pushback](/reacting-to-social-justice-pushback/).
 
-The ways we [unify against nuance](https://www.itspronouncedmetrosexual.com/2019/03/binary-thinking/), and have increasingly started to view anyone who is advocating for nuance as siding with oppression, falling back on absolute ["-ism" language like "White Supremacist" where "bad" would probably be more accurate](https://www.itspronouncedmetrosexual.com/2019/07/maybe-we-should-stop-using-white-supremacist-and-bad-interchangeably/).
+How we [unify against nuance](https://www.itspronouncedmetrosexual.com/2019/03/binary-thinking/), and have increasingly started to view anyone who is advocating for nuance as siding with oppression, falling back on absolute ["-ism" language like "White Supremacist" where "bad" would probably be more accurate](https://www.itspronouncedmetrosexual.com/2019/07/maybe-we-should-stop-using-white-supremacist-and-bad-interchangeably/).
 
 And all the paradoxes present in SJD, the self-contradicting "truths" we advance (like the ["Pay Them" Paradox](/pay-them-paradox)), that don't paint a path forward for us to walk so much as they draw a line in the sand between being a good person and a bad person. "If you don't agree, you're not one of us."
 
 It's now clear to me that bad faith isn't reinforcing social justice dogma, and something we need to confront and diminish in order to move toward living social justice. That was my original thesis, but as I've shared above, my mind was open to being changed, and it changed.
 
-I now see all the bad faith as a symptom _of_ social justice dogma, and as little glimpses of resistance to the authority of SJD, cracks in the foundation, and opportunities to move forward toward something more authentic. 
+I now see all the bad faith as a symptom _of_ social justice dogma, and as little glimpses of resistance to the authority of SJD, cracks in the foundation, signs that SJD might be giving way to something else, opportunities to move forward toward something more authentic. 
 
-It's like we're simultaneously trying to serve two masters: one is social justice dogma, the absolute authority and no questions needed "correct" way to think, believe, and act right now, even if it's not getting us closer to where we want to go; and the other is living, breathing, actualized and authentic living social justice, the goal we're trying to accomplish, and the steps we'll need to take to get there.
+It's like we're simultaneously trying to serve two masters: one is social justice dogma, the absolute authority and no questions needed "correct" way to think, believe, and act right now, even if it's not getting us closer to where we want to go; and the other is living, breathing, actualized and authentic living social justice, the goals we're trying to accomplish, and the steps we'll need to take to get there.
 
 Whenever I see someone acting in bad faith now, I won't help but be able to see the conflict inside of them: less perfidy and more double-mindedness, recognition of the self-contradictory nature of SJD, and the lack of paths forward offered by those strategies, living social justice struggling to emerge.
 
-Where SJD has risen a faith system, it stands ostensibly in opposition to oppression. But it can't exist without oppression, without the inequitable power dichotomies that fuel oppression, and therefore it feels ill-suited to move us beyond these systems. 
+Where SJD has risen as a faith system of sorts, it stands ostensibly in opposition to oppression. But it can't exist without oppression, without the inequitable power dichotomies that fuel oppression, and therefore it feels ill-suited to move us beyond these systems. 
 
 I'm seeing that as something many of us are coming to realize, albeit slowly, or in isolation from one another. It creates a double-mindedness and a double-heartedness of "I know this won't make sense in the future I'm trying to create, but it's a sacrifice and a compromise of what is right that I'm willing to make in order to get there." 
 
