@@ -91,7 +91,7 @@ In social justice, this shows up when we are introduced to someone via a particu
 
 On the flipside, if we're first introduced to someone in a way that highlighted oppression, we'll only see their future actions, or things we learn about them, through that lens. Once oppressive, always oppressive.
 
-_No, no, no, I don't think they're sexist. You must be misunderstanding. Remember, they wrote that amazing book about anti-racism?_
+_No, no, no, I don't think they're sexist. You must be misunderstanding. Remember, they wrote that amazing book about anti-racism._
 
 ## "Most people probably feel the same way I do about this."
 
@@ -109,7 +109,7 @@ _I'm speaking for all People of Color when I say that everyone should support af
 
 ## Name Them to Tame Them
 
-Talking about social justice issues is already hard enough, adding into the mix the dogmatic (and unquestionable) bent within our movement, and we're setting ourselves up to fail. And that would be if we weren't subjected to the cognitive biases I walked us through above.
+Talking about social justice issues is already hard enough. Adding into the mix the dogmatic (and unquestionable) bent within our movement, and we're setting ourselves up to fail. And that would be if we weren't subjected to the cognitive biases I walked us through above.
 
 But I'm not trying to be a pessimist here (and doing my best to challenge any [pessimism bias](https://en.wikipedia.org/wiki/Optimism_bias#Pessimism_bias)). I actually believe that, with all of this in mind, we're in a good spot: we can (try to) do something about it.
 
