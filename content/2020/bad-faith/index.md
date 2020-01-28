@@ -68,9 +68,9 @@ That is, if the thing we're doing is tantamount to a war crime, we do something 
 
 The terms "double-mindedness" and "double-heartedness" come up a lot when you dig into the etymology of "bad faith." They're wonderful words that immediately evoke a sense of betrayal.
 
-In my noticings of bad faith throughout Social Justice Land, I was always focused on duplicity in the sense that people were deceiving others. I felt like, whenever someone was operating from a starting place of bad faith, they were misleading, tricking, or manipulating others.
+In my noticings of bad faith throughout Social Justice Land, I was always focused on duplicity in the sense that people were deceiving others. It felt like whenever someone was operating from a starting place of bad faith, they were misleading, tricking, or manipulating others.
 
-I hadn't considered the ways we betray ourselves, or the more literal interpretation of "faith that isn't good, or strong." Uncertain faith.
+I hadn't considered the ways we betray ourselves, or the more literal interpretation of "faith that isn't good, or strong." _Uncertain_ faith.
 
 I found that in the [writings of Kierkegaard](https://www.jstor.org/stable/j.ctt1d2dm7b) he devoted entire passages to double-mindedness, distilling down [two types](https://en.wikipedia.org/wiki/Double-mindedness#cite_ref-2):
 
@@ -112,7 +112,9 @@ Unsurprisingly, the conclusion in the scripture is that one should be of a singl
 
 SJD operates much like a church, and the authorities we revere, while we'd never think of them as God or gods, hold an absolute power. They're not to be questioned. Their word is law.
 
-Taking this back to philosophy, we can suggest a reason _for_ bad faith. That is, "Why would someone have bad faith, or act in bad faith?" One answer is the Kierkegaardian explanation of bad faith I shared earlier: 
+Taking this back to philosophy, we can suggest a reason _for_ bad faith. That is, we can try to answer "Why would someone have bad faith, or act in bad faith?" 
+
+One answer is the Kierkegaardian explanation of bad faith I shared earlier: 
 
 Because we recognize a contradiction between what we're being told to believe by our god(s), and what we actually think makes sense.
 
