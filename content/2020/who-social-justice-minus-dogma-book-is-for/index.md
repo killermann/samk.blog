@@ -58,4 +58,4 @@ Because I don't think we have much more time to make things right. Downstream, t
 
 And even further downstream, the people I'm really, truly, bottom-line and at-the-end-of-the-day writing this for are the same people I've dedicated my life to: everyone currently suffering from oppression and systems of domination, whose lies are hanging in the balance, in desperate need for a transition to living social justice.
 
-If you're someone who wants to see that transition, I'm writing this for you. There's 
+If you're someone who wants to see that transition, I'm writing this for you.
