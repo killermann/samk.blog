@@ -211,7 +211,7 @@ If it's not all three of those things, it doesn't mean it's out, but it's more l
 
 But the things that were all three would keep popping up. 
 
-I'd see some idea go viral online, and it would show up in every space I was in for the next few months. A conference I was keynoting would have a workshop topic that related to the idea, listservs I'm on would end up discussing it, organizer roundtables would be bringing it up proactively.
+I'd see some idea go viral online, and it would show up in every space I was in for the next few months. A conference I was keynoting would have a workshop topic that related to the idea, listservs I'm on would end up discussing it, organizers' roundtables would be bringing it up proactively.
 
 One signal I'd look out for, that I know most people don't have access to, would be the number of emails I'd get, and over what time period. 
 
