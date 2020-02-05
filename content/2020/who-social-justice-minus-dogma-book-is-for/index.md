@@ -56,6 +56,6 @@ And I'm hoping that I can make that decision easy, whether you're already on the
 
 Because I don't think we have much more time to make things right. Downstream, the people I'm writing this for are all the people who say, "Yeah, I'd support social justice in general, but..." and cite dogmatic activism as their reason for opposition.
 
-And even further downstream, the people I'm really, truly, bottom-line and at-the-end-of-the-day writing this for are the same people I've dedicated my life to: everyone currently suffering from oppression and systems of domination, whose lies are hanging in the balance, in desperate need for a transition to living social justice.
+And even further downstream, the people I'm really, truly, bottom-line and at-the-end-of-the-day writing this for are the same people I've dedicated my life to: everyone currently suffering from oppression and systems of domination, whose lives are hanging in the balance, in desperate need for a transition to living social justice.
 
 If you're someone who wants to see that transition, I'm writing this for you.

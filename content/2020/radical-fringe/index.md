@@ -40,7 +40,7 @@ But when you take more than a third of a second, and think through the implicati
 
 1. **Even if their tactics are similar**, _what_ they're arguing for is absolutely dissimilar. The policies, beliefs, stances, and values of the "extreme left" and "extreme right" are absurdly different. As a venn diagram, they're two circles with room for a galaxy between them.
 2. **The tactics of "moderates" and "centrists"** can also be quite extreme. Look no further than the moderate billionaires who spend hundreds of millions of dollars in an election cycle to advance their belief system, or shape politics to their liking. What's more extreme than the phrase "spend _hundreds of millions of dollars_"?
-3. **It ignores history, and obfuscates the future.** What comprises the political platforms of "left" and "right" is contextual: a lot of what was "extreme left" a few years ago is "centrist" today, or even "moderate right."
+3. **It ignores history and obfuscates the future.** What comprises the political platforms of "left" and "right" is contextual: a lot of what was "extreme left" a few years ago is "centrist" today, or even "moderate right."
 
 Horseshoe Theory is like saying a banana and a lemon are almost the same thing, "Because, well, look -- they're both extremely yellow, aren't they?"
 
