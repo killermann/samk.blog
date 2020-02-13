@@ -3,8 +3,8 @@ title: The Social Justice, Minus Dogma Book
 description: "Sam Killermann is publicly writing a book about Social Justice, Minus Dogma. Subscribe to follow along."
 ---
 
-I'm blogging my newest book! I created [a special mailing list for everyone who wants to follow along and participate](https://hues.ck.page/353dcc23a0). You can also just come back to this page periodically, or subscribe [via RSS](index.xml).
+I blogged my newest book! Below you can find all the entries I wrote in January as progress toward a book about problematic activism and social justice dogma.
 
-P.S. I don't know the title yet, so I'm just calling it "The SJMD Book" for now, following in the vein of the course and podcast and other resources I've created that led to this book.
+P.S. I don't know the title yet, so I'm just calling it "The Social Justice, Minus Dogma [SJMD] Book" for now, following in the vein of the course and podcast and other resources I've created that led to this book.
 
-<center><a target="_blank" rel="noopener noreferrer" href="https://hues.ck.page/353dcc23a0" class="button">Join the SJMD Book Mailing List</a></center>
+<center><a target="_blank" rel="noopener noreferrer" href="https://hues.ck.page/85cc4bc6f7" class="button">Join the SJMD Book Mailing List</a></center>

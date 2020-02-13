@@ -7,6 +7,10 @@ description: Books written by author and social justice comedian Sam Killermann,
 ---
 I&#8217;ve published a few books, written a few more, and contributed chapters to more still. Below are my books that are currently out and available for purchase.
 
+<div class="pad chameleon-border" style="font-family: sans-serif; margin: 2em auto; background: var(--bg-faint); border-radius: 4px; border-width: 4px; border-style: dotted; box-shadow: 0px 5px 10px rgba(0,0,0,.2);">
+⚠️ Hey there! I have a new book coming out soon. It's all about problematic activism and social justice dogma. Want an email when it's available for pre-order? <a href="https://hues.ck.page/85cc4bc6f7">Join the List &rarr;</a>
+</div>
+
 **_A generally important note:_** every book I&#8217;ve written (or co-written) is available as a free .PDF on the book&#8217;s website, in addition to being available for sale in bookstores/[online][1]. I do this to prevent money from being a barrier for education, so please don&#8217;t feel bad about taking advantage of this if it&#8217;s what you need/want. You cannot steal my books: I&#8217;ve already gifted them to you.
 
 If you want an email when I publish the next one, the best thing you can do is sign up for [my personal email list][2].
