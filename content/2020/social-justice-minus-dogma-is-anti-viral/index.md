@@ -125,7 +125,7 @@ That exploration has moved me from being an answer-less [wonderer](/tags/wonder/
 
 I still don't think I have all the answers regarding SJD, or the idea of moving beyond the dogma to living social justice. I do, however, have a few. And, more importantly, I know what questions we need to be asking.
 
-In the coming weeks, I'll be using [this blog](https://samk.blog) as a platform for just that. I'll be asking the questions about Social Justice Dogma that I think we need to start answering -- as a community, movement, and/or group of disparate people bound together on a path toward equity. 
+In the coming weeks, I'll be using [this blog](https://www.samk.blog) as a platform for just that. I'll be asking the questions about Social Justice Dogma that I think we need to start answering -- as a community, movement, and/or group of disparate people bound together on a path toward equity. 
 
 I'm doing this here because it's a better place for [public thinking](/topics/public-thinking) than [It's Pronounced Metrosexual](https://www.itspronouncedmetrosexual.com). On IPM, I have a much larger reader base, I more often publish finished work where I'm sure I know what I want to say, and therefore it's a place where the risk of my own ideas being received and shared as gospel are higher than here.
 
