@@ -1,4 +1,4 @@
-baseURL = "https://samk.blog/"
+baseURL = "https://www.samk.blog/"
 languageCode = "en-us"
 title = "Sam Killermann's Blog"
 enableRobotsTXT = true

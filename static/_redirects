@@ -1,4 +1,4 @@
-https://samkillermannblog.netlify.com/*       https://www.samkillermann.com/:splat      301!
+https://samkillermannblog.netlify.com/*       https://www.samk.blog/:splat      301!
 /feed/                                        /index.xml
 /:slug/amp/                                   /:slug/
 /category/*                                   /categories/:splat

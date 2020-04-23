@@ -118,4 +118,4 @@ The end goal being for me to be in control of my phone, not the other way around
  [2]: /numbers-rule-my-life/
  [3]: https://inthemoment.io/
  [4]: https://en.wikipedia.org/wiki/Moving_the_goalposts
- [5]: https://www.samkillermann.com/tag/mindfulness/
+ [5]: https://www.samk.blog/tag/mindfulness/

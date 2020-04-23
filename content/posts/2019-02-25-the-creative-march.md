@@ -142,7 +142,7 @@ If you&#8217;re marching along with me, [let me know][12]! I&#8217;d love to hea
  [3]: https://www.itspronouncedmetrosexual.com/2019/02/defining-lgbtq-guide-to-gender-sexuality-terminology/
  [4]: https://thesafezoneproject.com/introducing-safe-zone-train-the-trainer-retreat-guide/
  [5]: https://www.itspronouncedmetrosexual.com/2019/01/introducing-the-social-justice-compass/
- [6]: https://www.samkillermann.com/tag/challenge/
+ [6]: https://www.samk.blog/tag/challenge/
  [7]: https://tim.blog/2019/02/18/jim-collins/
  [8]: https://www.jimcollins.com
  [9]: https://www.jimcollins.com/concepts/twenty-mile-march.html

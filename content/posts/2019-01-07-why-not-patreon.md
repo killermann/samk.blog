@@ -164,7 +164,7 @@ I like those odds.
 
  [1]: https://patreon.com
  [2]: https://samtalkto.us
- [3]: https://www.samkillermann.com/category/technolophizing/work-dot-com/
+ [3]: https://www.samk.blog/category/technolophizing/work-dot-com/
  [4]: https://itspronouncedmetrosexual.com/2018/09/the-state-of-this-site-or-funding-online-work-in-2018-an-infographic/
  [5]: https://sixthsensereader.org/about-the-book/abcderium-index/spidey-sense/
  [6]: http://time.com/longform/teaching-in-america/

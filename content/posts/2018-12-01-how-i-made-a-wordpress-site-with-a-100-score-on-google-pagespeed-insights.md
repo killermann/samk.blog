@@ -185,4 +185,4 @@ We&#8217;ll see how this goes. I&#8217;ll update this post, or link to a sequel,
  [15]: /popular/
  [16]: https://support.getshifter.io/
  [17]: https://premium.wpmudev.org/blog/brutalist-web-design-where-did-it-come-from-and-why-is-it-back/
- [18]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.samkillermann.com%2F&tab=desktop
+ [18]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.samk.blog%2F&tab=desktop
