@@ -36,11 +36,11 @@ In [this book](/topics/sjmd-book/), I'll be writing about this, and doing my bes
 
 So, if you disagree that financial transparency is something we need in social justice, please tell me why. Here are some outlets to do so, in order of my preference (from most ideal to least):
 
-- [Comment on this post 👇](https://www.samkillermann.com/arguments-against-financial-transparency/#reply) (public)
+- [Comment on this post 👇](https://www.samk.blog/arguments-against-financial-transparency/#reply) (public)
 - Reply to me [on Twitter: @Killermann](https://twitter.com/killermann) (public)
 - Fill out [this interactive form](https://hues.typeform.com/to/zbzjII) (private, can be anonymous)
 - Use my general [contact form](/contact/) (private, can be anonymous)
-- Email me yo@samkillermann.com (private, not anonymous -- but feel free to create an anonymous account first)
+- Email me yo@samk.blog (private, not anonymous -- but feel free to create an anonymous account first)
 
 I've probably heard most of the arguments you'll make, so be ready to go a few "Why?"s deep, or provide your rationales in a [3-dimensional way](https://www.itspronouncedmetrosexual.com/2018/05/3-dimensional-social-justice/) (e.g., highlighting the downstream benefits/setbacks, pointing out harmful implications I might not be aware of, scale issues, or more). Also, one thing I'll be particularly sensitive to in any arguments against this is whether or not [they're justifying one injustice today to get us to a socially-just tomorrow](https://www.itspronouncedmetrosexual.com/2019/05/justifying-injustice-for-social-justice/).
 

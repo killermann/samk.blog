@@ -16,7 +16,7 @@ topics:
 
 Imagine you're in a situation where a reporter is asking you a question regarding a social identity you hold (e.g., your race, gender, class, religion). They're working on a story covering a certain dimension of that identity's experience in the world, and looking for a quote from you.
 
-Now, if they've kept up with social justice, they know that [they can't ask you to be a Spokesperson for All of Your Identity](https://www.samkillermann.com/passing-the-mic/#don-t-make-a-marginalized-person-the-spokesperson-for-their-people) ("Move out of the way, I, or you can call me 'What Poor People Think', have arrived!"). 
+Now, if they've kept up with social justice, they know that [they can't ask you to be a Spokesperson for All of Your Identity](https://www.samk.blog/passing-the-mic/#don-t-make-a-marginalized-person-the-spokesperson-for-their-people) ("Move out of the way, I, or you can call me 'What Poor People Think', have arrived!"). 
 
 You'll also know that you can't speak for other people, even people of who share that identity with you. And if you're following [social justice dogma](/what-is-social-justice-dogma/#definition) (SJD), you'll likely be wanting to [pass the mic](/passing-the-mic/) to someone more oppressed anyhow.
 
@@ -48,7 +48,7 @@ Sometimes that means sharing with others a perspective on an identity we hold. E
 
 All the times, we do our best to get the facts, and get them right. And, simultaneously, we are trying not to reify oppression, and toe the line of social justice dogma, so we’re cautious about how we ask questions, and how we report on what we hear.
 
-So we end up reporting things like, "People of Color don't want ______," or "It makes women feel unsafe when you ______." But we have misgivings about it. We know that [no group is a monolith](https://www.samkillermann.com/passing-the-mic/#marginalized-people-aren-t-a-monolith).
+So we end up reporting things like, "People of Color don't want ______," or "It makes women feel unsafe when you ______." But we have misgivings about it. We know that [no group is a monolith](https://www.samk.blog/passing-the-mic/#marginalized-people-aren-t-a-monolith).
 
 There are two competing forces pushing and pulling us every time we want to share some identity-based truth:
 
@@ -123,7 +123,7 @@ Depending on our knowledge of the subject in question, comfort with [pushing bac
 
 As long as they're a marginalized person, speaking from their own experience, we usually accept it as fact. 
 
-As a [power inverse](https://www.itspronouncedmetrosexual.com/2019/03/the-social-justice-power-inverse/) of the [Shoot the Messenger cornerstone](https://www.samkillermann.com/cornerstones-of-social-justice-dogma/#shoot-the-messenger) of SJD, this might be, "Trust all marginalized people."
+As a [power inverse](https://www.itspronouncedmetrosexual.com/2019/03/the-social-justice-power-inverse/) of the [Shoot the Messenger cornerstone](https://www.samk.blog/cornerstones-of-social-justice-dogma/#shoot-the-messenger) of SJD, this might be, "Trust all marginalized people."
 
 If they're a dominant group member, we'll either flag it as "plausible" and ask around to corroborate their reporting (asking marginalized people to weigh in); or toss it out altogether, saying something like, ["Pass the mic."](/passing-the-mic/) Then we'll look for a marginalized person to speak from their own experience on the subject.
 
@@ -157,7 +157,7 @@ But if we're being good quasi-journalists, and we have the time, we'll do our be
 
 Where with earlier truth-seeking, SJD offered us a clear path to follow ("Believe the marginalized person."), when it comes to data and research and statistics we're more on our own.
 
-If we want the simpler path, SJD still offers us some guidance. There are some data sources we know to question (some messengers we can shoot), and any data that suggest that oppression isn't the problem, or that things are getting better and oppression is a thing of the past, we can toss that out thanks to the [Seconded Law cornerstone](https://www.samkillermann.com/cornerstones-of-social-justice-dogma/#the-seconded-law).
+If we want the simpler path, SJD still offers us some guidance. There are some data sources we know to question (some messengers we can shoot), and any data that suggest that oppression isn't the problem, or that things are getting better and oppression is a thing of the past, we can toss that out thanks to the [Seconded Law cornerstone](https://www.samk.blog/cornerstones-of-social-justice-dogma/#the-seconded-law).
 
 But otherwise, we really have to figure things out for ourselves. 
 

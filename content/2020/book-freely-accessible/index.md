@@ -67,7 +67,7 @@ I've emptied my patience reservoir when it comes to people responding "Maybe!" t
 
 - **Offering me more money doesn't change anything.** I've been offered everything from low four-figure advances to high five-figure ones, and it's not made a difference. I'm poor, but money doesn't motivate me (maybe that "but" could be exchanged with a "because"). I've never been offered a gonzo advance like a lot of people -- millions of dollars to write a book _wuttt_ -- but I hope still wouldn't make a difference. 
 - **Making a later edition freely accessible doesn't change anything.** It has to be the first edition, and every other edition we publish together. A limited run, or "the 2nd edition can have a free version," don't cut it.
-- **"The book will be available for free in public libraries" doesn't change anything.** Yes, I know about [libraries, even if they confound me](https://www.samkillermann.com/libraries/). But a lot of people don't. Or they can't access them. Or they live in places without them.
+- **"The book will be available for free in public libraries" doesn't change anything.** Yes, I know about [libraries, even if they confound me](https://www.samk.blog/libraries/). But a lot of people don't. Or they can't access them. Or they live in places without them.
 - **Pledging a percentage of sales or profits doesn't change anything.** Even if that % was 100, it still wouldn't create the accessibility that I think needs to be the bar. The minimum.
 
 Maybe I'm misspeaking: pledging percentages of sales, the amount of the advance, etc. -- they _do_ make a difference. For example, I love the idea of donating percentages of profits. I think that makes the project more socially-just than otherwise. They just don't make _up_ the difference. 

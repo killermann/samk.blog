@@ -32,7 +32,7 @@ If you haven't heard, I'm not going to do it justice here (nor try), but [Horses
 
 Thus, the metaphor of a horseshoe-shaped political spectrum was born:
 
-![Horsehoe theory diagram showing the extreme right and extreme left closer together than the moderate right and moderate left](https://www.samkillermann.com/radical-fringe/horseshoe-theory-diagram-1200.jpg)
+![Horsehoe theory diagram showing the extreme right and extreme left closer together than the moderate right and moderate left](https://www.samk.blog/radical-fringe/horseshoe-theory-diagram-1200.jpg)
 
 Horseshoe Theory is one of those things you stumble upon, maybe mid conversation, and at a glance seems right. "Yeah! The extreme left and right are both absolutist, uncompromising, and unrealistic. They're basically the same!"
 
@@ -54,7 +54,7 @@ I want to zoom in on that. For the rest of this essay I'll be using the terms "c
 
 When we consider time as the main ingredient, as opposed to "extremity" (again, a woefully vague word, that leads to the bad math above), something interesting happens:
 
-![A timeline of past, present, and future with consvervatism labeled as past, moderatism labeled as present, and progressivism labeled as the future](https://www.samkillermann.com/radical-fringe/timeline-of-conservatism-to-progressivism-1200.jpg)
+![A timeline of past, present, and future with consvervatism labeled as past, moderatism labeled as present, and progressivism labeled as the future](https://www.samk.blog/radical-fringe/timeline-of-conservatism-to-progressivism-1200.jpg)
 
 What we see here is, I think, a fairly accurate, although still simplified, depiction of our modern political reality, where:
 

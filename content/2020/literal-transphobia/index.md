@@ -29,7 +29,7 @@ People really latched onto the "fear" part of "phobia" being used to create the 
 
 This was one of those things that if you were a gender and sexuality educator -- especially prior to, say, five years ago -- easily wore on your patience. The first few times you heard it, you'd say, "Yeah, I totally get it, they're similar words, and it's confusing." 
 
-But by the umpteenth time, it was hard not to cut people off, or assume malicious intentions. Because we knew the "correct" definition of the term, it was easy to assume they should, too. And that [any pushback was derailment](https://www.samkillermann.com/reacting-to-social-justice-pushback/).
+But by the umpteenth time, it was hard not to cut people off, or assume malicious intentions. Because we knew the "correct" definition of the term, it was easy to assume they should, too. And that [any pushback was derailment](https://www.samk.blog/reacting-to-social-justice-pushback/).
 
 Adding to this frustration, even when people weren't confused about the word, and they did know _exactly_ what it meant, they'd still chime in. 
 

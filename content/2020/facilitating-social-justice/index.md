@@ -71,7 +71,7 @@ Connected to the ideas of agency and participation, participants in our training
 
 Hot diggity! That's some heavy truth. "Do you agree?", I might ask you, but this post isn't a facilitation, this is a lecture. So it really doesn't matter whether you agree or not. 
 
-(I'm kidding -- it totally matters, and that's why I've opened up [comments](https://www.samkillermann.com/facilitating-social-justice/#reply) on these essays, and why I'm actually reading my emails -- two things I am generally not enthusiastic about.)
+(I'm kidding -- it totally matters, and that's why I've opened up [comments](https://www.samk.blog/facilitating-social-justice/#reply) on these essays, and why I'm actually reading my emails -- two things I am generally not enthusiastic about.)
 
 For what it's worth, _I_ totally agree.
 
